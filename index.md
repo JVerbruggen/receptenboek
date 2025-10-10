@@ -350,8 +350,10 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 ## 📖 Alle Recepten
 
-<details markdown="1">
+<details>
 <summary>Krieltjessalade met Mediterrane kipfilet</summary>
+<div markdown="1">
+
 
 # Krieltjessalade met Mediterrane kipfilet
 
@@ -400,10 +402,14 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Snijd de kip in plakken.
 - Verdeel de krieltjessalade over de borden en leg de kip er bovenop
 
+
+</div>
 </details>
 
-<details markdown="1">
+<details>
 <summary>Piri-piri garnalen met tomatensalsa</summary>
+<div markdown="1">
+
 
 # Piri-piri garnalen met tomatensalsa
 
@@ -454,11 +460,14 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Verdeel de salsa over de borden en besprenkel met de saus.
 - Garneer met de eventuele overige citroenpartjes.
 
+
+</div>
 </details>
 
 
-<details markdown="1">
+<details>
 <summary>Aubergine fatteh met krokante kikkererwten</summary>
+<div markdown="1">
 
 # Aubergine fatteh met krokante kikkererwten
 
@@ -520,10 +529,13 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Garneer met de peterselie.
 - Serveer met het knapperige platbrood en de citroenpartjes.
 
+</div>
 </details>
 
-<details markdown="1">
+<details>
 <summary>Mujaddara met harissa, cherrytomaten en komkommeryoghurt</summary>
+<div markdown="1">
+
 
 # Mujaddara met harissa, cherrytomaten en komkommeryoghurt
 
@@ -580,10 +592,14 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Garneer met de overige verse kruiden.
 - Serveer de citroenpartjes ernaast.
 
+
+</div>
 </details>
 
-<details markdown="1">
+<details>
 <summary>Bulgur met harissa-portobello, knapperige kikkererwten en tomaat-komkommersalade</summary>
+<div markdown="1">
+
 
 # Bulgur met harissa-portobello, knapperige kikkererwten en tomaat-komkommersalade
 
@@ -637,10 +653,14 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Verdeel de portobello, kikkererwten en tomaat-komkommersalade erover.
 - Garneer met de sambalmayonaise.
 
+
+</div>
 </details>
 
-<details markdown="1">
+<details>
 <summary>Linguine met grote garnalen</summary>
+<div markdown="1">
+
 
 # Linguine met grote garnalen
 
@@ -687,10 +707,14 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 ## 6 Serveren
 - Verdeel de pasta over de borden en garneer met het basilicum, de overige puntpaprika, de geraspte Parmigiano Reggiano en de grote garnalen.
 
+
+</div>
 </details>
 
-<details markdown="1">
+<details>
 <summary>Parelcouscous met chorizo en courgette</summary>
+<div markdown="1">
+
 
 # Parelcouscous met chorizo en courgette
 
@@ -737,10 +761,14 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Garneer met de zongedroogde tomaten.  
 - Verkruimel de witte kaas erboven.  
 
+
+</div>
 </details>
 
-<details markdown="1">
+<details>
 <summary>Burger met aardappelpartjes en champignons</summary>
+<div markdown="1">
+
 
 # Burger met aardappelpartjes en champignons
 
@@ -785,10 +813,14 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 ## 6 Serveren
 - Serveer de burger met de aardappelpartjes. Serveer de gebakken groenten en de salade ernaast.
 
+
+</div>
 </details>
 
-<details markdown="1">
+<details>
 <summary>Fusion risotto met misopaddenstoelen en paksoi</summary>
+<div markdown="1">
+
 
 # Fusion risotto met misopaddenstoelen en paksoi
 
@@ -851,10 +883,14 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Verdeel de risotto over diepe borden en leg de misochampignons erbovenop.
 - Garneer met het sesamzaad, de cashewstukjes en het groene gedeelte van de bosui.
 
+
+</div>
 </details>
 
-<details markdown="1">
+<details>
 <summary>Zoete-aardappelstoof met zure room en jalapeño</summary>
+<div markdown="1">
+
 
 # Zoete-aardappelstoof met zure room en jalapeño
 
@@ -917,10 +953,14 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Schep de zure room erbovenop. Garneer met de pompoenpitten en de achtergehouden jalapeño.
 - Serveer met de limoenpartjes.
 
+
+</div>
 </details>
 
-<details markdown="1">
+<details>
 <summary>Linzencurry met zoete aardappel en naan</summary>
+<div markdown="1">
+
 
 # Linzencurry met zoete aardappel en naan
 
@@ -986,10 +1026,14 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Serveer de curry met de naan en salade ernaast.
 - Garneer met de overige verse kruiden en serveer de labnesaus ernaast.
 
+
+</div>
 </details>
 
-<details markdown="1">
+<details>
 <summary>Honing mosterd zalm met geroosterde krieltjes</summary>
+<div markdown="1">
+
 
 # Honing mosterd zalm met geroosterde krieltjes
 
@@ -1044,10 +1088,14 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 ## 6 Serveren
 - Verdeel de zalm over de borden. Serveer met de geroosterde krieltjes en groenten.
 
+
+</div>
 </details>
 
-<details markdown="1">
+<details>
 <summary>Sweet & sticky rundergehaktballetjes</summary>
+<div markdown="1">
+
 
 # Sweet & sticky rundergehaktballetjes
 
@@ -1099,10 +1147,14 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Verdeel de puree over de borden. Schep de groenten en de gehaktballetjes ernaast.
 - Besprenkel met de saus uit de pan.
 
+
+</div>
 </details>
 
-<details markdown="1">
+<details>
 <summary>Eén-pot-spaghetti met tomatensaus</summary>
+<div markdown="1">
+
 
 # Eén-pot-spaghetti met tomatensaus
 
@@ -1150,10 +1202,14 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Schep de spaghetti erop.
 - Garneer met de kruidenroomkaas, de Parmigiano Reggiano, de overige bladpeterselie en het overige basilicum.
 
+
+</div>
 </details>
 
-<details markdown="1">
+<details>
 <summary>Rijstbowl met gebakken ei en zoete Aziatische saus</summary>
+<div markdown="1">
+
 
 # Rijstbowl met gebakken ei en zoete Aziatische saus
 
@@ -1200,10 +1256,14 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Garneer met de verse kruiden en cashewnoten.
 - Serveer de limoenpartjes ernaast.
 
+
+</div>
 </details>
 
-<details markdown="1">
+<details>
 <summary>Spaghetti met champignonroomsaus en spekjes</summary>
+<div markdown="1">
+
 
 # Spaghetti met champignonroomsaus en spekjes
 
@@ -1252,10 +1312,14 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 ## 6 Serveren
 - Verdeel de spaghetti over de borden. Garneer met de overige krulpeterselie en de pecorino.
 
+
+</div>
 </details>
 
-<details markdown="1">
+<details>
 <summary>Kipfilet in spinazie-roomsaus</summary>
+<div markdown="1">
+
 
 # Kipfilet in spinazie-roomsaus
 
@@ -1308,11 +1372,15 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Verdeel de aardappelen over de borden en schep de kipfilet erbij.
 - Serveer met de romige spinaziesaus en garneer met de peterselie.
 
+
+</div>
 </details>
 
 <!-- template -->
-<details markdown="1">
+<details>
 <summary>Template</summary>
+<div markdown="1">
+
 
 # Template
 
@@ -1330,6 +1398,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 ## 1 Voorbereiden
 
 
+
+</div>
 </details>
 <!-- end of template -->
 
