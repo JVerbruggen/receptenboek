@@ -1,1 +1,37 @@
-markdown: GFM
+title: Receptenboek
+description: Een collectie van heerlijke recepten
+url: "https://jverbruggen.github.io"
+baseurl: "/receptenboek"
+
+markdown: gfm
+highlighter: rouge
+theme: minima
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Build settings
+exclude:
+  - .git/
+  - .github/
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "recipes"
+    values:
+      layout: "recipe"
