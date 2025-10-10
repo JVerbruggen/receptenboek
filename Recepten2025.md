@@ -9,9 +9,9 @@
 ## Benodigdheden
 4 personen
 
-Ingredient | Hoeveelheid
-------------|-------------
- Krieltjes  | 800g        
+| Ingredient | Hoeveelheid |
+|------------|-------------|
+| Krieltjes  | 800g        |
 | Kipfilet  | 4 stuks |
 | Mediterrane kruiden (kipfilet)  | oregano, tijm, rozemarijn, salie, lavasblad, peterselie, knoflookpoeder, paprikapoeder, uipoeder, kurkuma, zwarte peper |
 | Rode ui | 1 |
