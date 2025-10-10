@@ -153,6 +153,7 @@ hr {
 
 Welkom bij mijn collectie van heerlijke recepten! Hier vind je een uitgebreide verzameling van gerechten die ik heb uitgeprobeerd en verzameld.
 
+{::nomarkdown}
 <input type="text" class="search-box" id="recipeSearch" placeholder="🔍 Zoek recepten..." onkeyup="filterRecipes()">
 
 <div class="recipe-grid" id="recipeGrid">
@@ -309,7 +310,9 @@ Welkom bij mijn collectie van heerlijke recepten! Hier vind je een uitgebreide v
     </div>
   </div>
 </div>
+{:/}
 
+{::nomarkdown}
 <script>
 function filterRecipes() {
   const searchTerm = document.getElementById('recipeSearch').value.toLowerCase();
@@ -328,6 +331,7 @@ function filterRecipes() {
   });
 }
 </script>
+{:/}
 
 ## Over dit receptenboek
 
@@ -1308,6 +1312,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 <!-- end of template -->
 
 
+{::nomarkdown}
 <button class="back-to-top" id="backToTop" onclick="scrollToTop()">↑</button>
 
 <script>
@@ -1396,6 +1401,7 @@ function filterRecipes() {
   }
 }
 </script>
+{:/}
 
 ---
 
