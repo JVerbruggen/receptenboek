@@ -350,7 +350,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 ## 📖 Alle Recepten
 
-<details>
+<details markdown="1">
 <summary>Krieltjessalade met Mediterrane kipfilet</summary>
 
 # Krieltjessalade met Mediterrane kipfilet
@@ -402,7 +402,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Piri-piri garnalen met tomatensalsa</summary>
 
 # Piri-piri garnalen met tomatensalsa
@@ -457,7 +457,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>Aubergine fatteh met krokante kikkererwten</summary>
 
 # Aubergine fatteh met krokante kikkererwten
@@ -522,7 +522,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Mujaddara met harissa, cherrytomaten en komkommeryoghurt</summary>
 
 # Mujaddara met harissa, cherrytomaten en komkommeryoghurt
@@ -582,7 +582,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Bulgur met harissa-portobello, knapperige kikkererwten en tomaat-komkommersalade</summary>
 
 # Bulgur met harissa-portobello, knapperige kikkererwten en tomaat-komkommersalade
@@ -639,7 +639,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Linguine met grote garnalen</summary>
 
 # Linguine met grote garnalen
@@ -689,7 +689,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Parelcouscous met chorizo en courgette</summary>
 
 # Parelcouscous met chorizo en courgette
@@ -739,7 +739,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Burger met aardappelpartjes en champignons</summary>
 
 # Burger met aardappelpartjes en champignons
@@ -787,7 +787,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Fusion risotto met misopaddenstoelen en paksoi</summary>
 
 # Fusion risotto met misopaddenstoelen en paksoi
@@ -853,7 +853,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Zoete-aardappelstoof met zure room en jalapeño</summary>
 
 # Zoete-aardappelstoof met zure room en jalapeño
@@ -919,7 +919,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Linzencurry met zoete aardappel en naan</summary>
 
 # Linzencurry met zoete aardappel en naan
@@ -988,7 +988,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Honing mosterd zalm met geroosterde krieltjes</summary>
 
 # Honing mosterd zalm met geroosterde krieltjes
@@ -1046,7 +1046,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Sweet & sticky rundergehaktballetjes</summary>
 
 # Sweet & sticky rundergehaktballetjes
@@ -1101,7 +1101,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Eén-pot-spaghetti met tomatensaus</summary>
 
 # Eén-pot-spaghetti met tomatensaus
@@ -1152,7 +1152,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Rijstbowl met gebakken ei en zoete Aziatische saus</summary>
 
 # Rijstbowl met gebakken ei en zoete Aziatische saus
@@ -1202,7 +1202,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Spaghetti met champignonroomsaus en spekjes</summary>
 
 # Spaghetti met champignonroomsaus en spekjes
@@ -1254,7 +1254,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Kipfilet in spinazie-roomsaus</summary>
 
 # Kipfilet in spinazie-roomsaus
@@ -1311,7 +1311,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 </details>
 
 <!-- template -->
-<details>
+<details markdown="1">
 <summary>Template</summary>
 
 # Template
