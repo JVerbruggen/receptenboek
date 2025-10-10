@@ -1,0 +1,183 @@
+---
+layout: default
+---
+
+<style>
+details {
+  border: 1px solid #e1e1e1;
+  border-radius: 8px;
+  padding: 0;
+  margin: 1rem 0;
+  background: #f9f9f9;
+}
+
+details summary {
+  cursor: pointer;
+  padding: 1rem;
+  background: #3498db;
+  color: white;
+  border-radius: 8px 8px 0 0;
+  font-weight: bold;
+  font-size: 1.1rem;
+  transition: background-color 0.3s ease;
+}
+
+details summary:hover {
+  background: #2980b9;
+}
+
+details[open] summary {
+  border-radius: 8px 8px 0 0;
+}
+
+details .recipe-content {
+  padding: 1.5rem;
+  background: white;
+  border-radius: 0 0 8px 8px;
+}
+
+details h1 {
+  margin-top: 0;
+  color: #2c3e50;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 0.5rem;
+}
+
+details table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+
+details table th,
+details table td {
+  border: 1px solid #ddd;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+details table th {
+  background: #f1f1f1;
+  font-weight: bold;
+}
+
+details ul {
+  padding-left: 1.5rem;
+}
+
+details li {
+  margin: 0.3rem 0;
+}
+
+.recipe-meta-tags {
+  margin: 0.5rem 0;
+  font-style: italic;
+  color: #666;
+}
+
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #3498db;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  font-size: 18px;
+  display: none;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+  z-index: 1000;
+}
+
+.back-to-top:hover {
+  background: #2980b9;
+}
+
+.recipe-navigation {
+  position: sticky;
+  top: 0;
+  background: white;
+  border-bottom: 1px solid #e1e1e1;
+  padding: 1rem 0;
+  margin-bottom: 2rem;
+  z-index: 100;
+}
+
+.recipe-search {
+  width: 100%;
+  max-width: 400px;
+  padding: 0.8rem;
+  border: 2px solid #e1e1e1;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+
+.recipe-search:focus {
+  outline: none;
+  border-color: #3498db;
+}
+</style>
+
+<div class="recipe-navigation">
+  <a href="./index.md">← Terug naar overzicht</a>
+  <input type="text" class="recipe-search" id="recipeSearch" placeholder="🔍 Zoek in recepten..." onkeyup="searchRecipes()">
+</div>
+
+{{ content }}
+
+<button class="back-to-top" id="backToTop" onclick="scrollToTop()">↑</button>
+
+<script>
+// Show/hide back to top button
+window.onscroll = function() {
+  const button = document.getElementById('backToTop');
+  if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+    button.style.display = 'block';
+  } else {
+    button.style.display = 'none';
+  }
+};
+
+function scrollToTop() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+
+// Search functionality
+function searchRecipes() {
+  const searchTerm = document.getElementById('recipeSearch').value.toLowerCase();
+  const details = document.querySelectorAll('details');
+  
+  details.forEach(detail => {
+    const summary = detail.querySelector('summary').textContent.toLowerCase();
+    const content = detail.textContent.toLowerCase();
+    
+    if (summary.includes(searchTerm) || content.includes(searchTerm)) {
+      detail.style.display = 'block';
+      if (searchTerm && searchTerm.length > 2) {
+        detail.open = true;
+      }
+    } else {
+      detail.style.display = 'none';
+    }
+  });
+}
+
+// Auto-generate anchors for recipe links
+document.addEventListener('DOMContentLoaded', function() {
+  const summaries = document.querySelectorAll('details summary');
+  summaries.forEach((summary, index) => {
+    const text = summary.textContent.trim();
+    const anchor = text.toLowerCase()
+      .replace(/[^a-z0-9\s-]/g, '')
+      .replace(/\s+/g, '-')
+      .replace(/-+/g, '-')
+      .replace(/^-|-$/g, '');
+    
+    summary.parentElement.id = anchor;
+  });
+});
+</script>
