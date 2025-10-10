@@ -3,35 +3,35 @@ description: Een collectie van heerlijke recepten
 url: "https://jverbruggen.github.io"
 baseurl: "/receptenboek"
 
-markdown: gfm
+markdown: kramdown
 highlighter: rouge
 theme: minima
 
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+  hard_wrap: false
+  auto_ids: true
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
 
 # Build settings
+include:
+  - Recepten2025.md
+
 exclude:
   - .git/
   - .github/
   - README.md
   - Gemfile
   - Gemfile.lock
+  - raw/
 
-# Collections
-collections:
-  recipes:
-    output: true
-    permalink: /:collection/:name/
+# Enable HTML in markdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-defaults:
-  - scope:
-      path: ""
-      type: "recipes"
-    values:
-      layout: "recipe"
+# Site settings
+show_excerpts: false
+safe: false
