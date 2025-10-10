@@ -6,9 +6,10 @@ title: Receptenboek 2025
 <style>
 .recipe-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   gap: 1.5rem;
   margin: 2rem 0;
+  max-width: 100%;
 }
 
 .recipe-card {
@@ -121,6 +122,30 @@ hr {
 
 .back-to-top:hover {
   background: #2980b9;
+}
+
+/* Override default container width for better use of screen space */
+.container {
+  max-width: 1400px !important;
+}
+
+/* Responsive grid adjustments */
+@media (min-width: 1200px) {
+  .recipe-grid {
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .recipe-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  
+  .recipe-card {
+    margin-bottom: 1rem;
+  }
 }
 </style>
 

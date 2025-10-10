@@ -14,6 +14,8 @@ kramdown:
   auto_ids: true
   parse_block_html: true
   parse_span_html: true
+  html_to_native: true
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
 
 plugins:
   - jekyll-feed
@@ -37,3 +39,9 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 # Site settings
 show_excerpts: false
 safe: false
+
+# Ensure HTML processing
+liquid:
+  error_mode: warn
+  strict_filters: false
+  strict_variables: false
