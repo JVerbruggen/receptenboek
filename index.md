@@ -66,71 +66,40 @@ title: Receptenboek 2025
   border-color: #3498db;
 }
 
-/* Recipe Details Styling */
-details {
-  border: 1px solid #e1e1e1;
-  border-radius: 8px;
-  padding: 0;
-  margin: 1rem 0;
-  background: #f9f9f9;
-}
-
-details summary {
-  cursor: pointer;
-  padding: 1rem;
-  background: #3498db;
-  color: white;
-  border-radius: 8px 8px 0 0;
-  font-weight: bold;
-  font-size: 1.1rem;
-  transition: background-color 0.3s ease;
-}
-
-details summary:hover {
-  background: #2980b9;
-}
-
-details[open] summary {
-  border-radius: 8px 8px 0 0;
-}
-
-details .recipe-content {
-  padding: 1.5rem;
-  background: white;
-  border-radius: 0 0 8px 8px;
-}
-
-details h1 {
-  margin-top: 0;
+/* Recipe Styling */
+h1 {
+  margin-top: 2rem;
   color: #2c3e50;
   border-bottom: 2px solid #3498db;
   padding-bottom: 0.5rem;
 }
 
-details table {
+h1:first-of-type {
+  margin-top: 0;
+}
+
+table {
   width: 100%;
   border-collapse: collapse;
   margin: 1rem 0;
 }
 
-details table th,
-details table td {
+table th,
+table td {
   border: 1px solid #ddd;
   padding: 0.5rem;
   text-align: left;
 }
 
-details table th {
+table th {
   background: #f1f1f1;
   font-weight: bold;
 }
 
-details ul {
-  padding-left: 1.5rem;
-}
-
-details li {
-  margin: 0.3rem 0;
+hr {
+  border: none;
+  border-top: 2px solid #e1e1e1;
+  margin: 3rem 0;
 }
 
 .back-to-top {
@@ -164,157 +133,105 @@ Welkom bij mijn collectie van heerlijke recepten! Hier vind je een uitgebreide v
 <div class="recipe-grid" id="recipeGrid">
   <div class="recipe-card">
     <h3><a href="#krieltjessalade-met-mediterrane-kipfilet">Krieltjessalade met Mediterrane kipfilet</a></h3>
-    <div class="recipe-meta">⏰ 20-25 min</div>
     <div class="recipe-tags">
       <span class="recipe-tag">Lekker snel</span>
       <span class="recipe-tag">Caloriebewust</span>
       <span class="recipe-tag">Familie</span>
-    </div>
-  </div>
 
   <div class="recipe-card">
     <h3><a href="#piri-piri-garnalen-met-tomatensalsa">Piri-piri garnalen met tomatensalsa</a></h3>
-    <div class="recipe-meta">⏰ 25-30 min</div>
     <div class="recipe-tags">
       <span class="recipe-tag">Lekker snel</span>
       <span class="recipe-tag">Caloriebewust</span>
-    </div>
-  </div>
 
   <div class="recipe-card">
     <h3><a href="#aubergine-fatteh-met-krokante-kikkererwten">Aubergine fatteh met krokante kikkererwten</a></h3>
-    <div class="recipe-meta">⏰ 25-30 min</div>
     <div class="recipe-tags">
       <span class="recipe-tag">Lekker snel</span>
       <span class="recipe-tag">Caloriebewust</span>
       <span class="recipe-tag">Veggie</span>
-    </div>
-  </div>
 
   <div class="recipe-card">
     <h3><a href="#mujaddara-met-harissa-cherrytomaten-en-komkommeryoghurt">Mujaddara met harissa, cherrytomaten en komkommeryoghurt</a></h3>
-    <div class="recipe-meta">⏰ 25-30 min</div>
     <div class="recipe-tags">
       <span class="recipe-tag">Lekker snel</span>
       <span class="recipe-tag">Caloriebewust</span>
       <span class="recipe-tag">Veggie</span>
-    </div>
-  </div>
 
   <div class="recipe-card">
     <h3><a href="#bulgur-met-harissa-portobello-knapperige-kikkererwten-en-tomaat-komkommersalade">Bulgur met harissa-portobello</a></h3>
-    <div class="recipe-meta">⏰ 25-30 min</div>
     <div class="recipe-tags">
       <span class="recipe-tag">Lekker snel</span>
       <span class="recipe-tag">Caloriebewust</span>
       <span class="recipe-tag">Veggie</span>
-    </div>
-  </div>
 
   <div class="recipe-card">
     <h3><a href="#linguine-met-grote-garnalen">Linguine met grote garnalen</a></h3>
-    <div class="recipe-meta">⏰ 35-45 min</div>
     <div class="recipe-tags">
       <span class="recipe-tag">Caloriebewust</span>
       <span class="recipe-tag">Familie</span>
-    </div>
-  </div>
 
   <div class="recipe-card">
     <h3><a href="#parelcouscous-met-chorizo-en-courgette">Parelcouscous met chorizo en courgette</a></h3>
-    <div class="recipe-meta">⏰ 20-25 min</div>
     <div class="recipe-tags">
       <span class="recipe-tag">Lekker snel</span>
       <span class="recipe-tag">Caloriebewust</span>
-    </div>
-  </div>
 
   <div class="recipe-card">
     <h3><a href="#burger-met-aardappelpartjes-en-champignons">Burger met aardappelpartjes en champignons</a></h3>
-    <div class="recipe-meta">⏰ 35-45 min</div>
     <div class="recipe-tags">
       <span class="recipe-tag">Caloriebewust</span>
-    </div>
-  </div>
 
   <div class="recipe-card">
     <h3><a href="#fusion-risotto-met-misopaddenstoelen-en-paksoi">Fusion risotto met misopaddenstoelen en paksoi</a></h3>
-    <div class="recipe-meta">⏰ 35-45 min</div>
     <div class="recipe-tags">
       <span class="recipe-tag">Caloriebewust</span>
-    </div>
-  </div>
 
   <div class="recipe-card">
     <h3><a href="#zoete-aardappelstoof-met-zure-room-en-jalapeño">Zoete-aardappelstoof met zure room en jalapeño</a></h3>
-    <div class="recipe-meta">⏰ 25-30 min</div>
     <div class="recipe-tags">
       <span class="recipe-tag">Caloriebewust</span>
-    </div>
-  </div>
 
   <div class="recipe-card">
     <h3><a href="#linzencurry-met-zoete-aardappel-en-naan">Linzencurry met zoete aardappel en naan</a></h3>
-    <div class="recipe-meta">⏰ 35-45 min</div>
     <div class="recipe-tags">
       <span class="recipe-tag">Caloriebewust</span>
       <span class="recipe-tag">Veggie</span>
-    </div>
-  </div>
 
   <div class="recipe-card">
     <h3><a href="#honing-mosterd-zalm-met-geroosterde-krieltjes">Honing mosterd zalm met geroosterde krieltjes</a></h3>
-    <div class="recipe-meta">⏰ 40 min</div>
     <div class="recipe-tags">
       <span class="recipe-tag">Caloriebewust</span>
       <span class="recipe-tag">Familie</span>
       <span class="recipe-tag">Extra groente</span>
-    </div>
-  </div>
 
   <div class="recipe-card">
     <h3><a href="#sweet--sticky-rundergehaktballetjes">Sweet & sticky rundergehaktballetjes</a></h3>
-    <div class="recipe-meta">⏰ 25 min</div>
     <div class="recipe-tags">
       <span class="recipe-tag">Caloriebewust</span>
       <span class="recipe-tag">Familie</span>
-    </div>
-  </div>
 
   <div class="recipe-card">
     <h3><a href="#eén-pot-spaghetti-met-tomatensaus">Eén-pot-spaghetti met tomatensaus</a></h3>
-    <div class="recipe-meta">⏰ 25 min</div>
     <div class="recipe-tags">
       <span class="recipe-tag">Caloriebewust</span>
       <span class="recipe-tag">Veggie</span>
       <span class="recipe-tag">Extra groente</span>
-    </div>
-  </div>
 
   <div class="recipe-card">
     <h3><a href="#rijstbowl-met-gebakken-ei-en-zoete-aziatische-saus">Rijstbowl met gebakken ei en zoete Aziatische saus</a></h3>
-    <div class="recipe-meta">⏰ 25 min</div>
     <div class="recipe-tags">
       <span class="recipe-tag">Veggie</span>
-    </div>
-  </div>
 
   <div class="recipe-card">
     <h3><a href="#spaghetti-met-champignonroomsaus-en-spekjes">Spaghetti met champignonroomsaus en spekjes</a></h3>
-    <div class="recipe-meta">⏰ 30 min</div>
     <div class="recipe-tags">
-    </div>
-  </div>
 
   <div class="recipe-card">
     <h3><a href="#kipfilet-in-spinazie-roomsaus">Kipfilet in spinazie-roomsaus</a></h3>
-    <div class="recipe-meta">⏰ 50 min</div>
     <div class="recipe-tags">
       <span class="recipe-tag">Caloriebewust</span>
       <span class="recipe-tag">Eiwitrijk</span>
-    </div>
-  </div>
-</div>
 
 <script>
 function filterRecipes() {
@@ -349,11 +266,6 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 ---
 
 ## 📖 Alle Recepten
-
-<details>
-<summary>Krieltjessalade met Mediterrane kipfilet</summary>
-<div markdown="1">
-
 
 # Krieltjessalade met Mediterrane kipfilet
 
@@ -402,14 +314,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Snijd de kip in plakken.
 - Verdeel de krieltjessalade over de borden en leg de kip er bovenop
 
-
-</div>
-</details>
-
-<details>
-<summary>Piri-piri garnalen met tomatensalsa</summary>
-<div markdown="1">
-
+---
 
 # Piri-piri garnalen met tomatensalsa
 
@@ -461,13 +366,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Garneer met de eventuele overige citroenpartjes.
 
 
-</div>
-</details>
 
 
-<details>
-<summary>Aubergine fatteh met krokante kikkererwten</summary>
-<div markdown="1">
 
 # Aubergine fatteh met krokante kikkererwten
 
@@ -529,12 +429,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Garneer met de peterselie.
 - Serveer met het knapperige platbrood en de citroenpartjes.
 
-</div>
-</details>
 
-<details>
-<summary>Mujaddara met harissa, cherrytomaten en komkommeryoghurt</summary>
-<div markdown="1">
 
 
 # Mujaddara met harissa, cherrytomaten en komkommeryoghurt
@@ -593,12 +488,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Serveer de citroenpartjes ernaast.
 
 
-</div>
-</details>
 
-<details>
-<summary>Bulgur met harissa-portobello, knapperige kikkererwten en tomaat-komkommersalade</summary>
-<div markdown="1">
 
 
 # Bulgur met harissa-portobello, knapperige kikkererwten en tomaat-komkommersalade
@@ -654,12 +544,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Garneer met de sambalmayonaise.
 
 
-</div>
-</details>
 
-<details>
-<summary>Linguine met grote garnalen</summary>
-<div markdown="1">
 
 
 # Linguine met grote garnalen
@@ -708,12 +593,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Verdeel de pasta over de borden en garneer met het basilicum, de overige puntpaprika, de geraspte Parmigiano Reggiano en de grote garnalen.
 
 
-</div>
-</details>
 
-<details>
-<summary>Parelcouscous met chorizo en courgette</summary>
-<div markdown="1">
 
 
 # Parelcouscous met chorizo en courgette
@@ -762,12 +642,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Verkruimel de witte kaas erboven.  
 
 
-</div>
-</details>
 
-<details>
-<summary>Burger met aardappelpartjes en champignons</summary>
-<div markdown="1">
 
 
 # Burger met aardappelpartjes en champignons
@@ -814,12 +689,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Serveer de burger met de aardappelpartjes. Serveer de gebakken groenten en de salade ernaast.
 
 
-</div>
-</details>
 
-<details>
-<summary>Fusion risotto met misopaddenstoelen en paksoi</summary>
-<div markdown="1">
 
 
 # Fusion risotto met misopaddenstoelen en paksoi
@@ -884,12 +754,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Garneer met het sesamzaad, de cashewstukjes en het groene gedeelte van de bosui.
 
 
-</div>
-</details>
 
-<details>
-<summary>Zoete-aardappelstoof met zure room en jalapeño</summary>
-<div markdown="1">
 
 
 # Zoete-aardappelstoof met zure room en jalapeño
@@ -954,12 +819,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Serveer met de limoenpartjes.
 
 
-</div>
-</details>
 
-<details>
-<summary>Linzencurry met zoete aardappel en naan</summary>
-<div markdown="1">
 
 
 # Linzencurry met zoete aardappel en naan
@@ -1027,12 +887,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Garneer met de overige verse kruiden en serveer de labnesaus ernaast.
 
 
-</div>
-</details>
 
-<details>
-<summary>Honing mosterd zalm met geroosterde krieltjes</summary>
-<div markdown="1">
 
 
 # Honing mosterd zalm met geroosterde krieltjes
@@ -1089,12 +944,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Verdeel de zalm over de borden. Serveer met de geroosterde krieltjes en groenten.
 
 
-</div>
-</details>
 
-<details>
-<summary>Sweet & sticky rundergehaktballetjes</summary>
-<div markdown="1">
 
 
 # Sweet & sticky rundergehaktballetjes
@@ -1148,12 +998,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Besprenkel met de saus uit de pan.
 
 
-</div>
-</details>
 
-<details>
-<summary>Eén-pot-spaghetti met tomatensaus</summary>
-<div markdown="1">
 
 
 # Eén-pot-spaghetti met tomatensaus
@@ -1203,12 +1048,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Garneer met de kruidenroomkaas, de Parmigiano Reggiano, de overige bladpeterselie en het overige basilicum.
 
 
-</div>
-</details>
 
-<details>
-<summary>Rijstbowl met gebakken ei en zoete Aziatische saus</summary>
-<div markdown="1">
 
 
 # Rijstbowl met gebakken ei en zoete Aziatische saus
@@ -1257,12 +1097,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Serveer de limoenpartjes ernaast.
 
 
-</div>
-</details>
 
-<details>
-<summary>Spaghetti met champignonroomsaus en spekjes</summary>
-<div markdown="1">
 
 
 # Spaghetti met champignonroomsaus en spekjes
@@ -1313,12 +1148,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Verdeel de spaghetti over de borden. Garneer met de overige krulpeterselie en de pecorino.
 
 
-</div>
-</details>
 
-<details>
-<summary>Kipfilet in spinazie-roomsaus</summary>
-<div markdown="1">
 
 
 # Kipfilet in spinazie-roomsaus
@@ -1373,13 +1203,11 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Serveer met de romige spinaziesaus en garneer met de peterselie.
 
 
-</div>
-</details>
+
+
+---
 
 <!-- template -->
-<details>
-<summary>Template</summary>
-<div markdown="1">
 
 
 # Template
@@ -1399,8 +1227,7 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 
 
-</div>
-</details>
+
 <!-- end of template -->
 
 
@@ -1426,7 +1253,7 @@ function scrollToTop() {
 function filterRecipes() {
   const searchTerm = document.getElementById('recipeSearch').value.toLowerCase();
   const recipeCards = document.querySelectorAll('.recipe-card');
-  const details = document.querySelectorAll('details');
+  const recipeHeaders = document.querySelectorAll('h1');
   
   // Filter recipe cards
   recipeCards.forEach(card => {
@@ -1441,44 +1268,59 @@ function filterRecipes() {
     }
   });
 
-  // Filter and open recipe details if searching
+  // Filter recipe sections if searching
   if (searchTerm && searchTerm.length > 2) {
-    details.forEach(detail => {
-      const summary = detail.querySelector('summary').textContent.toLowerCase();
-      const content = detail.textContent.toLowerCase();
+    recipeHeaders.forEach(header => {
+      const title = header.textContent.toLowerCase();
+      let recipeSection = header;
+      let nextElement = header.nextElementSibling;
+      let recipeContent = title;
       
-      if (summary.includes(searchTerm) || content.includes(searchTerm)) {
-        detail.style.display = 'block';
-        detail.open = true; // Open matching details
+      // Collect content until next h1 or hr
+      while (nextElement && nextElement.tagName !== 'H1' && nextElement.tagName !== 'HR') {
+        recipeContent += ' ' + nextElement.textContent.toLowerCase();
+        nextElement = nextElement.nextElementSibling;
+      }
+      
+      if (title.includes(searchTerm) || recipeContent.includes(searchTerm)) {
+        // Show this recipe section
+        let element = header;
+        while (element && element.tagName !== 'HR') {
+          element.style.display = 'block';
+          element = element.nextElementSibling;
+        }
+        if (element && element.tagName === 'HR') {
+          element.style.display = 'block';
+        }
       } else {
-        detail.style.display = 'none';
+        // Hide this recipe section
+        let element = header;
+        while (element && element.tagName !== 'HR') {
+          element.style.display = 'none';
+          element = element.nextElementSibling;
+        }
+        if (element && element.tagName === 'HR') {
+          element.style.display = 'none';
+        }
       }
     });
   } else {
-    // Show all details when not searching, but keep them closed
-    details.forEach(detail => {
-      detail.style.display = 'block';
-      if (searchTerm === '') detail.open = false;
+    // Show all recipe sections when not searching
+    recipeHeaders.forEach(header => {
+      let element = header;
+      while (element && element.tagName !== 'HR') {
+        element.style.display = 'block';
+        element = element.nextElementSibling;
+      }
+      if (element && element.tagName === 'HR') {
+        element.style.display = 'block';
+      }
     });
   }
 }
-
-// Auto-generate anchors for recipe details
-document.addEventListener('DOMContentLoaded', function() {
-  const summaries = document.querySelectorAll('details summary');
-  summaries.forEach((summary, index) => {
-    const text = summary.textContent.trim();
-    const anchor = text.toLowerCase()
-      .replace(/[^a-z0-9\s-]/g, '')
-      .replace(/\s+/g, '-')
-      .replace(/-+/g, '-')
-      .replace(/^-|-$/g, '');
-    
-    summary.parentElement.id = anchor;
-  });
-});
 </script>
 
 ---
 
 *Laatst bijgewerkt: {{ site.time | date: "%B %d, %Y" }}*
+
