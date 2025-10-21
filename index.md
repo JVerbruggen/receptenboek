@@ -180,7 +180,7 @@ Welkom bij mijn collectie van heerlijke recepten! Hier vind je een uitgebreide v
 // Fetch recipes.json and render cards
 async function loadRecipes() {
   try {
-    const res = await fetch('/assets/recipes.json');
+    const res = await fetch('/receptenboek/assets/recipes.json');
     if (!res.ok) throw new Error('Failed to load recipes.json');
     const recipes = await res.json();
     const grid = document.getElementById('recipeGrid');
@@ -192,9 +192,9 @@ async function loadRecipes() {
 
       const img = document.createElement('img');
       img.className = 'recipe-card-image';
-      img.src = r.image || '/assets/images/placeholder.svg';
+      img.src = r.image || '/receptenboek/assets/images/placeholder.svg';
       img.alt = r.title;
-      img.onerror = () => img.src = '/assets/images/placeholder.svg';
+      img.onerror = () => img.src = '/receptenboek/assets/images/placeholder.svg';
 
       const content = document.createElement('div');
       content.className = 'recipe-card-content';
