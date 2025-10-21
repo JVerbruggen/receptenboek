@@ -293,6 +293,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 # Krieltjessalade met Mediterrane kipfilet
 
+![Krieltjessalade met Mediterrane kipfilet](/receptenboek/assets/images/krieltjessalade-met-mediterrane-kipfilet.jpg)
+
 - Totale tijd: 20 - 25 min.
 - Lekker snel, caloriebewust, familie.
 
@@ -341,6 +343,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 ---
 
 # Piri-piri garnalen met tomatensalsa
+
+![Piri-piri garnalen met tomatensalsa](/receptenboek/assets/images/piri-piri-garnalen-met-tomatensalsa.jpg)
 
 - Totale tijd: 25 - 30 min.
 - Lekker snel, caloriebewust.
@@ -394,6 +398,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 
 # Aubergine fatteh met krokante kikkererwten
+
+![Aubergine fatteh met krokante kikkererwten](/receptenboek/assets/images/aubergine-fatteh-met-krokante-kikkererwten.jpg)
 
 - Totale tijd: 25 - 30 min.
 - Lekker snel, caloriebewust, veggie.
@@ -458,6 +464,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 # Mujaddara met harissa, cherrytomaten en komkommeryoghurt
 
+![Mujaddara met harissa, cherrytomaten en komkommeryoghurt](/receptenboek/assets/images/mujaddara-met-harissa-cherrytomaten-en-komkommeryoghurt.jpg)
+
 - Totale tijd: 25 - 30 min.
 - Lekker snel, caloriebewust, veggie.
 
@@ -517,6 +525,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 # Bulgur met harissa-portobello, knapperige kikkererwten en tomaat-komkommersalade
 
+![Bulgur met harissa-portobello](/receptenboek/assets/images/bulgur-met-harissa-portobello.jpg)
+
 - Totale tijd: 25 - 30 min.
 - Lekker snel, caloriebewust, veggie.
 
@@ -573,6 +583,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 # Linguine met grote garnalen
 
+![Linguine met grote garnalen](/receptenboek/assets/images/linguine-met-grote-garnalen.jpg)
+
 - Totale tijd: 35 - 45 min.
 - Caloriebewust, familie.
 
@@ -621,6 +633,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 
 # Parelcouscous met chorizo en courgette
+
+![Parelcouscous met chorizo en courgette](/receptenboek/assets/images/parelcouscous-met-chorizo-en-courgette.jpg)
 
 - Totale tijd: 20 - 25 min.
 - Lekker snel, caloriebewust.
@@ -671,6 +685,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 # Burger met aardappelpartjes en champignons
 
+![Burger met aardappelpartjes en champignons](/receptenboek/assets/images/burger-met-aardappelpartjes-en-champignons.jpg)
+
 - Totale tijd: 35 - 45 min.
 - Caloriebewust
 
@@ -717,6 +733,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 
 # Fusion risotto met misopaddenstoelen en paksoi
+
+![Fusion risotto met misopaddenstoelen en paksoi](/receptenboek/assets/images/fusion-risotto-met-misopaddenstoelen-en-paksoi.jpg)
 
 - Totale tijd: 35 - 45 min.
 - Caloriebewust
@@ -783,6 +801,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 # Zoete-aardappelstoof met zure room en jalapeño
 
+![Zoete-aardappelstoof met zure room en jalapeño](/receptenboek/assets/images/zoete-aardappelstoof-met-zure-room-en-jalapeno.jpg)
+
 - Totale tijd: 25 - 30 min.
 - Caloriebewust
 
@@ -847,6 +867,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 
 # Linzencurry met zoete aardappel en naan
+
+![Linzencurry met zoete aardappel en naan](/receptenboek/assets/images/linzencurry-met-zoete-aardappel-en-naan.jpg)
 
 - Totale tijd: 35 - 45 min.
 - Caloriebewust
@@ -916,6 +938,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 # Honing mosterd zalm met geroosterde krieltjes
 
+![Honing mosterd zalm met geroosterde krieltjes](/receptenboek/assets/images/honing-mosterd-zalm-met-geroosterde-krieltjes.jpg)
+
 - Totale tijd: 40 min.
 - Caloriebewust, familie, extra groente
 
@@ -973,6 +997,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 # Sweet & sticky rundergehaktballetjes
 
+![Sweet & sticky rundergehaktballetjes](/receptenboek/assets/images/sweet-sticky-rundergehaktballetjes.jpg)
+
 - Totale tijd: 25 min.
 - Caloriebewust, familie
 
@@ -1027,6 +1053,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 # Eén-pot-spaghetti met tomatensaus
 
+![Eén-pot-spaghetti met tomatensaus](/receptenboek/assets/images/een-pot-spaghetti-met-tomatensaus.jpg)
+
 - Totale tijd: 25 min.
 - Caloriebewust, veggie, extra groente
 
@@ -1077,6 +1105,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 # Rijstbowl met gebakken ei en zoete Aziatische saus
 
+![Rijstbowl met gebakken ei en zoete Aziatische saus](/receptenboek/assets/images/rijstbowl-met-gebakken-ei-en-zoete-aziatische-saus.jpg)
+
 - Totale tijd: 25 min.
 - Veggie
 
@@ -1125,6 +1155,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 
 # Spaghetti met champignonroomsaus en spekjes
+
+![Spaghetti met champignonroomsaus en spekjes](/receptenboek/assets/images/spaghetti-met-champignonroomsaus-en-spekjes.jpg)
 
 - Totale tijd: 30 min.
 
@@ -1176,6 +1208,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 
 # Kipfilet in spinazie-roomsaus
+
+![Kipfilet in spinazie-roomsaus](/receptenboek/assets/images/kipfilet-in-spinazie-roomsaus.jpg)
 
 - Totale tijd: 50 min.
 - Caloriebewust, eiwitrijk
@@ -1229,6 +1263,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 # Verse conchiglie met mozzarella uit de oven {#verse-conchiglie-met-mozzarella-uit-de-oven}
 
+![Verse conchiglie met mozzarella uit de oven](/receptenboek/assets/images/verse-conchiglie-met-mozzarella-uit-de-oven.jpg)
+
 - Totale tijd: 25 min.
 - Tags: Veggie
 
@@ -1263,6 +1299,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 
 # Bulgogi stir-fry met noedels en varkensboerenworst {#bulgogi-stir-fry-met-noedels-en-varkensboerenworst}
+
+![Bulgogi stir-fry met noedels en varkensboerenworst](/receptenboek/assets/images/bulgogi-stir-fry-met-noedels-en-varkensboerenworst.jpg)
 
 - Totale tijd: 25 min.
 - Tags: Caloriebewust, Extra groente, Familie
@@ -1301,6 +1339,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 # Kipworstjes met wortelpuree {#kipworstjes-met-wortelpuree}
 
+![Kipworstjes met wortelpuree](/receptenboek/assets/images/kipworstjes-met-wortelpuree.jpg)
+
 - Totale tijd: 35 min.
 - Tags: Familie, Extra groente, Caloriebewust
 
@@ -1333,6 +1373,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 # Parelcouscous met geroosterde puntpaprika en witte kaas {#parelcouscous-met-geroosterde-puntpaprika-en-witte-kaas}
 
+![Parelcouscous met geroosterde puntpaprika en witte kaas](/receptenboek/assets/images/parelcouscous-met-geroosterde-puntpaprika-en-witte-kaas.jpg)
+
 - Totale tijd: 40 min.
 - Tags: Veggie, Extra groente
 
@@ -1364,6 +1406,8 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 
 # Pittige udonnoedels met gemarineerde eieren {#pittige-udonnoedels-met-gemarineerde-eieren}
+
+![Pittige udonnoedels met gemarineerde eieren](/receptenboek/assets/images/pittige-udonnoedels-met-gemarineerde-eieren.jpg)
 
 - Totale tijd: 45 min.
 - Tags: Veggie
