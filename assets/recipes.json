@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Krieltjessalade met Mediterrane kipfilet",
+    "slug": "krieltjessalade-met-mediterrane-kipfilet",
+    "time": "20-25 min",
+    "tags": ["Lekker snel","Caloriebewust","Familie"],
+    "image": "/assets/images/krieltjessalade-met-mediterrane-kipfilet.jpg"
+  },
+  {
+    "title": "Piri-piri garnalen met tomatensalsa",
+    "slug": "piri-piri-garnalen-met-tomatensalsa",
+    "time": "25-30 min",
+    "tags": ["Lekker snel","Caloriebewust"],
+    "image": "/assets/images/piri-piri-garnalen-met-tomatensalsa.jpg"
+  },
+  {
+    "title": "Aubergine fatteh met krokante kikkererwten",
+    "slug": "aubergine-fatteh-met-krokante-kikkererwten",
+    "time": "25-30 min",
+    "tags": ["Lekker snel","Caloriebewust","Veggie"],
+    "image": "/assets/images/aubergine-fatteh-met-krokante-kikkererwten.jpg"
+  },
+  {
+    "title": "Mujaddara met harissa, cherrytomaten en komkommeryoghurt",
+    "slug": "mujaddara-met-harissa-cherrytomaten-en-komkommeryoghurt",
+    "time": "25-30 min",
+    "tags": ["Lekker snel","Caloriebewust","Veggie"],
+    "image": "/assets/images/mujaddara-met-harissa-cherrytomaten-en-komkommeryoghurt.jpg"
+  },
+  {
+    "title": "Bulgur met harissa-portobello",
+    "slug": "bulgur-met-harissa-portobello-knapperige-kikkererwten-en-tomaat-komkommersalade",
+    "time": "25-30 min",
+    "tags": ["Lekker snel","Caloriebewust","Veggie"],
+    "image": "/assets/images/bulgur-met-harissa-portobello.jpg"
+  },
+  {
+    "title": "Linguine met grote garnalen",
+    "slug": "linguine-met-grote-garnalen",
+    "time": "35-45 min",
+    "tags": ["Caloriebewust","Familie"],
+    "image": "/assets/images/linguine-met-grote-garnalen.jpg"
+  },
+  {
+    "title": "Parelcouscous met chorizo en courgette",
+    "slug": "parelcouscous-met-chorizo-en-courgette",
+    "time": "20-25 min",
+    "tags": ["Lekker snel","Caloriebewust"],
+    "image": "/assets/images/parelcouscous-met-chorizo-en-courgette.jpg"
+  },
+  {
+    "title": "Burger met aardappelpartjes en champignons",
+    "slug": "burger-met-aardappelpartjes-en-champignons",
+    "time": "35-45 min",
+    "tags": ["Caloriebewust"],
+    "image": "/assets/images/burger-met-aardappelpartjes-en-champignons.jpg"
+  },
+  {
+    "title": "Fusion risotto met misopaddenstoelen en paksoi",
+    "slug": "fusion-risotto-met-misopaddenstoelen-en-paksoi",
+    "time": "35-45 min",
+    "tags": ["Caloriebewust"],
+    "image": "/assets/images/fusion-risotto-met-misopaddenstoelen-en-paksoi.jpg"
+  },
+  {
+    "title": "Zoete-aardappelstoof met zure room en jalapeño",
+    "slug": "zoete-aardappelstoof-met-zure-room-en-jalapeño",
+    "time": "25-30 min",
+    "tags": ["Caloriebewust"],
+    "image": "/assets/images/zoete-aardappelstoof-met-zure-room-en-jalapeno.jpg"
+  },
+  {
+    "title": "Linzencurry met zoete aardappel en naan",
+    "slug": "linzencurry-met-zoete-aardappel-en-naan",
+    "time": "35-45 min",
+    "tags": ["Caloriebewust","Veggie"],
+    "image": "/assets/images/linzencurry-met-zoete-aardappel-en-naan.jpg"
+  },
+  {
+    "title": "Honing mosterd zalm met geroosterde krieltjes",
+    "slug": "honing-mosterd-zalm-met-geroosterde-krieltjes",
+    "time": "40 min",
+    "tags": ["Caloriebewust","Familie","Extra groente"],
+    "image": "/assets/images/honing-mosterd-zalm-met-geroosterde-krieltjes.jpg"
+  },
+  {
+    "title": "Sweet & sticky rundergehaktballetjes",
+    "slug": "sweet--sticky-rundergehaktballetjes",
+    "time": "25 min",
+    "tags": ["Caloriebewust","Familie"],
+    "image": "/assets/images/sweet-sticky-rundergehaktballetjes.jpg"
+  },
+  {
+    "title": "Eén-pot-spaghetti met tomatensaus",
+    "slug": "eén-pot-spaghetti-met-tomatensaus",
+    "time": "25 min",
+    "tags": ["Caloriebewust","Veggie","Extra groente"],
+    "image": "/assets/images/een-pot-spaghetti-met-tomatensaus.jpg"
+  },
+  {
+    "title": "Rijstbowl met gebakken ei en zoete Aziatische saus",
+    "slug": "rijstbowl-met-gebakken-ei-en-zoete-aziatische-saus",
+    "time": "25 min",
+    "tags": ["Veggie"],
+    "image": "/assets/images/rijstbowl-met-gebakken-ei-en-zoete-aziatische-saus.jpg"
+  },
+  {
+    "title": "Spaghetti met champignonroomsaus en spekjes",
+    "slug": "spaghetti-met-champignonroomsaus-en-spekjes",
+    "time": "30 min",
+    "tags": [],
+    "image": "/assets/images/spaghetti-met-champignonroomsaus-en-spekjes.jpg"
+  },
+  {
+    "title": "Kipfilet in spinazie-roomsaus",
+    "slug": "kipfilet-in-spinazie-roomsaus",
+    "time": "50 min",
+    "tags": ["Caloriebewust","Eiwitrijk"],
+    "image": "/assets/images/kipfilet-in-spinazie-roomsaus.jpg"
+  }
+]

@@ -173,159 +173,86 @@ Welkom bij mijn collectie van heerlijke recepten! Hier vind je een uitgebreide v
 <input type="text" class="search-box" id="recipeSearch" placeholder="🔍 Zoek recepten..." onkeyup="filterRecipes()">
 
 <div class="recipe-grid" id="recipeGrid">
-  <div class="recipe-card">
-    <h3><a href="#krieltjessalade-met-mediterrane-kipfilet">Krieltjessalade met Mediterrane kipfilet</a></h3>
-    <div class="recipe-meta">⏰ 20-25 min</div>
-    <div class="recipe-tags">
-      <span class="recipe-tag">Lekker snel</span>
-      <span class="recipe-tag">Caloriebewust</span>
-      <span class="recipe-tag">Familie</span>
-    </div>
-  </div>
-
-  <div class="recipe-card">
-    <h3><a href="#piri-piri-garnalen-met-tomatensalsa">Piri-piri garnalen met tomatensalsa</a></h3>
-    <div class="recipe-meta">⏰ 25-30 min</div>
-    <div class="recipe-tags">
-      <span class="recipe-tag">Lekker snel</span>
-      <span class="recipe-tag">Caloriebewust</span>
-    </div>
-  </div>
-
-  <div class="recipe-card">
-    <h3><a href="#aubergine-fatteh-met-krokante-kikkererwten">Aubergine fatteh met krokante kikkererwten</a></h3>
-    <div class="recipe-meta">⏰ 25-30 min</div>
-    <div class="recipe-tags">
-      <span class="recipe-tag">Lekker snel</span>
-      <span class="recipe-tag">Caloriebewust</span>
-      <span class="recipe-tag">Veggie</span>
-    </div>
-  </div>
-
-  <div class="recipe-card">
-    <h3><a href="#mujaddara-met-harissa-cherrytomaten-en-komkommeryoghurt">Mujaddara met harissa, cherrytomaten en komkommeryoghurt</a></h3>
-    <div class="recipe-meta">⏰ 25-30 min</div>
-    <div class="recipe-tags">
-      <span class="recipe-tag">Lekker snel</span>
-      <span class="recipe-tag">Caloriebewust</span>
-      <span class="recipe-tag">Veggie</span>
-    </div>
-  </div>
-
-  <div class="recipe-card">
-    <h3><a href="#bulgur-met-harissa-portobello-knapperige-kikkererwten-en-tomaat-komkommersalade">Bulgur met harissa-portobello</a></h3>
-    <div class="recipe-meta">⏰ 25-30 min</div>
-    <div class="recipe-tags">
-      <span class="recipe-tag">Lekker snel</span>
-      <span class="recipe-tag">Caloriebewust</span>
-      <span class="recipe-tag">Veggie</span>
-    </div>
-  </div>
-
-  <div class="recipe-card">
-    <h3><a href="#linguine-met-grote-garnalen">Linguine met grote garnalen</a></h3>
-    <div class="recipe-meta">⏰ 35-45 min</div>
-    <div class="recipe-tags">
-      <span class="recipe-tag">Caloriebewust</span>
-      <span class="recipe-tag">Familie</span>
-    </div>
-  </div>
-
-  <div class="recipe-card">
-    <h3><a href="#parelcouscous-met-chorizo-en-courgette">Parelcouscous met chorizo en courgette</a></h3>
-    <div class="recipe-meta">⏰ 20-25 min</div>
-    <div class="recipe-tags">
-      <span class="recipe-tag">Lekker snel</span>
-      <span class="recipe-tag">Caloriebewust</span>
-    </div>
-  </div>
-
-  <div class="recipe-card">
-    <h3><a href="#burger-met-aardappelpartjes-en-champignons">Burger met aardappelpartjes en champignons</a></h3>
-    <div class="recipe-meta">⏰ 35-45 min</div>
-    <div class="recipe-tags">
-      <span class="recipe-tag">Caloriebewust</span>
-    </div>
-  </div>
-
-  <div class="recipe-card">
-    <h3><a href="#fusion-risotto-met-misopaddenstoelen-en-paksoi">Fusion risotto met misopaddenstoelen en paksoi</a></h3>
-    <div class="recipe-meta">⏰ 35-45 min</div>
-    <div class="recipe-tags">
-      <span class="recipe-tag">Caloriebewust</span>
-    </div>
-  </div>
-
-  <div class="recipe-card">
-    <h3><a href="#zoete-aardappelstoof-met-zure-room-en-jalapeño">Zoete-aardappelstoof met zure room en jalapeño</a></h3>
-    <div class="recipe-meta">⏰ 25-30 min</div>
-    <div class="recipe-tags">
-      <span class="recipe-tag">Caloriebewust</span>
-    </div>
-  </div>
-
-  <div class="recipe-card">
-    <h3><a href="#linzencurry-met-zoete-aardappel-en-naan">Linzencurry met zoete aardappel en naan</a></h3>
-    <div class="recipe-meta">⏰ 35-45 min</div>
-    <div class="recipe-tags">
-      <span class="recipe-tag">Caloriebewust</span>
-      <span class="recipe-tag">Veggie</span>
-    </div>
-  </div>
-
-  <div class="recipe-card">
-    <h3><a href="#honing-mosterd-zalm-met-geroosterde-krieltjes">Honing mosterd zalm met geroosterde krieltjes</a></h3>
-    <div class="recipe-meta">⏰ 40 min</div>
-    <div class="recipe-tags">
-      <span class="recipe-tag">Caloriebewust</span>
-      <span class="recipe-tag">Familie</span>
-      <span class="recipe-tag">Extra groente</span>
-    </div>
-  </div>
-
-  <div class="recipe-card">
-    <h3><a href="#sweet--sticky-rundergehaktballetjes">Sweet & sticky rundergehaktballetjes</a></h3>
-    <div class="recipe-meta">⏰ 25 min</div>
-    <div class="recipe-tags">
-      <span class="recipe-tag">Caloriebewust</span>
-      <span class="recipe-tag">Familie</span>
-    </div>
-  </div>
-
-  <div class="recipe-card">
-    <h3><a href="#eén-pot-spaghetti-met-tomatensaus">Eén-pot-spaghetti met tomatensaus</a></h3>
-    <div class="recipe-meta">⏰ 25 min</div>
-    <div class="recipe-tags">
-      <span class="recipe-tag">Caloriebewust</span>
-      <span class="recipe-tag">Veggie</span>
-      <span class="recipe-tag">Extra groente</span>
-    </div>
-  </div>
-
-  <div class="recipe-card">
-    <h3><a href="#rijstbowl-met-gebakken-ei-en-zoete-aziatische-saus">Rijstbowl met gebakken ei en zoete Aziatische saus</a></h3>
-    <div class="recipe-meta">⏰ 25 min</div>
-    <div class="recipe-tags">
-      <span class="recipe-tag">Veggie</span>
-    </div>
-  </div>
-
-  <div class="recipe-card">
-    <h3><a href="#spaghetti-met-champignonroomsaus-en-spekjes">Spaghetti met champignonroomsaus en spekjes</a></h3>
-    <div class="recipe-meta">⏰ 30 min</div>
-    <div class="recipe-tags">
-    </div>
-  </div>
-
-  <div class="recipe-card">
-    <h3><a href="#kipfilet-in-spinazie-roomsaus">Kipfilet in spinazie-roomsaus</a></h3>
-    <div class="recipe-meta">⏰ 50 min</div>
-    <div class="recipe-tags">
-      <span class="recipe-tag">Caloriebewust</span>
-      <span class="recipe-tag">Eiwitrijk</span>
-    </div>
-  </div>
+  <!-- Cards will be rendered here by JS -->
 </div>
+
+<script>
+// Fetch recipes.json and render cards
+async function loadRecipes() {
+  try {
+    const res = await fetch('/assets/recipes.json');
+    if (!res.ok) throw new Error('Failed to load recipes.json');
+    const recipes = await res.json();
+    const grid = document.getElementById('recipeGrid');
+    grid.innerHTML = '';
+
+    recipes.forEach(r => {
+      const card = document.createElement('div');
+      card.className = 'recipe-card';
+
+      const img = document.createElement('img');
+      img.className = 'recipe-card-image';
+      img.src = r.image || '/assets/images/placeholder.svg';
+      img.alt = r.title;
+      img.onerror = () => img.src = '/assets/images/placeholder.svg';
+
+      const content = document.createElement('div');
+      content.className = 'recipe-card-content';
+
+      const h3 = document.createElement('h3');
+      const a = document.createElement('a');
+      a.href = '#' + r.slug;
+      a.textContent = r.title;
+      h3.appendChild(a);
+
+      const meta = document.createElement('div');
+      meta.className = 'recipe-meta';
+      meta.textContent = '⏰ ' + (r.time || '—');
+
+      const tags = document.createElement('div');
+      tags.className = 'recipe-tags';
+      (r.tags || []).forEach(t => {
+        const span = document.createElement('span');
+        span.className = 'recipe-tag';
+        span.textContent = t;
+        tags.appendChild(span);
+      });
+
+      content.appendChild(h3);
+      content.appendChild(meta);
+      content.appendChild(tags);
+
+      card.appendChild(img);
+      card.appendChild(content);
+      grid.appendChild(card);
+    });
+
+  } catch (err) {
+    console.error(err);
+    document.getElementById('recipeGrid').textContent = 'Kan recepten niet laden.';
+  }
+}
+
+loadRecipes();
+
+// Keep the existing filterRecipes function behavior but operate on rendered cards
+function filterRecipes() {
+  const searchTerm = document.getElementById('recipeSearch').value.toLowerCase();
+  const recipeCards = document.querySelectorAll('.recipe-card');
+
+  recipeCards.forEach(card => {
+    const title = card.querySelector('h3 a').textContent.toLowerCase();
+    const tags = Array.from(card.querySelectorAll('.recipe-tag')).map(tag => tag.textContent.toLowerCase()).join(' ');
+    const searchText = title + ' ' + tags;
+
+    if (searchText.includes(searchTerm)) {
+      card.style.display = 'block';
+    } else {
+      card.style.display = 'none';
+    }
+  });
+}
+</script>
 {:/}
 
 {::nomarkdown}
