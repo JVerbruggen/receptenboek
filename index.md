@@ -1227,6 +1227,176 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 - Serveer met de romige spinaziesaus en garneer met de peterselie.
 
 
+# Verse conchiglie met mozzarella uit de oven {#verse-conchiglie-met-mozzarella-uit-de-oven}
+
+- Totale tijd: 25 min.
+- Tags: Veggie
+
+## Benodigdheden
+4 personen
+
+| Ingredient | Hoeveelheid |
+|------------|-------------|
+| Conchiglie (pasta) | 400 g |
+| Cherrytomaten | 300 g |
+| Mozzarella (bol) | 250 g |
+| Knoflook | 2 teentjes |
+| Olijfolie | 2 el |
+| Verse basilicum | een handvol |
+| Paneermeel (optioneel) | 2 el |
+| Zout & peper | naar smaak |
+
+## 1 Voorbereiden
+- Verwarm de oven voor op 200 °C.
+- Breng een grote pan gezouten water aan de kook en kook de conchiglie circa 8-10 minuten al dente. Giet af en bewaar een scheutje pastawater.
+
+## 2 Saus en samenstellen
+- Verhit de olijfolie in een koekenpan en fruit de fijngehakte knoflook 1 minuut.
+- Voeg de cherrytomaten toe en bak 3-4 minuten tot ze zacht worden; stamp ze lichtjes zodat er een eenvoudige saus ontstaat. Breng op smaak met zout en peper.
+- Meng de gekookte conchiglie door de tomaatjes. Voeg een scheut pastawater toe als het mengsel te droog is.
+- Scheur de mozzarella in stukken en meng de helft door de pasta.
+
+## 3 Gratineer
+- Doe de pasta in een ovenschaal, verdeel de resterende mozzarella erover en bestrooi eventueel met paneermeel voor een krokant korstje.
+- Zet 8-10 minuten in de oven tot de kaas gesmolten en licht goudbruin is.
+- Garneer met verse basilicum en serveer direct.
+
+
+# Bulgogi stir-fry met noedels en varkensboerenworst {#bulgogi-stir-fry-met-noedels-en-varkensboerenworst}
+
+- Totale tijd: 25 min.
+- Tags: Caloriebewust, Extra groente, Familie
+
+## Benodigdheden
+4 personen
+
+| Ingredient | Hoeveelheid |
+|------------|-------------|
+| Noedels (e.g. eiernoedels of udon) | 400 g |
+| Varkensboerenworst | 300 g |
+| Paprika (rood) | 1 stuk |
+| Wortel | 1 grote |
+| Witte kool of paksoi | 150 g |
+| Lente-ui | 2 stuks |
+| Knoflook | 2 teentjes |
+| Sojasaus | 3 el |
+| Sesamolie | 1 el |
+| Honing of suiker | 1 tl |
+| Rijstazijn of mirin | 1 el |
+| Sesamzaad | 1 tl |
+
+## 1 Voorbereiden
+- Kook de noedels volgens de verpakking, giet af en zet apart.
+- Snijd de varkensboerenworst in plakjes. Snijd paprika en wortel in dunne reepjes en hak de knoflook fijn.
+
+## 2 Saus maken
+- Meng sojasaus, sesamolie, honing en rijstazijn in een kom tot een gladde saus.
+
+## 3 Roerbakken
+- Verhit een scheut olie in een wok of grote koekenpan en bak de plakjes worst rondom goudbruin.
+- Voeg de knoflook, paprika, wortel en kool toe en roerbak 3-4 minuten tot de groenten beetgaar zijn.
+- Voeg de gekookte noedels en de saus toe en schep alles goed om. Bak nog 1-2 minuten zodat de smaken zich mengen.
+- Bestrooi met gesneden lente-ui en sesamzaad voor het serveren.
+
+
+# Kipworstjes met wortelpuree {#kipworstjes-met-wortelpuree}
+
+- Totale tijd: 35 min.
+- Tags: Familie, Extra groente, Caloriebewust
+
+## Benodigdheden
+4 personen
+
+| Ingredient | Hoeveelheid |
+|------------|-------------|
+| Kipworstjes | 8 stuks |
+| Aardappelen (kruimig) | 800 g |
+| Wortelen | 500 g |
+| Melk | 50-100 ml |
+| Boter of olie | 2 el |
+| Verse peterselie | een handvol |
+| Zout & peper | naar smaak |
+
+## 1 Voorbereiden
+- Schil de aardappelen en snijd in gelijke stukken. Schil de wortelen en snijd in grotere stukken.
+- Kook de aardappelen in ruim water circa 12-15 minuten tot ze gaar zijn. Kook de wortelen in een aparte pan 10-12 minuten tot zacht.
+
+## 2 Pureren
+- Giet de aardappelen en wortelen af en stamp samen met boter en een scheut melk tot een smeuïge puree. Breng op smaak met zout, peper en fijngehakte peterselie.
+
+## 3 Kipworstjes bereiden
+- Verhit een koekenpan met een klein scheutje olie en bak de kipworstjes rondom goudbruin en gaar (ongeveer 8-10 minuten). Draai regelmatig.
+
+## 4 Serveren
+- Serveer de kipworstjes op een bedje van wortelpuree. Garneer met extra peterselie en eventueel een scheutje mosterd of jus naar smaak.
+
+
+# Parelcouscous met geroosterde puntpaprika en witte kaas {#parelcouscous-met-geroosterde-puntpaprika-en-witte-kaas}
+
+- Totale tijd: 40 min.
+- Tags: Veggie, Extra groente
+
+## Benodigdheden
+4 personen
+
+| Ingredient | Hoeveelheid |
+|------------|-------------|
+| Parelcouscous | 300 g |
+| Puntpaprika (rood/geel) | 3 stuks |
+| Witte kaas (feta of vergelijkbaar) | 150 g |
+| Rode ui | 1 stuk |
+| Peterselie | een handvol |
+| Citroen (sap) | 1 stuk |
+| Olijfolie | 2 el |
+| Groentebouillon | 600 ml |
+| Zout & peper | naar smaak |
+
+## 1 Puntpaprika roosteren
+- Verwarm de oven naar 200 °C. Halveer de puntpaprika's, verwijder zaad en pitten, besprenkel met olijfolie en rooster 20-25 minuten tot ze zacht en iets gekarameliseerd zijn.
+
+## 2 Parelcouscous koken
+- Breng de groentebouillon aan de kook en voeg de parelcouscous toe. Kook volgens verpakking (meestal 10-12 minuten) tot beetgaar. Giet af en laat uitstomen.
+
+## 3 Afmaken
+- Snijd de geroosterde paprika in repen. Snijd de rode ui fijn en hak de peterselie.
+- Meng de parelcouscous met de paprika, verkruimelde witte kaas, rode ui, citroensap en olijfolie. Breng op smaak met zout en peper.
+- Serveer lauwwarm of op kamertemperatuur.
+
+
+# Pittige udonnoedels met gemarineerde eieren {#pittige-udonnoedels-met-gemarineerde-eieren}
+
+- Totale tijd: 45 min.
+- Tags: Veggie
+
+## Benodigdheden
+4 personen
+
+| Ingredient | Hoeveelheid |
+|------------|-------------|
+| Udonnoedels (vers of gedroogd) | 400 g |
+| Eieren | 4 stuks |
+| Sojasaus | 4 el |
+| Mirin of rijstazijn | 2 el |
+| Suiker of honing | 1 tl |
+| Sesamolie | 1 el |
+| Knoflook | 2 teentjes |
+| Chili- of sriracha saus | 1-2 el naar smaak |
+| Paksoi of spinazie | 150 g |
+| Lente-ui | 2 stuks |
+| Sesamzaad | 1 tl |
+
+## 1 Eieren marineren
+- Kook de eieren 6-7 minuten voor zachtgekookte eieren. Koel ze direct in koud water, pel voorzichtig.
+- Meng in een kom sojasaus, mirin en suiker. Leg de gepelde eieren in de marinade en laat minimaal 15 minuten (langer is beter) marineren.
+
+## 2 Noedels en saus
+- Kook de udon volgens de verpakking; giet af.
+- Verhit sesamolie in een pan, fruit fijngehakte knoflook en voeg de chili saus toe. Voeg een scheutje water, 1-2 eetlepels sojasaus en eventueel wat extra mirin toe om een licht plakkerige saus te maken.
+
+## 3 Roerbakken en serveren
+- Roerbak de paksoi kort tot geslonken. Voeg de gekookte udon en saus toe en schep goed om.
+- Halveer de gemarineerde eieren en leg ze bovenop de noedels. Bestrooi met gesneden lente-ui en sesamzaad.
+
 
 
 ---

@@ -118,4 +118,45 @@
     "tags": ["Caloriebewust","Eiwitrijk"],
     "image": "/assets/images/kipfilet-in-spinazie-roomsaus.jpg"
   }
+  ,
+  {
+    "title": "Verse conchiglie met mozzarella uit de oven",
+    "slug": "verse-conchiglie-met-mozzarella-uit-de-oven",
+    "time": "25 min",
+    "tags": ["Veggie"],
+    "image": "https://media.hellofresh.com/c_fit,f_auto,fl_lossy,h_400,q_50,w_800/hellofresh_s3/image/conchiglie-gratinees-a-la-mozzarella-22b91d61-0cdf19bd.jpg",
+    "source": "https://www.hellofresh.nl/recipes/verse-conchiglie-met-mozzarella-uit-de-oven-60812d4ceae7ff4d565dd162"
+  },
+  {
+    "title": "Bulgogi stir-fry met noedels en varkensboerenworst",
+    "slug": "bulgogi-stir-fry-met-noedels-en-varkensboerenworst",
+    "time": "25 min",
+    "tags": ["Caloriebewust","Extra groente","Familie"],
+    "image": "https://media.hellofresh.com/c_fit,f_auto,fl_lossy,h_400,q_50,w_800/hellofresh_s3/image/HF_Y23_R29_W50_NL_R4627-11_Main_low-a9e6f888.jpg",
+    "source": "https://www.hellofresh.nl/recipes/roerbak-met-bulgogisaus-en-boerenworst-668e759bda99f37bb7c07051"
+  },
+  {
+    "title": "Kipworstjes met wortelpuree",
+    "slug": "kipworstjes-met-wortelpuree",
+    "time": "35 min",
+    "tags": ["Familie","Extra groente","Caloriebewust"],
+    "image": "https://media.hellofresh.com/c_fit,f_auto,fl_lossy,h_400,q_50,w_800/hellofresh_s3/image/HF_Y23_R22_W48_NL_R6144-2_Main_low-5871f225.jpg",
+    "source": "https://www.hellofresh.nl/recipes/kipworstjes-met-wortelpuree-63d314619ef03d3cc4532bb0"
+  },
+  {
+    "title": "Parelcouscous met geroosterde puntpaprika en witte kaas",
+    "slug": "parelcouscous-met-geroosterde-puntpaprika-en-witte-kaas",
+    "time": "40 min",
+    "tags": ["Veggie","Extra groente"],
+    "image": null,
+    "source": "https://www.hellofresh.nl/recipes/parelcouscous-met-geroosterde-puntpaprika-en-witte-kaas-620e5ce3e3d2ad5a1e2987fd"
+  },
+  {
+    "title": "Pittige udonnoedels met gemarineerde eieren",
+    "slug": "pittige-udonnoedels-met-gemarineerde-eieren",
+    "time": "45 min",
+    "tags": ["Veggie"],
+    "image": null,
+    "source": "https://www.hellofresh.nl/recipes/pittige-roerbak-met-udonnoedels-en-gemarineerde-eieren-676ae5a97de812ab262748c9"
+  }
 ]
