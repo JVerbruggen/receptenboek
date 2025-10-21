@@ -141,6 +141,19 @@ hr {
   max-width: 1400px !important;
 }
 
+/* Markdown/content images (not card thumbnails)
+   — shrink to the viewport or container but do not upscale the image.
+   Uses min() so the image will be at most the smaller of its container (100%)
+   and the viewport width (100vw). width:auto prevents upscaling above
+   the image's intrinsic size. */
+img:not(.recipe-card-image) {
+  display: block;
+  margin: 1rem 0;
+  width: auto; /* don't force a width (prevents upscaling) */
+  max-width: min(100%, 100vw);
+  height: auto;
+}
+
 /* Responsive grid adjustments */
 @media (min-width: 1200px) {
   .recipe-grid {
