@@ -1,107 +1,313 @@
 [
   {
-    "title": "Krieltjessalade met Mediterrane kipfilet",
-    "slug": "krieltjessalade-met-mediterrane-kipfilet",
-    "time": "20-25 min",
-    "tags": ["Lekker snel","Caloriebewust","Familie"],
-    "image": "/receptenboek/assets/images/krieltjessalade-met-mediterrane-kipfilet.jpg"
-  },
-  {
-    "title": "Piri-piri garnalen met tomatensalsa",
-    "slug": "piri-piri-garnalen-met-tomatensalsa",
-    "time": "25-30 min",
-    "tags": ["Lekker snel","Caloriebewust"],
-    "image": "/receptenboek/assets/images/piri-piri-garnalen-met-tomatensalsa.jpg"
-  },
-  {
     "title": "Aubergine fatteh met krokante kikkererwten",
     "slug": "aubergine-fatteh-met-krokante-kikkererwten",
     "time": "25-30 min",
-    "tags": ["Lekker snel","Caloriebewust","Veggie"],
+    "tags": [
+      "Lekker snel",
+      "Caloriebewust",
+      "Veggie"
+    ],
     "image": "/receptenboek/assets/images/aubergine-fatteh-met-krokante-kikkererwten.jpg"
   },
   {
-    "title": "Mujaddara met harissa, cherrytomaten en komkommeryoghurt",
-    "slug": "mujaddara-met-harissa-cherrytomaten-en-komkommeryoghurt",
-    "time": "25-30 min",
-    "tags": ["Lekker snel","Caloriebewust","Veggie"],
-    "image": "/receptenboek/assets/images/mujaddara-met-harissa-cherrytomaten-en-komkommeryoghurt.jpg"
+    "title": "Bulgogi stir-fry met noedels en varkensboerenworst",
+    "slug": "bulgogi-stir-fry-met-noedels-en-varkensboerenworst",
+    "time": "25 min",
+    "tags": [
+      "Caloriebewust",
+      "Extra groente",
+      "Familie"
+    ],
+    "image": "/receptenboek/assets/images/bulgogi-stir-fry-met-noedels-en-varkensboerenworst.jpg"
   },
   {
     "title": "Bulgur met harissa-portobello",
     "slug": "bulgur-met-harissa-portobello-knapperige-kikkererwten-en-tomaat-komkommersalade",
     "time": "25-30 min",
-    "tags": ["Lekker snel","Caloriebewust","Veggie"],
+    "tags": [
+      "Lekker snel",
+      "Caloriebewust",
+      "Veggie"
+    ],
     "image": "/receptenboek/assets/images/bulgur-met-harissa-portobello.jpg"
-  },
-  {
-    "title": "Linguine met grote garnalen",
-    "slug": "linguine-met-grote-garnalen",
-    "time": "35-45 min",
-    "tags": ["Caloriebewust","Familie"],
-    "image": "/receptenboek/assets/images/linguine-met-grote-garnalen.jpg"
-  },
-  {
-    "title": "Parelcouscous met chorizo en courgette",
-    "slug": "parelcouscous-met-chorizo-en-courgette",
-    "time": "20-25 min",
-    "tags": ["Lekker snel","Caloriebewust"],
-    "image": "/receptenboek/assets/images/parelcouscous-met-chorizo-en-courgette.jpg"
   },
   {
     "title": "Burger met aardappelpartjes en champignons",
     "slug": "burger-met-aardappelpartjes-en-champignons",
     "time": "35-45 min",
-    "tags": ["Caloriebewust"],
+    "tags": [
+      "Caloriebewust"
+    ],
     "image": "/receptenboek/assets/images/burger-met-aardappelpartjes-en-champignons.jpg"
   },
   {
-    "title": "Fusion risotto met misopaddenstoelen en paksoi",
-    "slug": "fusion-risotto-met-misopaddenstoelen-en-paksoi",
-    "time": "35-45 min",
-    "tags": ["Caloriebewust"],
-    "image": "/receptenboek/assets/images/fusion-risotto-met-misopaddenstoelen-en-paksoi.jpg"
-  },
-  {
-    "title": "Zoete-aardappelstoof met zure room en jalapeño",
-    "slug": "zoete-aardappelstoof-met-zure-room-en-jalapeño",
-    "time": "25-30 min",
-    "tags": ["Caloriebewust"],
-    "image": "/receptenboek/assets/images/zoete-aardappelstoof-met-zure-room-en-jalapeno.jpg"
-  },
-  {
-    "title": "Linzencurry met zoete aardappel en naan",
-    "slug": "linzencurry-met-zoete-aardappel-en-naan",
-    "time": "35-45 min",
-    "tags": ["Caloriebewust","Veggie"],
-    "image": "/receptenboek/assets/images/linzencurry-met-zoete-aardappel-en-naan.jpg"
-  },
-  {
-    "title": "Honing mosterd zalm met geroosterde krieltjes",
-    "slug": "honing-mosterd-zalm-met-geroosterde-krieltjes",
-    "time": "40 min",
-    "tags": ["Caloriebewust","Familie","Extra groente"],
-    "image": "/receptenboek/assets/images/honing-mosterd-zalm-met-geroosterde-krieltjes.jpg"
-  },
-  {
-    "title": "Sweet & sticky rundergehaktballetjes",
-    "slug": "sweet--sticky-rundergehaktballetjes",
+    "title": "Conchiglie met misochampignons met Grana Padano, spinazie en gomasio",
+    "slug": "conchiglie-met-misochampignons-met-grana-padano-spinazie-en-gomasio",
     "time": "25 min",
-    "tags": ["Caloriebewust","Familie"],
-    "image": "/receptenboek/assets/images/sweet-sticky-rundergehaktballetjes.jpg"
+    "tags": [
+      "Caloriebewust",
+      "Veggie",
+      "Vis & veggie",
+      "Familie",
+      "Zonder varkensvlees",
+      "Klaar in 25 minuten",
+      "Klaar in 15 minuten",
+      "Original",
+      "Flexitarisch",
+      "Extra groente",
+      "Lekker snel",
+      "Hoofdgerecht"
+    ],
+    "image": "/receptenboek/assets/images/conchiglie-met-misochampignons-met-grana-padano-spinazie-en-gomasio.jpg"
+  },
+  {
+    "title": "Dahl met kokos en paneer met linzen, groenten en naan",
+    "slug": "dahl-met-kokos-en-paneer-met-linzen-groenten-en-naan",
+    "time": "35 min",
+    "tags": [
+      "Veggie",
+      "Vis & veggie",
+      "veggie",
+      "pescatarian",
+      "Flexitarian",
+      "Everyday Healthy",
+      "flexitarian",
+      "Hoofdgerecht",
+      "Indiase"
+    ],
+    "image": "/receptenboek/assets/images/dahl-met-kokos-en-paneer-met-linzen-groenten-en-naan.jpg"
   },
   {
     "title": "Eén-pot-spaghetti met tomatensaus",
     "slug": "een-pot-spaghetti-met-tomatensaus",
     "time": "25 min",
-    "tags": ["Caloriebewust","Veggie","Extra groente"],
+    "tags": [
+      "Caloriebewust",
+      "Veggie",
+      "Extra groente"
+    ],
     "image": "/receptenboek/assets/images/een-pot-spaghetti-met-tomatensaus.jpg"
+  },
+  {
+    "title": "Fusion risotto met misopaddenstoelen en paksoi",
+    "slug": "fusion-risotto-met-misopaddenstoelen-en-paksoi",
+    "time": "35-45 min",
+    "tags": [
+      "Caloriebewust"
+    ],
+    "image": "/receptenboek/assets/images/fusion-risotto-met-misopaddenstoelen-en-paksoi.jpg"
+  },
+  {
+    "title": "Gekruide kipfilet met champignonroomsaus met witte rijst, broccoli en gomasio",
+    "slug": "gekruide-kipfilet-met-champignonroomsaus-met-witte-rijst-broccoli-en-gomasio",
+    "time": "25 min",
+    "tags": [
+      "Lekker snel",
+      "Familie",
+      "Caloriebewust",
+      "Veggie",
+      "Vis & veggie",
+      "Zonder varkensvlees",
+      "Klaar in 25 minuten",
+      "Klaar in 15 minuten",
+      "Original",
+      "Flexitarisch",
+      "Extra Veggies",
+      "Hoofdgerecht",
+      "Fusion"
+    ],
+    "image": "/receptenboek/assets/images/gekruide-kipfilet-met-champignonroomsaus-met-witte-rijst-broccoli-en-gomasio.jpg"
+  },
+  {
+    "title": "Gevulde paprika met chili con carne met basmatirijst en labne",
+    "slug": "gevulde-paprika-met-chili-con-carne-met-basmatirijst-en-labne",
+    "time": "40 min",
+    "tags": [
+      "Veggie",
+      "Caloriebewust",
+      "Vis & veggie",
+      "Familie",
+      "Zonder varkensvlees",
+      "Klaar in 25 minuten",
+      "Klaar in 15 minuten",
+      "Original",
+      "Flexitarisch",
+      "Extra groente",
+      "Hoofdgerecht",
+      "Mexicaans"
+    ],
+    "image": "/receptenboek/assets/images/gevulde-paprika-met-chili-con-carne-met-basmatirijst-en-labne.jpg"
+  },
+  {
+    "title": "Honing mosterd zalm met geroosterde krieltjes",
+    "slug": "honing-mosterd-zalm-met-geroosterde-krieltjes",
+    "time": "40 min",
+    "tags": [
+      "Caloriebewust",
+      "Familie",
+      "Extra groente"
+    ],
+    "image": "/receptenboek/assets/images/honing-mosterd-zalm-met-geroosterde-krieltjes.jpg"
+  },
+  {
+    "title": "Kip stroganoff met rijst met paprika en champignons",
+    "slug": "kip-stroganoff-met-rijst-met-paprika-en-champignons",
+    "time": "35 min",
+    "tags": [
+      "Familie",
+      "Hoofdgerecht",
+      "Frans"
+    ],
+    "image": "/receptenboek/assets/images/kip-stroganoff-met-rijst-met-paprika-en-champignons.jpg"
+  },
+  {
+    "title": "Kipfilet in spinazie-roomsaus",
+    "slug": "kipfilet-in-spinazie-roomsaus",
+    "time": "50 min",
+    "tags": [
+      "Caloriebewust",
+      "Eiwitrijk"
+    ],
+    "image": "/receptenboek/assets/images/kipfilet-in-spinazie-roomsaus.jpg"
+  },
+  {
+    "title": "Kipfilet in spinazie-roomsaus met gebakken aardappelen, wortel en verse kruiden",
+    "slug": "kipfilet-in-spinazie-roomsaus-met-gebakken-aardappelen-wortel-en-verse-kruiden",
+    "time": "50 min",
+    "tags": [
+      "Caloriebewust",
+      "Eiwitrijk",
+      "Hoofdgerecht",
+      "Frans"
+    ],
+    "image": "/receptenboek/assets/images/kipfilet-in-spinazie-roomsaus-met-gebakken-aardappelen-wortel-en-verse-kruiden.jpg"
+  },
+  {
+    "title": "Kipworstjes met wortelpuree",
+    "slug": "kipworstjes-met-wortelpuree",
+    "time": "35 min",
+    "tags": [
+      "Familie",
+      "Extra groente",
+      "Caloriebewust"
+    ],
+    "image": "/receptenboek/assets/images/kipworstjes-met-wortelpuree.jpg"
+  },
+  {
+    "title": "Krieltjessalade met Mediterrane kipfilet",
+    "slug": "krieltjessalade-met-mediterrane-kipfilet",
+    "time": "20-25 min",
+    "tags": [
+      "Lekker snel",
+      "Caloriebewust",
+      "Familie"
+    ],
+    "image": "/receptenboek/assets/images/krieltjessalade-met-mediterrane-kipfilet.jpg"
+  },
+  {
+    "title": "Krokante kikkererwten met kruidige groene currysaus met bruine rijst, Thais basilicum en geroosterde groenten",
+    "slug": "krokante-kikkererwten-met-kruidige-groene-currysaus-met-bruine-rijst-thais-basilicum-en-geroosterde-groenten",
+    "time": "35 min",
+    "tags": [
+      "Plant-based",
+      "Hoofdgerecht",
+      "Thais"
+    ],
+    "image": "/receptenboek/assets/images/krokante-kikkererwten-met-kruidige-groene-currysaus-met-bruine-rijst-thais-basilicum-en-geroosterde-groenten.jpg"
+  },
+  {
+    "title": "Linguine met grote garnalen",
+    "slug": "linguine-met-grote-garnalen",
+    "time": "35-45 min",
+    "tags": [
+      "Caloriebewust",
+      "Familie"
+    ],
+    "image": "/receptenboek/assets/images/linguine-met-grote-garnalen.jpg"
+  },
+  {
+    "title": "Linzencurry met zoete aardappel en naan",
+    "slug": "linzencurry-met-zoete-aardappel-en-naan",
+    "time": "35-45 min",
+    "tags": [
+      "Caloriebewust",
+      "Veggie"
+    ],
+    "image": "/receptenboek/assets/images/linzencurry-met-zoete-aardappel-en-naan.jpg"
+  },
+  {
+    "title": "Mujaddara met harissa, cherrytomaten en komkommeryoghurt",
+    "slug": "mujaddara-met-harissa-cherrytomaten-en-komkommeryoghurt",
+    "time": "25-30 min",
+    "tags": [
+      "Lekker snel",
+      "Caloriebewust",
+      "Veggie"
+    ],
+    "image": "/receptenboek/assets/images/mujaddara-met-harissa-cherrytomaten-en-komkommeryoghurt.jpg"
+  },
+  {
+    "title": "Parelcouscous met chorizo en courgette",
+    "slug": "parelcouscous-met-chorizo-en-courgette",
+    "time": "20-25 min",
+    "tags": [
+      "Lekker snel",
+      "Caloriebewust"
+    ],
+    "image": "/receptenboek/assets/images/parelcouscous-met-chorizo-en-courgette.jpg"
+  },
+  {
+    "title": "Parelcouscous met geroosterde puntpaprika en witte kaas",
+    "slug": "parelcouscous-met-geroosterde-puntpaprika-en-witte-kaas",
+    "time": "40 min",
+    "tags": [
+      "Veggie",
+      "Extra groente"
+    ],
+    "image": "/receptenboek/assets/images/parelcouscous-met-geroosterde-puntpaprika-en-witte-kaas.jpg"
+  },
+  {
+    "title": "Piri-piri garnalen met tomatensalsa",
+    "slug": "piri-piri-garnalen-met-tomatensalsa",
+    "time": "25-30 min",
+    "tags": [
+      "Lekker snel",
+      "Caloriebewust"
+    ],
+    "image": "/receptenboek/assets/images/piri-piri-garnalen-met-tomatensalsa.jpg"
+  },
+  {
+    "title": "Pittige gebakken rijst met kimchi met vissaus, gebakken ei, furikake en sesamzaad",
+    "slug": "pittige-gebakken-rijst-met-kimchi-met-vissaus-gebakken-ei-furikake-en-sesamzaad",
+    "time": "30 min",
+    "tags": [
+      "Nieuw ingrediënt",
+      "Veggie",
+      "Vis & veggie",
+      "veggie",
+      "pescatarian",
+      "Hoofdgerecht",
+      "Koreaans"
+    ],
+    "image": "/receptenboek/assets/images/pittige-gebakken-rijst-met-kimchi-met-vissaus-gebakken-ei-furikake-en-sesamzaad.jpg"
+  },
+  {
+    "title": "Pittige udonnoedels met gemarineerde eieren",
+    "slug": "pittige-udonnoedels-met-gemarineerde-eieren",
+    "time": "45 min",
+    "tags": [
+      "Veggie"
+    ],
+    "image": "/receptenboek/assets/images/pittige-udonnoedels-met-gemarineerde-eieren.jpg"
   },
   {
     "title": "Rijstbowl met gebakken ei en zoete Aziatische saus",
     "slug": "rijstbowl-met-gebakken-ei-en-zoete-aziatische-saus",
     "time": "25 min",
-    "tags": ["Veggie"],
+    "tags": [
+      "Veggie"
+    ],
     "image": "/receptenboek/assets/images/rijstbowl-met-gebakken-ei-en-zoete-aziatische-saus.jpg"
   },
   {
@@ -112,45 +318,97 @@
     "image": "/receptenboek/assets/images/spaghetti-met-champignonroomsaus-en-spekjes.jpg"
   },
   {
-    "title": "Kipfilet in spinazie-roomsaus",
-    "slug": "kipfilet-in-spinazie-roomsaus",
-    "time": "50 min",
-    "tags": ["Caloriebewust","Eiwitrijk"],
-    "image": "/receptenboek/assets/images/kipfilet-in-spinazie-roomsaus.jpg"
+    "title": "Sweet & sticky biefstukreepjes met rijst, gebakken groenten en sesamzaadjes",
+    "slug": "sweet-en-sticky-biefstukreepjes-met-rijst-gebakken-groenten-en-sesamzaadjes",
+    "time": "20 min",
+    "tags": [
+      "Caloriebewust",
+      "Lekker snel",
+      "Eiwitrijk",
+      "Hoofdgerecht",
+      "Aziatisch"
+    ],
+    "image": "/receptenboek/assets/images/sweet-en-sticky-biefstukreepjes-met-rijst-gebakken-groenten-en-sesamzaadjes.jpg"
+  },
+  {
+    "title": "Sweet & sticky rundergehaktballetjes",
+    "slug": "sweet--sticky-rundergehaktballetjes",
+    "time": "25 min",
+    "tags": [
+      "Caloriebewust",
+      "Familie"
+    ],
+    "image": "/receptenboek/assets/images/sweet-sticky-rundergehaktballetjes.jpg"
+  },
+  {
+    "title": "Tomatenrisotto met garnalen met rucolasalade, basilicum en limoen",
+    "slug": "tomatenrisotto-met-garnalen-met-rucolasalade-basilicum-en-limoen",
+    "time": "35 min",
+    "tags": [
+      "Caloriebewust",
+      "Familie",
+      "Hoofdgerecht",
+      "Italiaans"
+    ],
+    "image": "/receptenboek/assets/images/tomatenrisotto-met-garnalen-met-rucolasalade-basilicum-en-limoen.jpg"
+  },
+  {
+    "title": "Tuna melt naanpizza met Siciliaanse kruiden, bieslook en knapperige salade",
+    "slug": "tuna-melt-naanpizza-met-siciliaanse-kruiden-bieslook-en-knapperige-salade",
+    "time": "25 min",
+    "tags": [
+      "Veggie",
+      "Caloriebewust",
+      "Vis & veggie",
+      "Familie",
+      "Zonder varkensvlees",
+      "Klaar in 25 minuten",
+      "Klaar in 15 minuten",
+      "Original",
+      "Flexitarisch",
+      "Extra groente",
+      "Lekker snel",
+      "Hoofdgerecht"
+    ],
+    "image": "/receptenboek/assets/images/tuna-melt-naanpizza-met-siciliaanse-kruiden-bieslook-en-knapperige-salade.jpg"
+  },
+  {
+    "title": "Varkenshaas met harissa, granaatappel en pompoen met witte kaas, tahin en bulgur",
+    "slug": "varkenshaas-met-harissa-granaatappel-en-pompoen-met-witte-kaas-tahin-en-bulgur",
+    "time": "25 min",
+    "tags": [
+      "Lekker snel",
+      "Hoofdgerecht"
+    ],
+    "image": "/receptenboek/assets/images/varkenshaas-met-harissa-granaatappel-en-pompoen-met-witte-kaas-tahin-en-bulgur.jpg"
   },
   {
     "title": "Verse conchiglie met mozzarella uit de oven",
     "slug": "verse-conchiglie-met-mozzarella-uit-de-oven",
     "time": "25 min",
-    "tags": ["Veggie"],
+    "tags": [
+      "Veggie"
+    ],
     "image": "/receptenboek/assets/images/verse-conchiglie-met-mozzarella-uit-de-oven.jpg"
   },
   {
-    "title": "Bulgogi stir-fry met noedels en varkensboerenworst",
-    "slug": "bulgogi-stir-fry-met-noedels-en-varkensboerenworst",
+    "title": "Zelfgemaakte bruschetta-burgers met balsamico-aardappeltjes en komkommersalade",
+    "slug": "zelfgemaakte-bruschetta-burgers-met-balsamico-aardappeltjes-en-komkommersalade",
     "time": "25 min",
-    "tags": ["Caloriebewust","Extra groente","Familie"],
-    "image": "/receptenboek/assets/images/bulgogi-stir-fry-met-noedels-en-varkensboerenworst.jpg"
+    "tags": [
+      "Familie",
+      "Lekker snel",
+      "Hoofdgerecht"
+    ],
+    "image": "/receptenboek/assets/images/zelfgemaakte-bruschetta-burgers-met-balsamico-aardappeltjes-en-komkommersalade.jpg"
   },
   {
-    "title": "Kipworstjes met wortelpuree",
-    "slug": "kipworstjes-met-wortelpuree",
-    "time": "35 min",
-    "tags": ["Familie","Extra groente","Caloriebewust"],
-    "image": "/receptenboek/assets/images/kipworstjes-met-wortelpuree.jpg"
-  },
-  {
-    "title": "Parelcouscous met geroosterde puntpaprika en witte kaas",
-    "slug": "parelcouscous-met-geroosterde-puntpaprika-en-witte-kaas",
-    "time": "40 min",
-    "tags": ["Veggie","Extra groente"],
-    "image": "/receptenboek/assets/images/parelcouscous-met-geroosterde-puntpaprika-en-witte-kaas.jpg"
-  },
-  {
-    "title": "Pittige udonnoedels met gemarineerde eieren",
-    "slug": "pittige-udonnoedels-met-gemarineerde-eieren",
-    "time": "45 min",
-    "tags": ["Veggie"],
-    "image": "/receptenboek/assets/images/pittige-udonnoedels-met-gemarineerde-eieren.jpg"
+    "title": "Zoete-aardappelstoof met zure room en jalapeño",
+    "slug": "zoete-aardappelstoof-met-zure-room-en-jalapeño",
+    "time": "25-30 min",
+    "tags": [
+      "Caloriebewust"
+    ],
+    "image": "/receptenboek/assets/images/zoete-aardappelstoof-met-zure-room-en-jalapeno.jpg"
   }
 ]

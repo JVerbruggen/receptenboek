@@ -167,7 +167,7 @@ img:not(.recipe-card-image) {
     grid-template-columns: 1fr;
     gap: 1rem;
   }
-  
+
   .recipe-card {
     margin-bottom: 1rem;
   }
@@ -273,12 +273,12 @@ function filterRecipes() {
 function filterRecipes() {
   const searchTerm = document.getElementById('recipeSearch').value.toLowerCase();
   const recipeCards = document.querySelectorAll('.recipe-card');
-  
+
   recipeCards.forEach(card => {
     const title = card.querySelector('h3 a').textContent.toLowerCase();
     const tags = Array.from(card.querySelectorAll('.recipe-tag')).map(tag => tag.textContent.toLowerCase()).join(' ');
     const searchText = title + ' ' + tags;
-    
+
     if (searchText.includes(searchTerm)) {
       card.style.display = 'block';
     } else {
@@ -672,25 +672,25 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 | Peper en zout | naar smaak |
 
 ## 1 Voorbereiden
-- Bereid de bouillon in een pan met deksel voor de parelcouscous (zie Tip).  
-- Voeg de parelcouscous toe en kook zachtjes, afgedekt, in 12 - 14 minuten droog. Roer de korrels daarna los met een vork en laat zonder deksel uitstomen.  
-- Snijd de ui in fijne halve ringen. Halveer de courgette in de lengte en snijd in dunne plakjes. Pers de knoflook of snijd fijn.  
+- Bereid de bouillon in een pan met deksel voor de parelcouscous (zie Tip).
+- Voeg de parelcouscous toe en kook zachtjes, afgedekt, in 12 - 14 minuten droog. Roer de korrels daarna los met een vork en laat zonder deksel uitstomen.
+- Snijd de ui in fijne halve ringen. Halveer de courgette in de lengte en snijd in dunne plakjes. Pers de knoflook of snijd fijn.
 
 ## 2 Bakken
-- Verwarm ondertussen 1/4 el olijfolie per persoon in een hapjespan op middelhoog vuur.  
-- Voeg de chorizoblokjes, ui en knoflook toe en bak 3 minuten.  
-- Voeg de courgette toe en bak 6 - 8 minuten, of tot de courgette gaar is.  
+- Verwarm ondertussen 1/4 el olijfolie per persoon in een hapjespan op middelhoog vuur.
+- Voeg de chorizoblokjes, ui en knoflook toe en bak 3 minuten.
+- Voeg de courgette toe en bak 6 - 8 minuten, of tot de courgette gaar is.
 - Voeg de cranberrychutney en de parelcouscous toe aan de hapjespan en bak nog 1 minuut. Breng op smaak met peper en zout.
 
 ## 3 Salade maken
-- Voeg de radicchio en ijsbergsla toe aan een saladekom.  
-- Breng de salade op smaak met de wittewijnazijn, peper en zout.  
+- Voeg de radicchio en ijsbergsla toe aan een saladekom.
+- Breng de salade op smaak met de wittewijnazijn, peper en zout.
 - Snijd de zongedroogde tomaten in reepjes.
 
 ## 4 Serveren
-- Verdeel de parelcouscous met groenten en chorizoblokjes over de borden. Verdeel de salade ernaast.  
-- Garneer met de zongedroogde tomaten.  
-- Verkruimel de witte kaas erboven.  
+- Verdeel de parelcouscous met groenten en chorizoblokjes over de borden. Verdeel de salade ernaast.
+- Garneer met de zongedroogde tomaten.
+- Verkruimel de witte kaas erboven.
 
 
 
@@ -1458,6 +1458,700 @@ Alle recepten bevatten gedetailleerde ingrediëntenlijsten en stap-voor-stap ins
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Dahl met kokos en paneer met linzen, groenten en naan {#dahl-met-kokos-en-paneer-met-linzen-groenten-en-naan}
+
+![Dahl met kokos en paneer met linzen, groenten en naan](/receptenboek/assets/images/dahl-met-kokos-en-paneer-met-linzen-groenten-en-naan.jpg)
+
+- Totale tijd: 35 min.
+- veggie, vis & veggie, veggie, pescatarian, flexitarian, everyday healthy, flexitarian, hoofdgerecht, indiase.
+- Bron: https://www.hellofresh.nl/recipes/dahl-met-kokos-en-paneer-6389c9b22bf271b6f70ff612
+
+## Benodigdheden
+2 personen
+
+| Ingredient | Hoeveelheid |
+|------------|-------------|
+| Ui | 1 stuk(s) |
+| cm Verse gember | 2.5 |
+| Wortel | 2 stuk(s) |
+| zakje(s) Kerriepoeder | 1 |
+| Tomatenpuree | 1 |
+| Kokosmelk | 180 ml |
+| Rode splitlinzen | 50 gram |
+| Spinazie | 200 gram |
+| Paneer | 130 gram |
+| Naan met kruiden | 1 stuk(s) |
+| Verse koriander | 10 gram |
+| Limoen | ½ stuk(s) |
+| Olijfolie | 1 el |
+| naar smaak Peper en zout |  |
+| Zoutarme groentebouillon | 300 ml |
+| Zonnebloemolie | 1 el |
+
+## 1 Stap 1
+- Verwarm de oven voor op 200 graden en bereid de bouillon. Snipper de ui en rasp de gember (eventueel met schil) fijn. Snijd de wortel in blokjes van ongeveer 1 cm. Tip: Zorg dat je de peen echt goed klein snijdt, anders wordt deze niet gaar.
+
+## 2 Stap 2
+- Verhit 1/2 el zonnebloemolie per persoon in een grote hapjespan met deksel op middelhoog vuur. Bak de ui, gember en de wortel 2 - 3 minuten. Voeg het kerriepoeder en de tomatenpuree toe. Roer goed en bak nog 2 minuten. Roer de kokosmelk los of schud het pakje flink zodat eventuele klontjes oplossen. Voeg de kokosmelk en de bouillon toe aan de pan en breng aan de kook.
+
+## 3 Stap 3
+- Voeg de rode splitlinzen toe, breng op smaak met peper en zout en kook de dahl, afgedekt, 18 – 20 minuten, of tot de linzen gaar zijn. Roer halverwege door en voeg de spinazie toe. Voeg eventueel wat water toe als de dahl te droog wordt. Tip: Linzen bevatten van alle peulvruchten de grootste hoeveelheid ijzer. Daarnaast zijn ze, net als spinazie, rijk aan vezels en kalium. Kalium helpt bij behoud van een gezonde bloeddruk.
+
+## 4 Stap 4
+- Dep ondertussen de paneer droog met keukenpapier en snijd in stukjes van ongeveer 2 cm. Verhit 1/4 el olijfolie per persoon in een koekenpan op middelhoog vuur en bak de paneer in 4 - 6 minuten lichtbruin. Breng op smaak met peper en zout. Leg op een bord met keukenpapier. Tip: Als je de paneer te lang bakt wordt hij droog.
+
+## 5 Stap 5
+- Bak de naan 2 - 3 minuten in de voorverwarmde oven. Snijd daarna de naan in punten. Hak de koriander fijn en pers de limoen uit. Meng in een grote kom de koriander met het limoensap en roer de paneer erdoor. Breng op smaak met peper en zout.
+
+## 6 Stap 6
+- Voeg de paneer met dressing vlak voor serveren toe aan de dahl en verwarm kort zodat de paneer wat zachter en warm wordt. Verdeel de dahl over kommen en serveer met de naanpunten.
+
+---
+
+# Gekruide kipfilet met champignonroomsaus met witte rijst, broccoli en gomasio {#gekruide-kipfilet-met-champignonroomsaus-met-witte-rijst-broccoli-en-gomasio}
+
+![Gekruide kipfilet met champignonroomsaus met witte rijst, broccoli en gomasio](/receptenboek/assets/images/gekruide-kipfilet-met-champignonroomsaus-met-witte-rijst-broccoli-en-gomasio.jpg)
+
+- Totale tijd: 25 min.
+- lekker snel, familie, caloriebewust, veggie, vis & veggie, zonder varkensvlees, klaar in 25 minuten, klaar in 15 minuten, original, flexitarisch, extra veggies, hoofdgerecht, fusion.
+- Bron: https://www.hellofresh.nl/recipes/gekruide-kipfilet-met-champignonroomsaus-63f4d970b6ae9e66039dd733
+
+## Benodigdheden
+2 personen
+
+| Ingredient | Hoeveelheid |
+|------------|-------------|
+| Champignons | 250 gram |
+| Witte langgraanrijst | 150 gram |
+| zakje(s) Gomasio-tuinkruidenmix | 1 |
+| Kipfilet met mediterrane kruiden | 2 stuk(s) |
+| Kookroom | 150 ml |
+| Ui | 1 stuk(s) |
+| Broccoli | 200 gram |
+| Olijfolie | 1.5 el |
+| Zoutarm kippenbouillonblokje | ½ stuk(s) |
+| Mosterd | 2 tl |
+| naar smaak Peper en zout |  |
+
+## 1 Stap 1
+- Breng ruim water aan de kook in een pan met deksel voor de rijst en broccoli. Snijd de champignons in kwarten. Snipper de ui. Snijd de bloem van de broccoli in roosjes en de steel in blokjes. Weetje : Champignons zijn rijk aan het mineraal fosfor, dat samen met calcium zorgt voor stevige botten en tanden. Fosfor zit voornamelijk in vlees, vis en zuivel, maar ook in plantaardige producten zoals peulvruchten, volkoren granen en paddenstoelen.
+
+## 2 Stap 2
+- Verhit 1/4 el olijfolie per persoon in een hapjespan met deksel op middelhoog vuur en bak de ui en champignons 4 - 6 minuten, of tot de ui glazig is (zie Tip). Breng op smaak met peper en zout. Roer regelmatig door. Tip : Champignons nemen bij het bakken eerst veel vocht op en laten dit daarna weer los. Het lijkt daardoor alsof ze aanbakken, maar dat gebeurt niet - voeg dus geen extra olie toe.
+
+## 3 Stap 3
+- Verhit 1/2 el olijfolie per persoon in een koekenpan op middelhoog vuur. Bak de kipfilet in 3 - 5 minuten rondom bruin. Hij hoeft nog niet helemaal gaar te zijn.
+
+## 4 Stap 4
+- Voeg de kookroom en per persoon: 25 ml water, 1/4 kippenbouillonblokje en 1 tl mosterd toe aan de hapjespan met de champignons en ui. Laat de champignonsaus in 5 minuten inkoken (zie Tip). Voeg dan de kipfilet toe en dek de pan af. Kook de saus, afgedekt, nog 8 – 12 minuten. Tip : Proef de champignonsaus goed en roer regelmatig door. Vind je de saus nog te dun? Zet dan het vuur wat hoger, haal het deksel van de pan en laat de saus nog wat langer inkoken. Vind je de saus te dik? Voeg dan wat extra water toe.
+
+## 5 Stap 5
+- Kook de rijst, afgedekt, 10 - 12 minuten. Kook de laatste 5 - 7 minuten de broccoli mee. Giet daarna af en laat zonder deksel uitstomen.
+
+## 6 Stap 6
+- Verdeel de rijst en broccoli over de borden en garneer met de gomasio-tuinkruidenmix. Leg de kipfilet op de rijst en verdeel de champignonroomsaus erover.
+
+---
+
+# Krokante kikkererwten met kruidige groene currysaus met bruine rijst, Thais basilicum en geroosterde groenten {#krokante-kikkererwten-met-kruidige-groene-currysaus-met-bruine-rijst-thais-basilicum-en-geroosterde-groenten}
+
+![Krokante kikkererwten met kruidige groene currysaus met bruine rijst, Thais basilicum en geroosterde groenten](/receptenboek/assets/images/krokante-kikkererwten-met-kruidige-groene-currysaus-met-bruine-rijst-thais-basilicum-en-geroosterde-groenten.jpg)
+
+- Totale tijd: 35 min.
+- plant-based, hoofdgerecht, thais.
+- Bron: https://www.hellofresh.nl/recipes/geroosterde-bloemkool-in-groene-currysaus-681236355917498f8bf2ef31
+
+## Benodigdheden
+2 personen
+
+| Ingredient | Hoeveelheid |
+|------------|-------------|
+| Bruine snelkookrijst | 150 gram |
+| Knoflookteen | 2 stuk(s) |
+| Rode ui | 1 stuk(s) |
+| Courgette | 1 stuk(s) |
+| Broccoli | 250 gram |
+| Limoen | ½ stuk(s) |
+| Vers citroengras | 1 stuk(s) |
+| Thais basilicum | 10 gram |
+| zakje(s) Groene currykruiden | 1 |
+| Kokosmelk | 180 ml |
+| Ongezouten pinda's | 10 gram |
+| pak(ken) Kikkererwten | 1 |
+| Gemalen korianderzaad | 2 tl |
+| Zoutarme groentebouillon | 150 ml |
+| Olijfolie | 3 el |
+| Suiker | 2 tl |
+| Maiszetmeel [of bloem] | ½ el |
+| Water | 1 el |
+
+## 1 Stap 1
+- Verwarm de oven voor op 200 graden. Bereid de bouillon. Snijd de bloem van de broccoli in kleine roosjes en de steel in blokjes. Snijd de courgette in halve maantjes. Voeg beide toe aan een bakplaat met bakpapier en besprenkel met een scheutje olijfolie. Breng op smaak met peper en zout. Rooster 18 - 22 minuten. Schep halverwege om.
+
+## 2 Stap 2
+- Spoel de kikkererwten onder koud water, laat uitlekken in een vergiet en dep droog met keukenpapier. Voeg toe aan een kom. Voeg de gemalen koriander toe en besprenkel met een scheutje olijfolie. Breng op smaak met peper en zout. Schep goed om. Voeg toe aan een bakplaat met bakpapier en rooster 15 - 20 minuten in de oven.
+
+## 3 Stap 3
+- Breng ruim water aan de kook in een pan voor de rijst. Snipper de ui en pers de knoflook of snijd fijn. Snijd de limoen in 4 partjes. Knik de citroengrasstengels op minstens 3 plaatsen. Kook de rijst 10 minuten. Giet daarna af en bewaar apart.
+
+## 4 Stap 4
+- Verhit een scheutje olijfolie in een wok of hapjespan op middelhoog vuur. Bak de knoflook en ui 2 minuten. Voeg de groene currykruiden toe en bak 1 minuut. Voeg de kokosmelk, het citroengras, de suiker en de bouillon toe. Breng aan de kook laat 5 minuten zachtjes koken.
+
+## 5 Stap 5
+- Meng in een kleine kom het maiszetmeel met de aangegeven hoeveelheid water. Scheur of snijd het Thais basilicum grof. Voeg het maiszetmeelmengsel en de helft van het Thaise basilicum toe aan de curry. Roer goed door en breng op smaak met peper en zout. Laat zachtjes koken tot serveren. Hak de pinda's grof.
+
+## 6 Stap 6
+- Haal het citroengras uit de curry. Serveer de rijst en de geroosterde groenten op borden. Verdeel de currysaus en krokante kikkererwten eroverheen. Garneer met de pinda's en het overige Thais basilicum. Serveer de limoenpartjes ernaast.
+
+---
+
+# Gevulde paprika met chili con carne met basmatirijst en labne {#gevulde-paprika-met-chili-con-carne-met-basmatirijst-en-labne}
+
+![Gevulde paprika met chili con carne met basmatirijst en labne](/receptenboek/assets/images/gevulde-paprika-met-chili-con-carne-met-basmatirijst-en-labne.jpg)
+
+- Totale tijd: 40 min.
+- veggie, caloriebewust, vis & veggie, familie, zonder varkensvlees, klaar in 25 minuten, klaar in 15 minuten, original, flexitarisch, extra groente, hoofdgerecht, mexicaans.
+- Bron: https://www.hellofresh.nl/recipes/gevulde-paprika-met-chili-con-carne-637f44ea35728a6b3702cb8e
+
+## Benodigdheden
+2 personen
+
+| Ingredient | Hoeveelheid |
+|------------|-------------|
+| Paprika | 2 stuk(s) |
+| Basmatirijst | 75 gram |
+| Ui | 1 stuk(s) |
+| Rode peper | ½ stuk(s) |
+| Paprika | 1 stuk(s) |
+| Tomaat | 2 stuk(s) |
+| Half-om-halfgehakt | 200 gram |
+| ⅔ zakje(s) Mexicaanse kruiden |  |
+| pak(ken) Rode kidneybonen | 1 |
+| Labne | 40 gram |
+| Geraspte cheddar | 25 gram |
+| [Plantaardige] roomboter | 1 el |
+| Zwarte balsamicoazijn | 2 tl |
+| naar smaak Peper en zout |  |
+
+## 1 Stap 1
+- Verwarm de oven voor op 200 graden. Breng ruim water aan de kook in een pan met deksel voor de rijst. Snijd de groene paprika in de lengte doormidden, verwijder de zaadlijsten en leg de groene paprika met de open kant naar beneden op een bakplaat met bakpapier. Bak de groene paprika 15 – 20 minuten in de voorverwarmde oven, of tot hij lichtbruin kleurt.
+
+## 2 Stap 2
+- Kook ondertussen de basmatirijst, afgedekt, 12 – 15 minuten in de pan met deksel. Giet daarna af en laat zonder deksel uitstomen.
+
+## 3 Stap 3
+- Snipper ondertussen de ui. Verwijder de zaadlijsten van de rode peper en snijd fijn. Snijd de overige paprika en tomaat in blokjes.
+
+## 4 Stap 4
+- Verhit de roomboter in een wok of hapjespan met deksel en fruit de ui 2 minuten op middellaag vuur. Voeg het Italiaans gekruide half-om-half gehakt, de rode peper en de Mexicaanse kruiden toe en breng op smaak met peper en zout. Bak het gehakt in 1 – 2 minuten los op middelhoog vuur - het hoeft nog niet gaar te zijn. Tip: Let op: de rode peper is pittig! Eten er kinderen mee of houd je niet zo van pittig? Voeg dan de helft van de rode peper toe, of houd het apart om later mee te garneren.
+
+## 5 Stap 5
+- Voeg de tomaat- en paprikablokjes, kidneybonen (afgieten is niet nodig) en de zwarte balsamicoazijn toe aan de wok of hapjespan. Dek de pan af en laat 10 – 12 minuten stoven op middelmatig vuur. Haal de laatste 5 – 6 minuten het deksel van de pan. Roer regelmatig door en breng op smaak met peper en zout. Tip: Wist je dat kidneybonen van alle bonen de meeste vezels bevatten? Het eten van voldoende vezels is niet alleen goed voor je darmen, maar verlaagt ook het risico op hart- en vaatziekten.
+
+## 6 Stap 6
+- Verdeel de rijst over de borden en leg de groene paprika's ernaast. Vul de groene paprika's met de chili. Garneer met de labne en de geraspte cheddar. Tip: Wist je dat dit gerecht, voornamelijk door de paprika's, ruim 200% van de ADH vitamine C bevat?
+
+---
+
+# Conchiglie met misochampignons met Grana Padano, spinazie en gomasio {#conchiglie-met-misochampignons-met-grana-padano-spinazie-en-gomasio}
+
+![Conchiglie met misochampignons met Grana Padano, spinazie en gomasio](/receptenboek/assets/images/conchiglie-met-misochampignons-met-grana-padano-spinazie-en-gomasio.jpg)
+
+- Totale tijd: 25 min.
+- caloriebewust, veggie, vis & veggie, familie, zonder varkensvlees, klaar in 25 minuten, klaar in 15 minuten, original, flexitarisch, extra groente, lekker snel, hoofdgerecht.
+- Bron: https://www.hellofresh.nl/recipes/gigli-met-misochampignons-67b5e8d9381832d770717edb
+
+## Benodigdheden
+2 personen
+
+| Ingredient | Hoeveelheid |
+|------------|-------------|
+| Witte miso | 40 gram |
+| Champignons | 250 gram |
+| Spinazie | 200 gram |
+| Knoflookteen | 2 stuk(s) |
+| Grana Padanovlokken DOP | 20 gram |
+| Kookroom | 150 gram |
+| Rode peper | ½ stuk(s) |
+| zakje(s) Gomasio-tuinkruidenmix | 1 |
+| Conchiglie | 180 gram |
+| Ui | 1 stuk(s) |
+| Olijfolie | 1 el |
+| naar smaak Peper en zout |  |
+
+## 1 Stap 1
+- Breng ruim water aan de kook in een pan voor de pasta. Verwijder de zaadlijsten van de rode peper (let op: pittig! Gebruik naar smaak) en snijd fijn. Snipper de ui. Pers de knoflook of snijd fijn. Snijd de champignons in kwarten. Kook de pasta, afgedekt, 14 - 16 minuten. Giet daarna af, maar bewaar 50 ml kookvocht per persoon.
+
+## 2 Stap 2
+- Verhit een scheutje olijfolie in een hapjespan op middelhoog vuur. Bak de champignons 3 - 4 minuten. Roer de knoflook, ui en rode peper erdoor en bak 1 - 2 minuten verder. Voeg de witte miso (let op: zout! Gebruik naar smaak) en room toe en verhit nog 1 - 2 minuten.
+
+## 3 Stap 3
+- Roer de spinazie door de saus en kook 2 - 3 minuten verder, of tot de spinazie geslonken is. Roer de pasta door de saus en voeg eventueel wat van het kookvocht toe. Proef en breng eventueel op smaak met peper en zout. Meng ondertussen in een kleine kom de Grana Padano met de gomasio-tuinkruidenmix.
+
+## 4 Stap 4
+- Verdeel de pasta over de borden. Garneer met de Grana Padano-gomasiotopping.
+
+---
+
+# Varkenshaas met harissa, granaatappel en pompoen met witte kaas, tahin en bulgur {#varkenshaas-met-harissa-granaatappel-en-pompoen-met-witte-kaas-tahin-en-bulgur}
+
+![Varkenshaas met harissa, granaatappel en pompoen met witte kaas, tahin en bulgur](/receptenboek/assets/images/varkenshaas-met-harissa-granaatappel-en-pompoen-met-witte-kaas-tahin-en-bulgur.jpg)
+
+- Totale tijd: 25 min.
+- lekker snel, hoofdgerecht.
+- Bron: https://www.hellofresh.nl/recipes/global-cuisine-and-quick-25-min-chicken-or-pork-couscous-or-grains-6644b2c2f3feb95b85903bb1
+
+## Benodigdheden
+2 personen
+
+| Ingredient | Hoeveelheid |
+|------------|-------------|
+| Varkenshaas | 2 stuk(s) |
+| Citroen | 1 stuk(s) |
+| Bulgur | 150 gram |
+| Pompoenblokjes | 150 gram |
+| Rode ui | 1 stuk(s) |
+| Tahinsaus | 40 gram |
+| zakje(s) Za'atar | 1 |
+| Spinazie | 100 gram |
+| Witte kaas | 50 gram |
+| Granaatappel | ½ stuk(s) |
+| Verse bladpeterselie | 10 gram |
+| zakje(s) Hello Harissa | 1 |
+| Olijfolie | 2 el |
+| Extra vierge olijfolie | 1 el |
+| [Plantaardige] roomboter | 1 el |
+| Zoutarm groentebouillonblokje | 1 stuk(s) |
+| naar smaak Peper en zout |  |
+
+## 1 Stap 1
+- Verwarm de oven voor op 200 graden. Snijd de ui in 8 partjes. Verdeel de ui en pompoen over een bakplaat met bakpapier. Besprenkel met de helft van de olijfolie. Breng op smaak met peper en zout en schep goed om. Rooster de groenten 14 - 16 minuten in de oven. Schep halverwege om. Voeg de bulgur en ruim water toe aan een pan zodat de bulgur goed onder water staat. Verkruimel het bouillonblokje erboven. Breng het water aan de kook en kook de bulgur in 10 minuten op laag vuur gaar. Roer af en toe door.
+
+## 2 Stap 2
+- Rasp de schil van de citroen. Snijd de helft van de citroen in partjes en pers de andere helft uit boven een diep bord. Voeg de harissa (let op: pittig! Gebruik naar smaak), de overige olijfolie en 1/2 tl citroenrasp per persoon toe. Roer goed door. Verhit de roomboter in een koekenpan op hoog vuur. Bak de varkenshaas in 2 - 3 minuten rondom bruin. Leg de varkenshaas in een ovenschaal en schenk het harissamengsel erover. Rooster de varkenshaas 6 - 8 minuten in de oven.
+
+## 3 Stap 3
+- Rol ondertussen de granaatappel al duwend over het aanrecht zodat je de pitjes hoort kraken. Snijd de granaatappel doormidden en haal de granaatappelpitjes uit de schil. Hak de peterselie grof. Meng in een kleine kom de tahin met het sap van 1 citroenpartje per persoon. Roer de spinazie, za'atar en de extra vierge olijfolie door de bulgur (zie Tip). Meng goed door en breng op smaak met peper en zout. Tip: Zorg ervoor dat de bulgur nog warm is, zodat de spinazie kan slinken.
+
+## 4 Stap 4
+- Snijd de varkenshaas in plakken. Verdeel de bulgur over diepe borden en leg de pompoen, ui en varkenshaas erbovenop. Verkruimel de witte kaas eroverheen en besprenkel met de tahinsaus. Garneer met de peterselie en de granaatappelpitjes.
+
+---
+
+# Zelfgemaakte bruschetta-burgers met balsamico-aardappeltjes en komkommersalade {#zelfgemaakte-bruschetta-burgers-met-balsamico-aardappeltjes-en-komkommersalade}
+
+![Zelfgemaakte bruschetta-burgers met balsamico-aardappeltjes en komkommersalade](/receptenboek/assets/images/zelfgemaakte-bruschetta-burgers-met-balsamico-aardappeltjes-en-komkommersalade.jpg)
+
+- Totale tijd: 25 min.
+- familie, lekker snel, hoofdgerecht.
+- Bron: https://www.hellofresh.nl/recipes/homemade-bruschetta-burgers-65ae461b2052454790628b7e
+
+## Benodigdheden
+2 personen
+
+| Ingredient | Hoeveelheid |
+|------------|-------------|
+| Tomaat | 2 stuk(s) |
+| Vers basilicum | 5 gram |
+| Knoflookteen | 2 stuk(s) |
+| Ui | 1 stuk(s) |
+| Geraspte Goudse kaas | 25 gram |
+| Rundergehakt met Italiaanse kruiden | 200 gram |
+| Aardappelen | 400 gram |
+| Komkommer | 1 stuk(s) |
+| Hamburgerbol met sesam | 2 stuk(s) |
+| Mosterd | 2 tl |
+| [Plantaardige] mayonaise | 2 el |
+| Witte balsamicoazijn | 2 tl |
+| Extra vierge olijfolie | ½ el |
+| Olijfolie | ½ el |
+| [Plantaardige] roomboter | 1 el |
+| Zwarte balsamicoazijn | 4 tl |
+| naar smaak Peper en zout |  |
+
+## 1 Stap 1
+- Verwarm de oven voor op 200 graden. Snipper de ui. Pel de knoflook, houd de helft apart en pers de overige knoflook of snijd fijn. Schil de aardappelen of was grondig en snijd in plakken van 1/2 cm dik. Zet de aardappelen ruim onder water in een pan en kook, afgedekt, 6 - 7 minuten. Giet af en laat uitstomen.
+
+## 2 Stap 2
+- Verhit de roomboter in een koekenpan op middelhoog vuur en bak de aardappelen in 7 minuten goudbruin. Voeg de fijngesneden knoflook toe, samen met de helft van de ui en de helft van de balsamicoazijn. Bak 3 minuten verder en breng op smaak met peper en zout.
+
+## 3 Stap 3
+- Snijd de tomaat in blokjes, snijd het basilicum in reepjes en voeg de tomaat en basilicum toe aan een kom. Voeg de extra vierge olijfolie en de overige balsamicoazijn toe en meng goed. Breng op smaak met peper en zout en zet opzij.
+
+## 4 Stap 4
+- Snijd de komkommer in dunne reepjes. Meng in een saladekom de komkommerreepjes, de mosterd, de witte balsamicoazijn en de helft van de mayonaise toe. Meng goed, breng op smaak met peper en zout en zet opzij. Meng in een kom het gehakt met de overige ui. Vorm een burger van het gehaktmengsel.
+
+## 5 Stap 5
+- Snijd het broodje open en rooster het 4 - 5 minuten in de oven. Verhit de olijfolie in een koekenpan op middelhoog vuur. Bak de burger 2 minuten per kant en beleg met de geraspte kaas. Zet het vuur lager en dek de pan af, zodat de kaas kan smelten.
+
+## 6 Stap 6
+- Wrijf de achtergehouden knoflook over de binnenkant van het broodje. Bestrijk met de overige mayonaise en beleg met de burger en de bruschetta-topping. Serveer de burger met de komkommersalade en aardappelschijfjes. Weetje: Wist je dat tomaten veel voordelen hebben voor je gezondheid? Ze zijn rijk aan vitamine A, C en E én lycopeen. Lycopeen is een antioxidant en beschermt onze cellen tegen schadelijke invloeden. Hoe rijper de tomaat, hoe meer lycopeen!
+
+---
+
+# Kip stroganoff met rijst met paprika en champignons {#kip-stroganoff-met-rijst-met-paprika-en-champignons}
+
+![Kip stroganoff met rijst met paprika en champignons](/receptenboek/assets/images/kip-stroganoff-met-rijst-met-paprika-en-champignons.jpg)
+
+- Totale tijd: 35 min.
+- familie, hoofdgerecht, frans.
+- Bron: https://www.hellofresh.nl/recipes/kip-stroganoff-met-rijst-61cdc6a194c33e6c0c31d952
+
+## Benodigdheden
+2 personen
+
+| Ingredient | Hoeveelheid |
+|------------|-------------|
+| Ui | 1 stuk(s) |
+| Knoflookteen | 1 stuk(s) |
+| Paprika | 1.5 stuk(s) |
+| Kipfilethaasjes | 2 stuk(s) |
+| Tomatenpuree | ½ |
+| Champignons | 125 gram |
+| Witte langgraanrijst | 170 gram |
+| Verse bladpeterselie | 10 gram |
+| Biologische zure room | 100 gram |
+| Mosterd | 2 tl |
+| Rodewijnazijn | 1 el |
+| Bloem | 1 el |
+| naar smaak Peper en zout |  |
+| [Plantaardige] roomboter | 2 el |
+| Zoutarm kippenbouillonblokje | ½ stuk(s) |
+
+## 1 Stap 1
+- Kook 75 ml water per persoon en voeg daaraan 1/4 kippenbouillonblokje per persoon toe. Snipper de ui. Pers de knoflook of snijd fijn. Snijd de paprika in dunne reepjes. Snijd de kipfilethaasjes in gelijke stukken van ongeveer 2 cm. Tip: Paprika is rijk aan vitamine E - een antioxidant dat je organen, ogen en weefsel beschermt. Je vindt vitamine E ook in volkoren granen, pinda's, zonnebloemolie, zonnebloempitten en groene bladgroenten.
+
+## 2 Stap 2
+- Breng ruim water met een snuf zout aan de kook in een pan met deksel voor de rijst. Verhit 1/2 el roomboter per persoon in een hapjespan op middelhoog vuur. Wrijf de kipfilethaasjes in met peper en zout en bak ze in 2 - 3 minuten rondom bruin. Haal uit de pan en bewaar apart (de kip hoeft nog niet gaar te zijn). Voeg de knoflook, ui en paprika toe aan dezelfde hapjespan en bak 3 - 4 minuten.
+
+## 3 Stap 3
+- Voeg de tomatenpuree toe aan de hapjespan en bak 2 - 3 minuten. Snijd de champignons in kwarten. Voeg opnieuw 1/2 el roomboter per persoon toe en verhoog het vuur. Voeg de champignons toe en bak nog 4 - 5 minuten. Voeg 1/2 el bloem per persoon toe, meng goed en roerbak 1 minuut.
+
+## 4 Stap 4
+- Kook ondertussen de rijst, afgedekt, 12 - 15 minuten. Giet daarna af en laat zonder deksel uitstomen. Hak de bladpeterselie grof.
+
+## 5 Stap 5
+- Blus de groenten in de hapjespan af met 1/2 el rodewijnazijn per persoon en voeg de bouillon toe. Verlaag het vuur en roer er de zure room, de helft van de peterselie, 1 tl mosterd per persoon, peper en zout door. Voeg de kipfilethaasjes opnieuw toe en breng zachtjes aan de kook. Laat 5 - 6 minuten sudderen.
+
+## 6 Stap 6
+- Verdeel de rijst over de borden. Verdeel de saus met groenten en kip over de rijst en garneer met de overige peterselie.
+
+---
+
+# Kipfilet in spinazie-roomsaus met gebakken aardappelen, wortel en verse kruiden {#kipfilet-in-spinazie-roomsaus-met-gebakken-aardappelen-wortel-en-verse-kruiden}
+
+![Kipfilet in spinazie-roomsaus met gebakken aardappelen, wortel en verse kruiden](/receptenboek/assets/images/kipfilet-in-spinazie-roomsaus-met-gebakken-aardappelen-wortel-en-verse-kruiden.jpg)
+
+- Totale tijd: 50 min.
+- caloriebewust, eiwitrijk, hoofdgerecht, frans.
+- Bron: https://www.hellofresh.nl/recipes/kipfilet-in-roomsaus-met-spinazie-en-wortel-67911660be277a0e68061a6e
+
+## Benodigdheden
+2 personen
+
+| Ingredient | Hoeveelheid |
+|------------|-------------|
+| Ui | 1 stuk(s) |
+| Wortel | 2 stuk(s) |
+| Knoflookteen | 2 stuk(s) |
+| Aardappelen | 400 gram |
+| Kipfilet met mediterrane kruiden | 2 stuk(s) |
+| Kookroom | 150 gram |
+| Spinazie | 100 gram |
+| Verse krulpeterselie en tijm | 10 gram |
+| Olijfolie | 1 el |
+| Zoutarme kippenbouillon | 200 ml |
+| [Plantaardige] roomboter | 2 el |
+| Bloem | 1 el |
+| naar smaak Peper en zout |  |
+
+## 1 Stap 1
+- Bereid de bouillon. Snipper de ui. Snijd de wortel in dunne schijfjes. Pers de knoflook of snijd fijn. Was of schil de aardappelen en snijd in kwarten. Snijd d e peterselie en fijn.
+
+## 2 Stap 2
+- Verhit een scheutje olijfolie in een koekenpan met deksel op middelhoog vuur. Bak de aardappelen, afgedekt, 30 - 35 minuten. Haal na 20 minuten het deksel van de pan en schep regelmatig om. Breng op smaak met peper en zout.
+
+## 3 Stap 3
+- Verhit een klontje roomboter in een pan op hoog vuur. Bak de kipfilet 2 - 3 minuten per kant. Haal uit de pan en bewaar apart. Bewaar ook de pan met bakvet.
+
+## 4 Stap 4
+- V erhit opnieuw een klontje roomboter in dezelfde pan op middelmatig vuur. Bak de ui, knoflook en wortel 3 - 4 minuten. Voeg de bloem toe en bak 1 minuut. Blus af met de bouillon. Voeg de tijmtakjes toe, roer goed door en laat het geheel, afgedekt, 10 minuten sudderen. Voeg de kipfilet toe aan de pan en pocheer 5 - 8 minuten, of tot de kip gaar is.
+
+## 5 Stap 5
+- Haal het deksel van de pan en voeg de room en de spinazie toe. Breng op smaak met peper en zout. Roer goed door en laat nog 4 - 6 minuten inkoken zonder deksel. Haal de tijmtakjes uit de pan. Weetje: Spinazie bevat veel voedingsstoffen, waaronder ijzer. IJzer is essentieel voor het vervoeren van zuurstof in ons lichaam, wat bijdraagt aan een energiek gevoel.
+
+## 6 Stap 6
+- Verdeel de aardappelen over de borden en schep de kipfilet erbij. Serveer met de romige spinaziesaus en garneer met de peterselie.
+
+---
+
+# Pittige gebakken rijst met kimchi met vissaus, gebakken ei, furikake en sesamzaad {#pittige-gebakken-rijst-met-kimchi-met-vissaus-gebakken-ei-furikake-en-sesamzaad}
+
+![Pittige gebakken rijst met kimchi met vissaus, gebakken ei, furikake en sesamzaad](/receptenboek/assets/images/pittige-gebakken-rijst-met-kimchi-met-vissaus-gebakken-ei-furikake-en-sesamzaad.jpg)
+
+- Totale tijd: 30 min.
+- nieuw ingrediënt, veggie, vis & veggie, veggie, pescatarian, hoofdgerecht, koreaans.
+- Bron: https://www.hellofresh.nl/recipes/open-briefing-use-nid-kimchi-66d57484946ad7f4e0839b04
+
+## Benodigdheden
+2 personen
+
+| Ingredient | Hoeveelheid |
+|------------|-------------|
+| Basmatirijst | 150 gram |
+| Ei | 2 stuk(s) |
+| Ui | 1 stuk(s) |
+| bosje(s) Bosui | 1 |
+| Wortel | 1 stuk(s) |
+| Champignons | 125 gram |
+| Sesamolie | 10 ml |
+| Kimchi | 50 gram |
+| Knoflookteen | 2 stuk(s) |
+| zakje(s) Furikake | 1 |
+| zakje(s) Sesamzaad | 1 |
+| Rode peper | ½ stuk(s) |
+| Vissaus | 20 ml |
+| Zonnebloemolie | 3 el |
+| Zoutarm groentebouillonblokje | ¾ stuk(s) |
+| Bruine basterdsuiker | 1 el |
+| Water | 360 ml |
+| [Zoutarme] sojasaus | 1 tl |
+| Wittewijnazijn | 1 el |
+
+## 1 Stap 1
+- Breng de aangegeven hoeveelheid water aan de kook in een pan. Verkruimel 2/3 van het bouillonblokje erboven. Kook de rijst, afgedekt, 8 minuten. Zet het vuur uit en laat 10 minuten uitstomen. Snijd de bosui in fijne ringen en bewaar het witte en groene gedeelte apart van elkaar. Rasp de wortel en snijd de champignons in plakjes. Snijd de ui in halve ringen. Snijd het steeltje van de rode peper (let op: pittig! Gebruik naar smaak). Rol de peper tussen je handen zodat de zaadjes eruit vallen. Snijd de peper in ringetjes en bewaar een deel apart ter garnering.
+
+## 2 Stap 2
+- Verhit 1/3 van de zonnebloemolie in een wok op hoog vuur. Voeg, wanneer de wok goed heet is, het witte gedeelte van de bosui, de ui, champignons, wortel en rode peper toe. Bak 4 - 6 minuten. Haal uit de pan en bewaar apart. Snijd ondertussen de kimchi (let op: pittig! Gebruik naar smaak) grof. Pers de knoflook of snijd fijn.
+
+## 3 Stap 3
+- Meng in een kleine kom de knoflook met de kimchi, sojasaus, wittewijnazijn, bruine suiker en vissaus. Voeg het overige bouillonblokje toe en bewaar de saus apart (zie Tip). Verhit opnieuw 1/3 van de zonnebloemolie in een koekenpan op middelhoog vuur en bak het ei. Gezondheidstip: Let jij op je zoutinname? Voeg dan de helft van de vissaus toe. Wie wil kan na het serveren naar smaak meer toevoegen.
+
+## 4 Stap 4
+- Verhit de sesamolie en de overige zonnebloemolie in dezelfde wok op hoog vuur. Voeg, wanneer de olie goed heet is, de rijst toe en bak 2 - 3 minuten. Roer zo min mogelijk door de rijst. Voeg de saus toe en bak 1 minuut, zodat de saus licht karamelliseert. Roer vervolgens de groenten erdoor. Serveer de gebakken rijst in kommen en leg het ei erbovenop. Garneer met de bosui, de achtergehouden rode peper, de sesamzaadjes en de furikake.
+
+---
+
+# Sweet & sticky biefstukreepjes met rijst, gebakken groenten en sesamzaadjes {#sweet-en-sticky-biefstukreepjes-met-rijst-gebakken-groenten-en-sesamzaadjes}
+
+![Sweet & sticky biefstukreepjes met rijst, gebakken groenten en sesamzaadjes](/receptenboek/assets/images/sweet-en-sticky-biefstukreepjes-met-rijst-gebakken-groenten-en-sesamzaadjes.jpg)
+
+- Totale tijd: 20 min.
+- caloriebewust, lekker snel, eiwitrijk, hoofdgerecht, aziatisch.
+- Bron: https://www.hellofresh.nl/recipes/sweet-and-sticky-biefstukreepjes-66d6d702946ad7f4e083b4a6
+
+## Benodigdheden
+2 personen
+
+| Ingredient | Hoeveelheid |
+|------------|-------------|
+| Biefstukreepjes | 200 gram |
+| Witte langgraanrijst | 150 gram |
+| Uienchutney | 40 gram |
+| Wortel | 1 stuk(s) |
+| Paksoi | 1 stuk(s) |
+| zakje(s) Nasi-bamikruidenmix | 1 |
+| Zoete Aziatische saus | 35 gram |
+| Paprika | 1 stuk(s) |
+| zakje(s) Sesamzaad | 1 |
+| Zoutarm groentebouillonblokje | 1 stuk(s) |
+| Zonnebloemolie | 1 el |
+| [Plantaardige] roomboter | 1 el |
+| [Zoutarme] sojasaus | 4 tl |
+| Water voor saus | 1 el |
+| naar smaak Peper en zout |  |
+
+## 1 Stap 1
+- Breng ruim water aan de kook in een pan en verkruimel het bouillonblokje erboven. Kook de rijst 12 - 15 minuten. Giet daarna af en laat uitstomen. Verwijder de steelaanzet van de paksoi, snijd zowel de stelen als het blad van de paksoi klein en houd de stelen apart van de groene bladeren. Snijd de wortel in dunne halve maantjes en snijd de paprika in blokjes.
+
+## 2 Stap 2
+- Verhit een sch eutje zonnebloemolie in een wok of hapjespan op middelhoog vuur. Roerbak de wortel, de paprika en de paksoistelen 6 - 8 minuten. Voeg de paksoibladeren, de nasi-bamikruidenmix en de helft van de sojasaus toe. Meng goed en bak 1 minuut. Breng op smaak met peper en zout.
+
+## 3 Stap 3
+- Verhit een klontje roomboter in een koekenpan op hoog vuur en bak de biefstukreepjes 1 minuut. Voeg de zoete Aziatische saus, de uienchutney, de aangegeven hoeveelheid water voor de saus en de overige sojasaus toe. Meng goed en bak nog 1 minuut (zie Tip). Breng op smaak met peper. Tip: Voeg sambal naar smaak toe als je het pittiger wilt maken.
+
+## 4 Stap 4
+- Serveer de rijst in kommen. Leg alles erbovenop. Besprenkel met de eventuele achtergebleven saus uit de koekenpan. Garneer met de sesamzaadjes.
+
+---
+
+# Tomatenrisotto met garnalen met rucolasalade, basilicum en limoen {#tomatenrisotto-met-garnalen-met-rucolasalade-basilicum-en-limoen}
+
+![Tomatenrisotto met garnalen met rucolasalade, basilicum en limoen](/receptenboek/assets/images/tomatenrisotto-met-garnalen-met-rucolasalade-basilicum-en-limoen.jpg)
+
+- Totale tijd: 35 min.
+- caloriebewust, familie, hoofdgerecht, italiaans.
+- Bron: https://www.hellofresh.nl/recipes/tomatenrisotto-met-garnalen-685aca005bd0c120800370ad
+
+## Benodigdheden
+2 personen
+
+| Ingredient | Hoeveelheid |
+|------------|-------------|
+| Knoflookteen | 2 stuk(s) |
+| Ui | 1 stuk(s) |
+| Tomatenpuree | ½ |
+| ⅔ blik(ken) Cherrytomaten in blik |  |
+| Garnalen | 160 gram |
+| Vers basilicum | 5 gram |
+| Rucola | 40 gram |
+| Risottorijst | 150 gram |
+| Limoen | ½ stuk(s) |
+| Olijfolie | 2 el |
+| Extra vierge olijfolie | 1 tl |
+| Zoutarme groentebouillon | 600 ml |
+| [Plantaardige] roomboter | 1 el |
+| Zwarte balsamicoazijn | 1 el |
+| naar smaak Peper en zout |  |
+
+## 1 Stap 1
+- Verwarm de oven voor op 200 graden. Bereid de bouillon. Snipper de ui. Pers de knoflook of snijd fijn. Rasp de schil van de limoen en snijd de limoen in 6 partjes. Pers 1 limoenpartje per persoon uit boven een kleine kom. Dep de garnalen droog met keukenpapier en voeg toe aan een kom. Besprenkel met een scheutje olijfolie. Voeg de helft van de knoflook en de helft van de limoenrasp toe. Roer goed door.
+
+## 2 Stap 2
+- Verhit een klontje roomboter in een grote pan op middelhoog vuur. Bak de ui en overige de knoflook 1 - 2 minuten. Voeg de risottorijst toe en bak 1 - 2 minuten mee. Voeg de tomatenpuree toe en roer goed door.
+
+## 3 Stap 3
+- Voeg 1/3 van de bouillon toe en laat de risottorijst de bouillon langzaam opnemen. Roer regelmatig door. Voeg, zodra de bouillon is opgenomen, weer 1/3 van de bouillon toe en herhaal dit nog 2 keer met de overige bouillon. De risotto is gaar zodra de korrel vanbuiten zacht is en nog een lichte bite heeft vanbinnen. Dit duurt ongeveer 20 - 25 minuten. Kook de risotto langer met meer bouillon als je een zachtere risotto wilt.
+
+## 4 Stap 4
+- Giet de cherrytomaten in blik af en voeg toe aan een ovenschaal. Besprenkel met een scheutje olijfolie. Voeg de zwarte balsamicoazijn toe en breng op smaak met peper en zout. Rooster 15 minuten in de oven. Meng ondertussen in een saladekom het limoensap met de rucola en de extra vierge olijfolie. Breng op smaak met peper en zout.
+
+## 5 Stap 5
+- Verhit een koekenpan zonder olie op middelhoog vuur. Bak de garnalen in 3 minuten gaar. Haal daarna uit de pan en bewaar apart. Snijd het basilicum fijn en meng in een kom met de overige limoenrasp. Voeg de helft van het kruiden-limoenmengsel toe aan de risotto samen met de kerstomaten en garnalen, inclusief het bakvocht. Roer goed door.
+
+## 6 Stap 6
+- Serveer de risotto over de borden. Serveer de rucolasalade ernaast. Garneer met het overige basilicum-limoenmengsel. Serveer met de limoenpartjes.
+
+---
+
+# Tuna melt naanpizza met Siciliaanse kruiden, bieslook en knapperige salade {#tuna-melt-naanpizza-met-siciliaanse-kruiden-bieslook-en-knapperige-salade}
+
+![Tuna melt naanpizza met Siciliaanse kruiden, bieslook en knapperige salade](/receptenboek/assets/images/tuna-melt-naanpizza-met-siciliaanse-kruiden-bieslook-en-knapperige-salade.jpg)
+
+- Totale tijd: 25 min.
+- veggie, caloriebewust, vis & veggie, familie, zonder varkensvlees, klaar in 25 minuten, klaar in 15 minuten, original, flexitarisch, extra groente, lekker snel, hoofdgerecht.
+- Bron: https://www.hellofresh.nl/recipes/tuna-melt-naanpizza-6894800fcc90c7911daf3083
+
+## Benodigdheden
+2 personen
+
+| Ingredient | Hoeveelheid |
+|------------|-------------|
+| Knoflookteen | 1 stuk(s) |
+| blik(ken) Tonijn in water | 1 |
+| Naan | 2 stuk(s) |
+| Geraspte Goudse kaas | 50 gram |
+| Mini-komkommer | 1 stuk(s) |
+| Pruimtomaat | 2 stuk(s) |
+| Passata | 200 gram |
+| zakje(s) Siciliaanse kruidenmix | 1 |
+| Rode ui | 1 stuk(s) |
+| Verse bieslook | 10 gram |
+| Extra vierge olijfolie | 1 el |
+| Wittewijnazijn | 1 el |
+| Suiker | 2 tl |
+| Mosterd | 1 tl |
+| Olijfolie | ½ el |
+| Zwarte balsamicoazijn | 1 tl |
+| naar smaak Peper en zout |  |
+
+## 1 Stap 1
+- Verwarm de oven voor op 200 graden. Snijd de ui in halve ringen. Pers de knoflook of snijd fijn. Verhit een klein scheutje olijfolie in een koekenpan op middelhoog vuur. Bak de knoflook, passata, Siciliaanse kruiden, de zwarte balsamicoazijn en de helft van de suiker 4 - 5 minuten. Breng op smaak met peper en zout.
+
+## 2 Stap 2
+- Leg ondertussen de naan op een bakplaat met bakpapier en bak 4 - 5 minuten voor in de oven. Laat ondertussen de tonijn uitlekken. Besmeer de naan met de tomatensaus. Beleg met de tonijn en de helft van de ui. Verdeel de geraspte belegen kaas over de naanpizza's. Bak de naanpizza's 5 - 8 minuten in de oven.
+
+## 3 Stap 3
+- Snijd ondertussen de komkommer in dunne halve maantjes. Snijd de tomaat in partjes. Snijd de bieslook fijn. Meng in een grote saladekom de wittewijnazijn met de extra vierge olijfolie, de mosterd en de overige suiker. Breng op smaak met peper en zout.
+
+## 4 Stap 4
+- Voeg, vlak voor serveren, de tomaat, komkommer en bieslook toe aan de saladekom. Voeg de overige ui toe en meng goed met de dressing. Serveer de naanpizza's met de salade ernaast.
+
+---
+
+
 <!-- template -->
 
 
@@ -1506,13 +2200,13 @@ function filterRecipes() {
   const searchTerm = document.getElementById('recipeSearch').value.toLowerCase();
   const recipeCards = document.querySelectorAll('.recipe-card');
   const recipeHeaders = document.querySelectorAll('h1');
-  
+
   // Filter recipe cards
   recipeCards.forEach(card => {
     const title = card.querySelector('h3 a').textContent.toLowerCase();
     const tags = Array.from(card.querySelectorAll('.recipe-tag')).map(tag => tag.textContent.toLowerCase()).join(' ');
     const searchText = title + ' ' + tags;
-    
+
     if (searchText.includes(searchTerm)) {
       card.style.display = 'block';
     } else {
@@ -1527,13 +2221,13 @@ function filterRecipes() {
       let recipeSection = header;
       let nextElement = header.nextElementSibling;
       let recipeContent = title;
-      
+
       // Collect content until next h1 or hr
       while (nextElement && nextElement.tagName !== 'H1' && nextElement.tagName !== 'HR') {
         recipeContent += ' ' + nextElement.textContent.toLowerCase();
         nextElement = nextElement.nextElementSibling;
       }
-      
+
       if (title.includes(searchTerm) || recipeContent.includes(searchTerm)) {
         // Show this recipe section
         let element = header;
