@@ -82,8 +82,10 @@
         "title": "1 Groenten bakken",
         "items": [
           "Verwarm de oven voor op 200 graden.",
-          "Snijd de aubergine in blokjes van 1 cm. Snijd de puntpaprika in dunne ringen.",
-          "Verdeel de aubergine en puntpaprika over een bakplaat met bakpapier en besprenkel een klein scheutje olijfolie. Breng op smaak met peper en zout en schep goed om.",
+          "Snijd de aubergine in blokjes van 1 cm.",
+          "Snijd de puntpaprika in dunne ringen.",
+          "Verdeel de aubergine en puntpaprika over een bakplaat met bakpapier en besprenkel een klein scheutje olijfolie.",
+          "Breng op smaak met peper en zout en schep goed om.",
           "Rooster 15 - 18 minuten in de oven."
         ]
       },
@@ -99,16 +101,21 @@
         "title": "3 Kikkererwten bakken",
         "items": [
           "Laat de kikkererwten uitlekken in een vergiet.",
-          "Verhit een koekenpan zonder olie op middelhoog vuur. Bak de kikkererwten 8 - 9 minuten.",
-          "Voeg de ras el hanout toe en bak nog 1 minuut. Breng op smaak met peper en zout.",
-          "Pers de knoflook of snijd fijn. Snijd de peterselie groef en de tomaat in blokjes."
+          "Verhit een koekenpan zonder olie op middelhoog vuur.",
+          "Bak de kikkererwten 8 - 9 minuten.",
+          "Voeg de ras el hanout toe en bak nog 1 minuut.",
+          "Breng op smaak met peper en zout.",
+          "Pers de knoflook of snijd fijn.",
+          "Snijd de peterselie groef en de tomaat in blokjes."
         ]
       },
       {
         "title": "4 Tomatensaus maken",
         "items": [
-          "Verhit een klein scheutje olijfolie in een koekenpan op middelhoog vuur. Bak de knoflook en verse tomaat 2 minuten.",
-          "Voeg de zwarte balsamicoazijn, de honing en de tomatenblokjes uit pak toe. Laat 4 - 6 minuten pruttelen.",
+          "Verhit een klein scheutje olijfolie in een koekenpan op middelhoog vuur.",
+          "Bak de knoflook en verse tomaat 2 minuten.",
+          "Voeg de zwarte balsamicoazijn, de honing en de tomatenblokjes uit pak toe.",
+          "Laat 4 - 6 minuten pruttelen.",
           "Voeg de aubergine en de puntpaprika toe aan de saus en laat nog 1 minuut pruttelen."
         ]
       },
@@ -141,6 +148,7 @@
       "Familie"
     ],
     "image": "/receptenboek/assets/images/bulgogi-stir-fry-met-noedels-en-varkensboerenworst.jpg",
+    "source": "https://www.hellofresh.nl/recipes/roerbaknoedels-met-boerenworst-629870ec126f06fc6e0ea51d",
     "ingredients": [
       {
         "name": "cm Verse gember",
@@ -205,31 +213,47 @@
     ],
     "steps": [
       {
-        "title": "1 Stap 1",
+        "title": "1 Breng ruim water aan de",
         "items": [
-          "Breng ruim water aan de kook in een pan met deksel voor de noedels. Pers de knoflook of snijd fijn. Rasp de gember met een grove rasp. Snipper de ui. Snijd de paprika in reepjes. Verwijder de zaadlijsten van de rode peper en snijd fijn. Snijd de bosui in fijne ringen. Houd een klein deel van het groene gedeelte apart voor de garnering. Tip: Let op: de rode peper is pittig! Houd je niet van pittig of eten er kinderen mee? Gebruik dan naar smaak minder rode peper of houd apart."
+          "Breng ruim water aan de kook in een pan met deksel voor de noedels.",
+          "Pers de knoflook of snijd fijn.",
+          "Rasp de gember met een grove rasp.",
+          "Snipper de ui.",
+          "Snijd de paprika in reepjes.",
+          "Verwijder de zaadlijsten van de rode peper en snijd fijn.",
+          "Snijd de bosui in fijne ringen.",
+          "Houd een klein deel van het groene gedeelte apart voor de garnering."
         ]
       },
       {
-        "title": "2 Stap 2",
+        "title": "2 Verhit 1/2 el zonnebloemolie per",
         "items": [
-          "Verhit 1/2 el zonnebloemolie per persoon in een hapjespan op middelhoog vuur. Fruit de gember, knoflook, rode peper en ui 1 - 2 minuten. Snijd het vel van de boerenworst open en knijp het vlees uit het vel. Druk met een spatel het worstvlees in kleinere stukken en roerbak 2 - 3 minuten. Kook ondertussen de noedels 2 - 3 minuten in de pan met deksel. Voeg in de laatste minuut de gesneden spitskool toe en kook mee. Tip: Nieuw in je box: volkoren noedels! Deze noedels zijn gemaakt van 100% volkorenmeel en bevatten in vergelijking met witte noedels niet alleen meer vezels, maar ook 3 tot 5 keer meer vitaminen en mineralen zoals kalium, magnesium, ijzer, en vitamine B1, B2 en E."
+          "Verhit 1/2 el zonnebloemolie per persoon in een hapjespan op middelhoog vuur.",
+          "Fruit de gember, knoflook, rode peper en ui 1 - 2 minuten.",
+          "Snijd het vel van de boerenworst open en knijp het vlees uit het vel.",
+          "Druk met een spatel het worstvlees in kleinere stukken en roerbak 2 - 3 minuten.",
+          "Kook ondertussen de noedels 2 - 3 minuten in de pan met deksel.",
+          "Voeg in de laatste minuut de gesneden spitskool toe en kook mee."
         ]
       },
       {
-        "title": "3 Stap 3",
+        "title": "3 Voeg de zwarte-bonenpasta, de bosui",
         "items": [
-          "Voeg de zwarte-bonenpasta, de bosui en de rode paprika toe aan de hapjespan en bak 4 - 5 minuten op middelhoog vuur. Giet de noedels en spitskool af en voeg toe aan de hapjespan. Blus het geheel af met de sojasaus en per persoon: 1 tl wittewijnazijn en 1 el water. Meng alles goed door elkaar en verhit nog 1 minuut op hoog vuur. Tip: Let jij op je zoutinname? Voeg dan de helft van de sojasaus toe. Wie wil kan na het serveren eventueel naar smaak meer toevoegen."
+          "Voeg de zwarte-bonenpasta, de bosui en de rode paprika toe aan de hapjespan en bak 4 - 5 minuten op middelhoog vuur.",
+          "Giet de noedels en spitskool af en voeg toe aan de hapjespan.",
+          "Blus het geheel af met de sojasaus en per persoon: 1 tl wittewijnazijn en 1 el water.",
+          "Meng alles goed door elkaar en verhit nog 1 minuut op hoog vuur.",
+          "Meng alles goed door elkaar en verhit nog 1 minuut op hoog vuur."
         ]
       },
       {
-        "title": "4 Stap 4",
+        "title": "4 Verdeel de noedels met de",
         "items": [
-          "Verdeel de noedels met de groenten over de borden. Garneer het geheel met de sesamzaadjes en het overige groene gedeelte van de bosui. Tip: Nieuw in je box: volkoren noedels! Deze noedels zijn gemaakt van 100% volkorenmeel en bevatten in vergelijking met witte noedels niet alleen meer vezels, maar ook 3 tot 5 keer meer vitaminen en mineralen zoals kalium, magnesium, ijzer, en vitamine B1, B2 en E."
+          "Verdeel de noedels met de groenten over de borden.",
+          "Garneer het geheel met de sesamzaadjes en het overige groene gedeelte van de bosui."
         ]
       }
-    ],
-    "source": "https://www.hellofresh.nl/recipes/roerbaknoedels-met-boerenworst-629870ec126f06fc6e0ea51d"
+    ]
   },
   {
     "title": "Bulgur met harissa-portobello",
@@ -318,8 +342,10 @@
         "title": "1 Voorbereiden",
         "items": [
           "Breng ruim water aan de kook in een pan voor de bulgur.",
-          "Kook de bulgur 10-12 minuten. Giet af en laat uitstomen.",
-          "Voeg de Midden-Oosterse kruiden toe en breng op smaak met extra vierge olijfolie, peper en zout. Meng goed door.",
+          "Kook de bulgur 10-12 minuten.",
+          "Giet af en laat uitstomen.",
+          "Voeg de Midden-Oosterse kruiden toe en breng op smaak met extra vierge olijfolie, peper en zout.",
+          "Meng goed door.",
           "Spoel de kikkererwten af onder koud water, laat uitlekken en dep ze droog met keukenpapier.",
           "Verhit een koekenpan zonder olie op middelhoog vuur en bak de kikkererwten 12-14 minuten."
         ]
@@ -328,16 +354,20 @@
         "title": "2 Kikkererwten bakken",
         "items": [
           "Voeg 1 el zonnebloemolie per persoon en het gerookte paprikapoeder toe en bak nog 2-3 minuten.",
-          "Snijd ondertussen de ui in halve ringen. Snijd de portobello in dunne plakken.",
+          "Snijd ondertussen de ui in halve ringen.",
+          "Snijd de portobello in dunne plakken.",
           "Verhit een tweede koekenpan zonder olie op middelhoog vuur en bak de portobello en de ui 5 minuten.",
-          "Roer de harissa en honing door de portobello en bak 1 minuut verder. Breng op smaak met peper en zout."
+          "Roer de harissa en honing door de portobello en bak 1 minuut verder.",
+          "Breng op smaak met peper en zout."
         ]
       },
       {
         "title": "3 Salade maken",
         "items": [
           "Snijd de komkommer en tomaat in blokjes (scan voor kooktips!).",
-          "Meng in een kom per persoon: 1/2 tl wittewijnazijn met 1 tl extra vierge olijfolie. Voeg de tomaat en komkommer toe en meng met de dressing. Breng op smaak met peper en zout.",
+          "Meng in een kom per persoon: 1/2 tl wittewijnazijn met 1 tl extra vierge olijfolie.",
+          "Voeg de tomaat en komkommer toe en meng met de dressing.",
+          "Breng op smaak met peper en zout.",
           "Meng in een kleine kom de mayonaise met de sambal en de aangegeven hoeveelheid water voor saus."
         ]
       },
@@ -423,37 +453,52 @@
       {
         "title": "1 Voorbereiden",
         "items": [
-          "Haal de burger alvast uit de koelkast zodat hij op kamertemperatuur kan komen. Was de aardappelen grondig en snijd in partjes. Snijd de ui in halve ringen. Ris de blaadjes van de rozemarijntakjes en snijd grof."
+          "Haal de burger alvast uit de koelkast zodat hij op kamertemperatuur kan komen.",
+          "Was de aardappelen grondig en snijd in partjes.",
+          "Snijd de ui in halve ringen.",
+          "Ris de blaadjes van de rozemarijntakjes en snijd grof."
         ]
       },
       {
         "title": "2 Aardappelen bakken",
         "items": [
-          "Verhit de zonnebloemolie in een hapjespan met deksel op middelhoog vuur. Bak de aardappelpartjes met de rozemarijn, afgedekt, 20 - 25 minuten. Schep regelmatig om. Haal het deksel van de pan en breng op smaak met peper en zout. Bak nog 10 minuten, of tot de aardappelen gaar zijn. Snijd ondertussen de champignons in plakjes."
+          "Verhit de zonnebloemolie in een hapjespan met deksel op middelhoog vuur.",
+          "Bak de aardappelpartjes met de rozemarijn, afgedekt, 20 - 25 minuten.",
+          "Schep regelmatig om.",
+          "Haal het deksel van de pan en breng op smaak met peper en zout.",
+          "Bak nog 10 minuten, of tot de aardappelen gaar zijn.",
+          "Snijd ondertussen de champignons in plakjes."
         ]
       },
       {
         "title": "3 Salade maken",
         "items": [
-          "Snijd de tomaat in partjes. Maak in een saladekom een dressing van de extra vierge olijfolie, wittewijnazijn, honing en mosterd. Breng op smaak met peper en zout. Voeg de tomaat en mesclun toe aan de saladekom en meng met de dressing."
+          "Snijd de tomaat in partjes.",
+          "Maak in een saladekom een dressing van de extra vierge olijfolie, wittewijnazijn, honing en mosterd.",
+          "Breng op smaak met peper en zout.",
+          "Voeg de tomaat en mesclun toe aan de saladekom en meng met de dressing."
         ]
       },
       {
         "title": "4 Groenten bakken",
         "items": [
-          "Verhit de helft van de roomboter in een koekenpan op middelhoog vuur en bak de ui en champignons 7 - 9 minuten. Breng op smaak met peper en zout."
+          "Verhit de helft van de roomboter in een koekenpan op middelhoog vuur en bak de ui en champignons 7 - 9 minuten.",
+          "Breng op smaak met peper en zout."
         ]
       },
       {
         "title": "5 Burger bakken",
         "items": [
-          "Verhit de overige roomboter in een andere koekenpan op middelhoog vuur. Bak de burger 2 - 3 minuten per kant. Breng op smaak met peper en zout."
+          "Verhit de overige roomboter in een andere koekenpan op middelhoog vuur.",
+          "Bak de burger 2 - 3 minuten per kant.",
+          "Breng op smaak met peper en zout."
         ]
       },
       {
         "title": "6 Serveren",
         "items": [
-          "Serveer de burger met de aardappelpartjes. Serveer de gebakken groenten en de salade ernaast."
+          "Serveer de burger met de aardappelpartjes.",
+          "Serveer de gebakken groenten en de salade ernaast."
         ]
       }
     ]
@@ -532,27 +577,40 @@
     ],
     "steps": [
       {
-        "title": "1 Stap 1",
+        "title": "1 Breng ruim water aan de",
         "items": [
-          "Breng ruim water aan de kook in een pan voor de pasta. Verwijder de zaadlijsten van de rode peper (let op: pittig! Gebruik naar smaak) en snijd fijn. Snipper de ui. Pers de knoflook of snijd fijn. Snijd de champignons in kwarten. Kook de pasta, afgedekt, 14 - 16 minuten. Giet daarna af, maar bewaar 50 ml kookvocht per persoon."
+          "Breng ruim water aan de kook in een pan voor de pasta.",
+          "Verwijder de zaadlijsten van de rode peper en snijd fijn.",
+          "Snipper de ui.",
+          "Pers de knoflook of snijd fijn.",
+          "Snijd de champignons in kwarten.",
+          "Kook de pasta, afgedekt, 14 - 16 minuten.",
+          "Giet daarna af, maar bewaar 50 ml kookvocht per persoon."
         ]
       },
       {
-        "title": "2 Stap 2",
+        "title": "2 Verhit een scheutje olijfolie in",
         "items": [
-          "Verhit een scheutje olijfolie in een hapjespan op middelhoog vuur. Bak de champignons 3 - 4 minuten. Roer de knoflook, ui en rode peper erdoor en bak 1 - 2 minuten verder. Voeg de witte miso (let op: zout! Gebruik naar smaak) en room toe en verhit nog 1 - 2 minuten."
+          "Verhit een scheutje olijfolie in een hapjespan op middelhoog vuur.",
+          "Bak de champignons 3 - 4 minuten.",
+          "Roer de knoflook, ui en rode peper erdoor en bak 1 - 2 minuten verder.",
+          "Voeg de witte miso en room toe en verhit nog 1 - 2 minuten."
         ]
       },
       {
-        "title": "3 Stap 3",
+        "title": "3 Roer de spinazie door de",
         "items": [
-          "Roer de spinazie door de saus en kook 2 - 3 minuten verder, of tot de spinazie geslonken is. Roer de pasta door de saus en voeg eventueel wat van het kookvocht toe. Proef en breng eventueel op smaak met peper en zout. Meng ondertussen in een kleine kom de Grana Padano met de gomasio-tuinkruidenmix."
+          "Roer de spinazie door de saus en kook 2 - 3 minuten verder, of tot de spinazie geslonken is.",
+          "Roer de pasta door de saus en voeg eventueel wat van het kookvocht toe.",
+          "Proef en breng eventueel op smaak met peper en zout.",
+          "Meng ondertussen in een kleine kom de Grana Padano met de gomasio-tuinkruidenmix."
         ]
       },
       {
-        "title": "4 Stap 4",
+        "title": "4 Verdeel de pasta over de",
         "items": [
-          "Verdeel de pasta over de borden. Garneer met de Grana Padano-gomasiotopping."
+          "Verdeel de pasta over de borden.",
+          "Garneer met de Grana Padano-gomasiotopping."
         ]
       }
     ]
@@ -644,39 +702,56 @@
     ],
     "steps": [
       {
-        "title": "1 Stap 1",
+        "title": "1 Verwarm de oven voor op",
         "items": [
-          "Verwarm de oven voor op 200 graden en bereid de bouillon. Snipper de ui en rasp de gember (eventueel met schil) fijn. Snijd de wortel in blokjes van ongeveer 1 cm. Tip: Zorg dat je de peen echt goed klein snijdt, anders wordt deze niet gaar."
+          "Verwarm de oven voor op 200 graden en bereid de bouillon.",
+          "Snipper de ui en rasp de gember (eventueel met schil) fijn.",
+          "Snijd de wortel in blokjes van ongeveer 1 cm."
         ]
       },
       {
-        "title": "2 Stap 2",
+        "title": "2 Verhit 1/2 el zonnebloemolie per",
         "items": [
-          "Verhit 1/2 el zonnebloemolie per persoon in een grote hapjespan met deksel op middelhoog vuur. Bak de ui, gember en de wortel 2 - 3 minuten. Voeg het kerriepoeder en de tomatenpuree toe. Roer goed en bak nog 2 minuten. Roer de kokosmelk los of schud het pakje flink zodat eventuele klontjes oplossen. Voeg de kokosmelk en de bouillon toe aan de pan en breng aan de kook."
+          "Verhit 1/2 el zonnebloemolie per persoon in een grote hapjespan met deksel op middelhoog vuur.",
+          "Bak de ui, gember en de wortel 2 - 3 minuten.",
+          "Voeg het kerriepoeder en de tomatenpuree toe.",
+          "Roer goed en bak nog 2 minuten.",
+          "Roer de kokosmelk los of schud het pakje flink zodat eventuele klontjes oplossen.",
+          "Voeg de kokosmelk en de bouillon toe aan de pan en breng aan de kook."
         ]
       },
       {
-        "title": "3 Stap 3",
+        "title": "3 Voeg de rode splitlinzen toe,",
         "items": [
-          "Voeg de rode splitlinzen toe, breng op smaak met peper en zout en kook de dahl, afgedekt, 18 – 20 minuten, of tot de linzen gaar zijn. Roer halverwege door en voeg de spinazie toe. Voeg eventueel wat water toe als de dahl te droog wordt. Tip: Linzen bevatten van alle peulvruchten de grootste hoeveelheid ijzer. Daarnaast zijn ze, net als spinazie, rijk aan vezels en kalium. Kalium helpt bij behoud van een gezonde bloeddruk."
+          "Voeg de rode splitlinzen toe, breng op smaak met peper en zout en kook de dahl, afgedekt, 18 – 20 minuten, of tot de linzen gaar zijn.",
+          "Roer halverwege door en voeg de spinazie toe.",
+          "Voeg eventueel wat water toe als de dahl te droog wordt."
         ]
       },
       {
-        "title": "4 Stap 4",
+        "title": "4 Dep ondertussen de paneer droog",
         "items": [
-          "Dep ondertussen de paneer droog met keukenpapier en snijd in stukjes van ongeveer 2 cm. Verhit 1/4 el olijfolie per persoon in een koekenpan op middelhoog vuur en bak de paneer in 4 - 6 minuten lichtbruin. Breng op smaak met peper en zout. Leg op een bord met keukenpapier. Tip: Als je de paneer te lang bakt wordt hij droog."
+          "Dep ondertussen de paneer droog met keukenpapier en snijd in stukjes van ongeveer 2 cm.",
+          "Verhit 1/4 el olijfolie per persoon in een koekenpan op middelhoog vuur en bak de paneer in 4 - 6 minuten lichtbruin.",
+          "Breng op smaak met peper en zout.",
+          "Leg op een bord met keukenpapier."
         ]
       },
       {
-        "title": "5 Stap 5",
+        "title": "5 Bak de naan 2 -",
         "items": [
-          "Bak de naan 2 - 3 minuten in de voorverwarmde oven. Snijd daarna de naan in punten. Hak de koriander fijn en pers de limoen uit. Meng in een grote kom de koriander met het limoensap en roer de paneer erdoor. Breng op smaak met peper en zout."
+          "Bak de naan 2 - 3 minuten in de voorverwarmde oven.",
+          "Snijd daarna de naan in punten.",
+          "Hak de koriander fijn en pers de limoen uit.",
+          "Meng in een grote kom de koriander met het limoensap en roer de paneer erdoor.",
+          "Breng op smaak met peper en zout."
         ]
       },
       {
-        "title": "6 Stap 6",
+        "title": "6 Voeg de paneer met dressing",
         "items": [
-          "Voeg de paneer met dressing vlak voor serveren toe aan de dahl en verwarm kort zodat de paneer wat zachter en warm wordt. Verdeel de dahl over kommen en serveer met de naanpunten."
+          "Voeg de paneer met dressing vlak voor serveren toe aan de dahl en verwarm kort zodat de paneer wat zachter en warm wordt.",
+          "Verdeel de dahl over kommen en serveer met de naanpunten."
         ]
       }
     ]
@@ -755,10 +830,14 @@
       {
         "title": "1 Voorbereiden",
         "items": [
-          "Bereid de bouillon. Snipper de ui. Pers de knoflook of snijd fijn.",
-          "Snijd de tomaat in blokjes. Verhit de olijfolie in een soeppot of grote pot met deksel.",
+          "Bereid de bouillon.",
+          "Snipper de ui.",
+          "Pers de knoflook of snijd fijn.",
+          "Snijd de tomaat in blokjes.",
+          "Verhit de olijfolie in een soeppot of grote pot met deksel.",
           "Fruit de knoflook en ui 1 - 2 minuten.",
-          "Breek de spaghetti in de helft en voeg toe aan de soeppot. Voeg de tomatenblokjes, passata, oregano, Siciliaanse kruidenmix en bouillon toe."
+          "Breek de spaghetti in de helft en voeg toe aan de soeppot.",
+          "Voeg de tomatenblokjes, passata, oregano, Siciliaanse kruidenmix en bouillon toe."
         ]
       },
       {
@@ -766,14 +845,16 @@
         "items": [
           "Kook de pasta, afgedekt, 3 minuten.",
           "Kook daarna nog 7 - 9 minuten zonder deksel.",
-          "Roer regelmatig door en verlaag eventueel het vuur of voeg extra water toe als de saus te snel indikt. Breng op smaak met peper en zout."
+          "Roer regelmatig door en verlaag eventueel het vuur of voeg extra water toe als de saus te snel indikt.",
+          "Breng op smaak met peper en zout."
         ]
       },
       {
         "title": "3 Kruidenroomkaas maken",
         "items": [
           "Snijd de verse kruiden fijn en voeg de helft toe aan een kleine kom.",
-          "Voeg de roomkaas toe aan de kom samen met peper en zout naar smaak. Meng goed door.",
+          "Voeg de roomkaas toe aan de kom samen met peper en zout naar smaak.",
+          "Meng goed door.",
           "Rasp de Parmigiano Reggiano met een grove rasp."
         ]
       },
@@ -872,9 +953,13 @@
         "title": "1 Voorbereiden",
         "items": [
           "Bereid de bouillon",
-          "Snijd de ui in halve ringen. Pers de knoflook of snijd fijn. Verwijder de zaadlijsten van de rode peper en snijd fijn.",
-          "Snijd de champignons in plakjes. Snijd de bosui in fijne ringen en bewaar het witte en groene gedeelte apart van elkaar.",
-          "Verwijder de steelaanzet van de paksoi en snijd zowel de stelen als het blad van de paksoi klein. Houd de stelen apart van de groene bladeren."
+          "Snijd de ui in halve ringen.",
+          "Pers de knoflook of snijd fijn.",
+          "Verwijder de zaadlijsten van de rode peper en snijd fijn.",
+          "Snijd de champignons in plakjes.",
+          "Snijd de bosui in fijne ringen en bewaar het witte en groene gedeelte apart van elkaar.",
+          "Verwijder de steelaanzet van de paksoi en snijd zowel de stelen als het blad van de paksoi klein.",
+          "Houd de stelen apart van de groene bladeren."
         ]
       },
       {
@@ -883,14 +968,16 @@
           "Verhit een klontje boter in een pan op middelhoog vuur.",
           "Bak de knoflook en het witte gedeelte van de bosui 1 minuut.",
           "Roer de risottorijst erdoor en bak 1 minuut.",
-          "Voeg 1/3 van de bouillon toe en laat de rijstkorrels de bouillon langzaam opnemen. Roer regelmatig door."
+          "Voeg 1/3 van de bouillon toe en laat de rijstkorrels de bouillon langzaam opnemen.",
+          "Roer regelmatig door."
         ]
       },
       {
         "title": "3 Risotto afmaken",
         "items": [
           "Voeg, zodra het vocht door de risottokorrels is opgenomen, weer 1/3 van de bouillon toe en herhaal dit met de overige bouillon.",
-          "De risotto is gaar zodra de korrel zacht is van buiten en nog een lichte bite heeft vanbinnen. Dit duurt ongeveer 25 - 30 minuten.",
+          "De risotto is gaar zodra de korrel zacht is van buiten en nog een lichte bite heeft vanbinnen.",
+          "Dit duurt ongeveer 25 - 30 minuten.",
           "Voeg eventueel extra water toe om de rijst nog verder te garen."
         ]
       },
@@ -900,7 +987,8 @@
           "Verhit een klontje roomboter in een koekenpan op middelhoog vuur.",
           "Bak de champignons en ui 3 minuten.",
           "Voeg de rode peper toe en bak 2 - 3 minuten verder.",
-          "Haal de pan van het vuur, roer de miso erdoor en voeg toe aan een kom. Bewaar apart tot serveren."
+          "Haal de pan van het vuur, roer de miso erdoor en voeg toe aan een kom.",
+          "Bewaar apart tot serveren."
         ]
       },
       {
@@ -914,7 +1002,9 @@
       {
         "title": "6 Serveren",
         "items": [
-          "Haal de risotto van het vuur. Voeg de paksoi, roomkaas, Koreaanse kruidenmix toe en meng goed. Breng op smaak met peper en zout.",
+          "Haal de risotto van het vuur.",
+          "Voeg de paksoi, roomkaas, Koreaanse kruidenmix toe en meng goed.",
+          "Breng op smaak met peper en zout.",
           "Verdeel de risotto over diepe borden en leg de misochampignons erbovenop.",
           "Garneer met het sesamzaad, de cashewstukjes en het groene gedeelte van de bosui."
         ]
@@ -992,39 +1082,53 @@
     ],
     "steps": [
       {
-        "title": "1 Stap 1",
+        "title": "1 Breng ruim water aan de",
         "items": [
-          "Breng ruim water aan de kook in een pan met deksel voor de rijst en broccoli. Snijd de champignons in kwarten. Snipper de ui. Snijd de bloem van de broccoli in roosjes en de steel in blokjes. Weetje : Champignons zijn rijk aan het mineraal fosfor, dat samen met calcium zorgt voor stevige botten en tanden. Fosfor zit voornamelijk in vlees, vis en zuivel, maar ook in plantaardige producten zoals peulvruchten, volkoren granen en paddenstoelen."
+          "Breng ruim water aan de kook in een pan met deksel voor de rijst en broccoli.",
+          "Snijd de champignons in kwarten.",
+          "Snipper de ui.",
+          "Snijd de bloem van de broccoli in roosjes en de steel in blokjes.",
+          "Snijd de bloem van de broccoli in roosjes en de steel in blokjes."
         ]
       },
       {
-        "title": "2 Stap 2",
+        "title": "2 Verhit 1/4 el olijfolie per",
         "items": [
-          "Verhit 1/4 el olijfolie per persoon in een hapjespan met deksel op middelhoog vuur en bak de ui en champignons 4 - 6 minuten, of tot de ui glazig is (zie Tip). Breng op smaak met peper en zout. Roer regelmatig door. Tip : Champignons nemen bij het bakken eerst veel vocht op en laten dit daarna weer los. Het lijkt daardoor alsof ze aanbakken, maar dat gebeurt niet - voeg dus geen extra olie toe."
+          "Verhit 1/4 el olijfolie per persoon in een hapjespan met deksel op middelhoog vuur en bak de ui en champignons 4 - 6 minuten, of tot de ui glazig is.",
+          "Breng op smaak met peper en zout.",
+          "Roer regelmatig door."
         ]
       },
       {
-        "title": "3 Stap 3",
+        "title": "3 Verhit 1/2 el olijfolie per",
         "items": [
-          "Verhit 1/2 el olijfolie per persoon in een koekenpan op middelhoog vuur. Bak de kipfilet in 3 - 5 minuten rondom bruin. Hij hoeft nog niet helemaal gaar te zijn."
+          "Verhit 1/2 el olijfolie per persoon in een koekenpan op middelhoog vuur.",
+          "Bak de kipfilet in 3 - 5 minuten rondom bruin.",
+          "Hij hoeft nog niet helemaal gaar te zijn."
         ]
       },
       {
-        "title": "4 Stap 4",
+        "title": "4 Voeg de kookroom en per",
         "items": [
-          "Voeg de kookroom en per persoon: 25 ml water, 1/4 kippenbouillonblokje en 1 tl mosterd toe aan de hapjespan met de champignons en ui. Laat de champignonsaus in 5 minuten inkoken (zie Tip). Voeg dan de kipfilet toe en dek de pan af. Kook de saus, afgedekt, nog 8 – 12 minuten. Tip : Proef de champignonsaus goed en roer regelmatig door. Vind je de saus nog te dun? Zet dan het vuur wat hoger, haal het deksel van de pan en laat de saus nog wat langer inkoken. Vind je de saus te dik? Voeg dan wat extra water toe."
+          "Voeg de kookroom en per persoon: 25 ml water, 1/4 kippenbouillonblokje en 1 tl mosterd toe aan de hapjespan met de champignons en ui.",
+          "Laat de champignonsaus in 5 minuten inkoken.",
+          "Voeg dan de kipfilet toe en dek de pan af.",
+          "Kook de saus, afgedekt, nog 8 – 12 minuten."
         ]
       },
       {
-        "title": "5 Stap 5",
+        "title": "5 Kook de rijst, afgedekt, 10",
         "items": [
-          "Kook de rijst, afgedekt, 10 - 12 minuten. Kook de laatste 5 - 7 minuten de broccoli mee. Giet daarna af en laat zonder deksel uitstomen."
+          "Kook de rijst, afgedekt, 10 - 12 minuten.",
+          "Kook de laatste 5 - 7 minuten de broccoli mee.",
+          "Giet daarna af en laat zonder deksel uitstomen."
         ]
       },
       {
-        "title": "6 Stap 6",
+        "title": "6 Verdeel de rijst en broccoli",
         "items": [
-          "Verdeel de rijst en broccoli over de borden en garneer met de gomasio-tuinkruidenmix. Leg de kipfilet op de rijst en verdeel de champignonroomsaus erover."
+          "Verdeel de rijst en broccoli over de borden en garneer met de gomasio-tuinkruidenmix.",
+          "Leg de kipfilet op de rijst en verdeel de champignonroomsaus erover."
         ]
       }
     ]
@@ -1111,39 +1215,52 @@
     ],
     "steps": [
       {
-        "title": "1 Stap 1",
+        "title": "1 Verwarm de oven voor op",
         "items": [
-          "Verwarm de oven voor op 200 graden. Breng ruim water aan de kook in een pan met deksel voor de rijst. Snijd de groene paprika in de lengte doormidden, verwijder de zaadlijsten en leg de groene paprika met de open kant naar beneden op een bakplaat met bakpapier. Bak de groene paprika 15 – 20 minuten in de voorverwarmde oven, of tot hij lichtbruin kleurt."
+          "Verwarm de oven voor op 200 graden.",
+          "Breng ruim water aan de kook in een pan met deksel voor de rijst.",
+          "Snijd de groene paprika in de lengte doormidden, verwijder de zaadlijsten en leg de groene paprika met de open kant naar beneden op een bakplaat met bakpapier.",
+          "Bak de groene paprika 15 – 20 minuten in de voorverwarmde oven, of tot hij lichtbruin kleurt."
         ]
       },
       {
-        "title": "2 Stap 2",
+        "title": "2 Kook ondertussen de basmatirijst, afgedekt,",
         "items": [
-          "Kook ondertussen de basmatirijst, afgedekt, 12 – 15 minuten in de pan met deksel. Giet daarna af en laat zonder deksel uitstomen."
+          "Kook ondertussen de basmatirijst, afgedekt, 12 – 15 minuten in de pan met deksel.",
+          "Giet daarna af en laat zonder deksel uitstomen."
         ]
       },
       {
-        "title": "3 Stap 3",
+        "title": "3 Snipper ondertussen de ui",
         "items": [
-          "Snipper ondertussen de ui. Verwijder de zaadlijsten van de rode peper en snijd fijn. Snijd de overige paprika en tomaat in blokjes."
+          "Snipper ondertussen de ui.",
+          "Verwijder de zaadlijsten van de rode peper en snijd fijn.",
+          "Snijd de overige paprika en tomaat in blokjes."
         ]
       },
       {
-        "title": "4 Stap 4",
+        "title": "4 Verhit de roomboter in een",
         "items": [
-          "Verhit de roomboter in een wok of hapjespan met deksel en fruit de ui 2 minuten op middellaag vuur. Voeg het Italiaans gekruide half-om-half gehakt, de rode peper en de Mexicaanse kruiden toe en breng op smaak met peper en zout. Bak het gehakt in 1 – 2 minuten los op middelhoog vuur - het hoeft nog niet gaar te zijn. Tip: Let op: de rode peper is pittig! Eten er kinderen mee of houd je niet zo van pittig? Voeg dan de helft van de rode peper toe, of houd het apart om later mee te garneren."
+          "Verhit de roomboter in een wok of hapjespan met deksel en fruit de ui 2 minuten op middellaag vuur.",
+          "Voeg het Italiaans gekruide half-om-half gehakt, de rode peper en de Mexicaanse kruiden toe en breng op smaak met peper en zout.",
+          "Bak het gehakt in 1 – 2 minuten los op middelhoog vuur - het hoeft nog niet gaar te zijn."
         ]
       },
       {
-        "title": "5 Stap 5",
+        "title": "5 Voeg de tomaat- en paprikablokjes,",
         "items": [
-          "Voeg de tomaat- en paprikablokjes, kidneybonen (afgieten is niet nodig) en de zwarte balsamicoazijn toe aan de wok of hapjespan. Dek de pan af en laat 10 – 12 minuten stoven op middelmatig vuur. Haal de laatste 5 – 6 minuten het deksel van de pan. Roer regelmatig door en breng op smaak met peper en zout. Tip: Wist je dat kidneybonen van alle bonen de meeste vezels bevatten? Het eten van voldoende vezels is niet alleen goed voor je darmen, maar verlaagt ook het risico op hart- en vaatziekten."
+          "Voeg de tomaat- en paprikablokjes, kidneybonen (afgieten is niet nodig) en de zwarte balsamicoazijn toe aan de wok of hapjespan.",
+          "Dek de pan af en laat 10 – 12 minuten stoven op middelmatig vuur.",
+          "Haal de laatste 5 – 6 minuten het deksel van de pan.",
+          "Roer regelmatig door en breng op smaak met peper en zout."
         ]
       },
       {
-        "title": "6 Stap 6",
+        "title": "6 Verdeel de rijst over de",
         "items": [
-          "Verdeel de rijst over de borden en leg de groene paprika's ernaast. Vul de groene paprika's met de chili. Garneer met de labne en de geraspte cheddar. Tip: Wist je dat dit gerecht, voornamelijk door de paprika's, ruim 200% van de ADH vitamine C bevat?"
+          "Verdeel de rijst over de borden en leg de groene paprika's ernaast.",
+          "Vul de groene paprika's met de chili.",
+          "Garneer met de labne en de geraspte cheddar."
         ]
       }
     ]
@@ -1223,9 +1340,11 @@
         "title": "1 Krieltjes roosteren",
         "items": [
           "Verwarm de oven voor op 220 graden.",
-          "Was de krieltjes en halveer ze. Snijd eventueel grote krieltjes in vieren.",
+          "Was de krieltjes en halveer ze.",
+          "Snijd eventueel grote krieltjes in vieren.",
           "Meng de krieltjes in een kom met 1/2 el olijfolie per persoon en breng op smaak met peper en zout.",
-          "Verdeel de krieltjes over de helft van een bakplaat met bakpapier en bak 30 - 35 minuten in de oven of tot ze goudbruin zijn. Schep halverwege om."
+          "Verdeel de krieltjes over de helft van een bakplaat met bakpapier en bak 30 - 35 minuten in de oven of tot ze goudbruin zijn.",
+          "Schep halverwege om."
         ]
       },
       {
@@ -1242,7 +1361,8 @@
         "items": [
           "Verhit 1/2 el roomboter per persoon in een hapjespan met deksel en bak rode ui en wortel 1 minuut op middelhoog vuur.",
           "Voeg de knoflook, verse tijm en per persoon 50 ml groentebouillon en 1 tl basterdsuiker toe.",
-          "Laat afgedekt 10 - 12 minuten koken. Haal de deksel van de pan en verhit de groenten nog 2 min zonder deksel."
+          "Laat afgedekt 10 - 12 minuten koken.",
+          "Haal de deksel van de pan en verhit de groenten nog 2 min zonder deksel."
         ]
       },
       {
@@ -1262,7 +1382,8 @@
       {
         "title": "6 Serveren",
         "items": [
-          "Verdeel de zalm over de borden. Serveer met de geroosterde krieltjes en groenten."
+          "Verdeel de zalm over de borden.",
+          "Serveer met de geroosterde krieltjes en groenten."
         ]
       }
     ]
@@ -1344,39 +1465,57 @@
     ],
     "steps": [
       {
-        "title": "1 Stap 1",
+        "title": "1 Kook 75 ml water per",
         "items": [
-          "Kook 75 ml water per persoon en voeg daaraan 1/4 kippenbouillonblokje per persoon toe. Snipper de ui. Pers de knoflook of snijd fijn. Snijd de paprika in dunne reepjes. Snijd de kipfilethaasjes in gelijke stukken van ongeveer 2 cm. Tip: Paprika is rijk aan vitamine E - een antioxidant dat je organen, ogen en weefsel beschermt. Je vindt vitamine E ook in volkoren granen, pinda's, zonnebloemolie, zonnebloempitten en groene bladgroenten."
+          "Kook 75 ml water per persoon en voeg daaraan 1/4 kippenbouillonblokje per persoon toe.",
+          "Snipper de ui.",
+          "Pers de knoflook of snijd fijn.",
+          "Snijd de paprika in dunne reepjes.",
+          "Snijd de kipfilethaasjes in gelijke stukken van ongeveer 2 cm."
         ]
       },
       {
-        "title": "2 Stap 2",
+        "title": "2 Breng ruim water met een",
         "items": [
-          "Breng ruim water met een snuf zout aan de kook in een pan met deksel voor de rijst. Verhit 1/2 el roomboter per persoon in een hapjespan op middelhoog vuur. Wrijf de kipfilethaasjes in met peper en zout en bak ze in 2 - 3 minuten rondom bruin. Haal uit de pan en bewaar apart (de kip hoeft nog niet gaar te zijn). Voeg de knoflook, ui en paprika toe aan dezelfde hapjespan en bak 3 - 4 minuten."
+          "Breng ruim water met een snuf zout aan de kook in een pan met deksel voor de rijst.",
+          "Verhit 1/2 el roomboter per persoon in een hapjespan op middelhoog vuur.",
+          "Wrijf de kipfilethaasjes in met peper en zout en bak ze in 2 - 3 minuten rondom bruin.",
+          "Haal uit de pan en bewaar apart (de kip hoeft nog niet gaar te zijn).",
+          "Voeg de knoflook, ui en paprika toe aan dezelfde hapjespan en bak 3 - 4 minuten."
         ]
       },
       {
-        "title": "3 Stap 3",
+        "title": "3 Voeg de tomatenpuree toe aan",
         "items": [
-          "Voeg de tomatenpuree toe aan de hapjespan en bak 2 - 3 minuten. Snijd de champignons in kwarten. Voeg opnieuw 1/2 el roomboter per persoon toe en verhoog het vuur. Voeg de champignons toe en bak nog 4 - 5 minuten. Voeg 1/2 el bloem per persoon toe, meng goed en roerbak 1 minuut."
+          "Voeg de tomatenpuree toe aan de hapjespan en bak 2 - 3 minuten.",
+          "Snijd de champignons in kwarten.",
+          "Voeg opnieuw 1/2 el roomboter per persoon toe en verhoog het vuur.",
+          "Voeg de champignons toe en bak nog 4 - 5 minuten.",
+          "Voeg 1/2 el bloem per persoon toe, meng goed en roerbak 1 minuut."
         ]
       },
       {
-        "title": "4 Stap 4",
+        "title": "4 Kook ondertussen de rijst, afgedekt,",
         "items": [
-          "Kook ondertussen de rijst, afgedekt, 12 - 15 minuten. Giet daarna af en laat zonder deksel uitstomen. Hak de bladpeterselie grof."
+          "Kook ondertussen de rijst, afgedekt, 12 - 15 minuten.",
+          "Giet daarna af en laat zonder deksel uitstomen.",
+          "Hak de bladpeterselie grof."
         ]
       },
       {
-        "title": "5 Stap 5",
+        "title": "5 Blus de groenten in de",
         "items": [
-          "Blus de groenten in de hapjespan af met 1/2 el rodewijnazijn per persoon en voeg de bouillon toe. Verlaag het vuur en roer er de zure room, de helft van de peterselie, 1 tl mosterd per persoon, peper en zout door. Voeg de kipfilethaasjes opnieuw toe en breng zachtjes aan de kook. Laat 5 - 6 minuten sudderen."
+          "Blus de groenten in de hapjespan af met 1/2 el rodewijnazijn per persoon en voeg de bouillon toe.",
+          "Verlaag het vuur en roer er de zure room, de helft van de peterselie, 1 tl mosterd per persoon, peper en zout door.",
+          "Voeg de kipfilethaasjes opnieuw toe en breng zachtjes aan de kook.",
+          "Laat 5 - 6 minuten sudderen."
         ]
       },
       {
-        "title": "6 Stap 6",
+        "title": "6 Verdeel de rijst over de",
         "items": [
-          "Verdeel de rijst over de borden. Verdeel de saus met groenten en kip over de rijst en garneer met de overige peterselie."
+          "Verdeel de rijst over de borden.",
+          "Verdeel de saus met groenten en kip over de rijst en garneer met de overige peterselie."
         ]
       }
     ]
@@ -1450,8 +1589,11 @@
       {
         "title": "1 Voorbereiden",
         "items": [
-          "Bereid de bouillon. Snipper de ui. Snijd de wortel in dunne schijfjes.",
-          "Pers de knoflook of snijd fijn. Was of schil de aardappelen en snijd in kwarten.",
+          "Bereid de bouillon.",
+          "Snipper de ui.",
+          "Snijd de wortel in dunne schijfjes.",
+          "Pers de knoflook of snijd fijn.",
+          "Was of schil de aardappelen en snijd in kwarten.",
           "Snijd de peterselie fijn."
         ]
       },
@@ -1459,30 +1601,38 @@
         "title": "2 Aardappelen bakken",
         "items": [
           "Verhit een scheutje olijfolie in een koekenpan met deksel op middelhoog vuur.",
-          "Bak de aardappelen, afgedekt, 30 - 35 minuten. Haal na 20 minuten het deksel van de pan en schep regelmatig om. Breng op smaak met peper en zout."
+          "Bak de aardappelen, afgedekt, 30 - 35 minuten.",
+          "Haal na 20 minuten het deksel van de pan en schep regelmatig om.",
+          "Breng op smaak met peper en zout."
         ]
       },
       {
         "title": "3 Kipfilet bakken",
         "items": [
-          "Verhit een klontje roomboter in een pan op hoog vuur. Bak de kipfilet 2 - 3 minuten per kant.",
-          "Haal uit de pan en bewaar apart. Bewaar ook de pan met bakvet."
+          "Verhit een klontje roomboter in een pan op hoog vuur.",
+          "Bak de kipfilet 2 - 3 minuten per kant.",
+          "Haal uit de pan en bewaar apart.",
+          "Bewaar ook de pan met bakvet."
         ]
       },
       {
         "title": "4 Laten sudderen",
         "items": [
           "Verhit opnieuw een klontje roomboter in dezelfde pan op middelmatig vuur.",
-          "Bak de ui, knoflook en wortel 3 - 4 minuten. Voeg de bloem toe en bak 1 minuut.",
-          "Blus af met de bouillon. Voeg de tijmtakjes toe, roer goed door en laat het geheel, afgedekt, 10 minuten sudderen.",
+          "Bak de ui, knoflook en wortel 3 - 4 minuten.",
+          "Voeg de bloem toe en bak 1 minuut.",
+          "Blus af met de bouillon.",
+          "Voeg de tijmtakjes toe, roer goed door en laat het geheel, afgedekt, 10 minuten sudderen.",
           "Voeg de kipfilet toe aan de pan en pocheer 5 - 8 minuten, of tot de kip gaar is."
         ]
       },
       {
         "title": "5 Spinazie toevoegen",
         "items": [
-          "Haal het deksel van de pan en voeg de room en de spinazie toe. Breng op smaak met peper en zout.",
-          "Roer goed door en laat nog 4 - 6 minuten inkoken zonder deksel. Haal de tijmtakjes uit de pan."
+          "Haal het deksel van de pan en voeg de room en de spinazie toe.",
+          "Breng op smaak met peper en zout.",
+          "Roer goed door en laat nog 4 - 6 minuten inkoken zonder deksel.",
+          "Haal de tijmtakjes uit de pan."
         ]
       },
       {
@@ -1564,39 +1714,59 @@
     ],
     "steps": [
       {
-        "title": "1 Stap 1",
+        "title": "1 Bereid de bouillon",
         "items": [
-          "Bereid de bouillon. Snipper de ui. Snijd de wortel in dunne schijfjes. Pers de knoflook of snijd fijn. Was of schil de aardappelen en snijd in kwarten. Snijd d e peterselie en fijn."
+          "Bereid de bouillon.",
+          "Snipper de ui.",
+          "Snijd de wortel in dunne schijfjes.",
+          "Pers de knoflook of snijd fijn.",
+          "Was of schil de aardappelen en snijd in kwarten.",
+          "Snijd d e peterselie en fijn."
         ]
       },
       {
-        "title": "2 Stap 2",
+        "title": "2 Verhit een scheutje olijfolie in",
         "items": [
-          "Verhit een scheutje olijfolie in een koekenpan met deksel op middelhoog vuur. Bak de aardappelen, afgedekt, 30 - 35 minuten. Haal na 20 minuten het deksel van de pan en schep regelmatig om. Breng op smaak met peper en zout."
+          "Verhit een scheutje olijfolie in een koekenpan met deksel op middelhoog vuur.",
+          "Bak de aardappelen, afgedekt, 30 - 35 minuten.",
+          "Haal na 20 minuten het deksel van de pan en schep regelmatig om.",
+          "Breng op smaak met peper en zout."
         ]
       },
       {
-        "title": "3 Stap 3",
+        "title": "3 Verhit een klontje roomboter in",
         "items": [
-          "Verhit een klontje roomboter in een pan op hoog vuur. Bak de kipfilet 2 - 3 minuten per kant. Haal uit de pan en bewaar apart. Bewaar ook de pan met bakvet."
+          "Verhit een klontje roomboter in een pan op hoog vuur.",
+          "Bak de kipfilet 2 - 3 minuten per kant.",
+          "Haal uit de pan en bewaar apart.",
+          "Bewaar ook de pan met bakvet."
         ]
       },
       {
-        "title": "4 Stap 4",
+        "title": "4 V erhit opnieuw een klontje",
         "items": [
-          "V erhit opnieuw een klontje roomboter in dezelfde pan op middelmatig vuur. Bak de ui, knoflook en wortel 3 - 4 minuten. Voeg de bloem toe en bak 1 minuut. Blus af met de bouillon. Voeg de tijmtakjes toe, roer goed door en laat het geheel, afgedekt, 10 minuten sudderen. Voeg de kipfilet toe aan de pan en pocheer 5 - 8 minuten, of tot de kip gaar is."
+          "V erhit opnieuw een klontje roomboter in dezelfde pan op middelmatig vuur.",
+          "Bak de ui, knoflook en wortel 3 - 4 minuten.",
+          "Voeg de bloem toe en bak 1 minuut.",
+          "Blus af met de bouillon.",
+          "Voeg de tijmtakjes toe, roer goed door en laat het geheel, afgedekt, 10 minuten sudderen.",
+          "Voeg de kipfilet toe aan de pan en pocheer 5 - 8 minuten, of tot de kip gaar is."
         ]
       },
       {
-        "title": "5 Stap 5",
+        "title": "5 Haal het deksel van de",
         "items": [
-          "Haal het deksel van de pan en voeg de room en de spinazie toe. Breng op smaak met peper en zout. Roer goed door en laat nog 4 - 6 minuten inkoken zonder deksel. Haal de tijmtakjes uit de pan. Weetje: Spinazie bevat veel voedingsstoffen, waaronder ijzer. IJzer is essentieel voor het vervoeren van zuurstof in ons lichaam, wat bijdraagt aan een energiek gevoel."
+          "Haal het deksel van de pan en voeg de room en de spinazie toe.",
+          "Breng op smaak met peper en zout.",
+          "Roer goed door en laat nog 4 - 6 minuten inkoken zonder deksel.",
+          "Haal de tijmtakjes uit de pan."
         ]
       },
       {
-        "title": "6 Stap 6",
+        "title": "6 Verdeel de aardappelen over de",
         "items": [
-          "Verdeel de aardappelen over de borden en schep de kipfilet erbij. Serveer met de romige spinaziesaus en garneer met de peterselie."
+          "Verdeel de aardappelen over de borden en schep de kipfilet erbij.",
+          "Serveer met de romige spinaziesaus en garneer met de peterselie."
         ]
       }
     ]
@@ -1611,6 +1781,7 @@
       "Caloriebewust"
     ],
     "image": "/receptenboek/assets/images/kipworstjes-met-wortelpuree.jpg",
+    "source": "https://www.hellofresh.nl/recipes/kipworstjes-met-wortelpuree-690cac2e79e2c370e49202c4",
     "ingredients": [
       {
         "name": "gram Aardappelen",
@@ -1667,43 +1838,58 @@
     ],
     "steps": [
       {
-        "title": "1 Stap 1",
+        "title": "1 Bereid de bouillon",
         "items": [
-          "Bereid de bouillon. Was of schil de aardappelen en wortel en snijd beide in grove stukken. Zet de aardappel en wortel onder water in een pan en kook in 12 - 15 minuten gaar. Bewaar wat van het kookvocht, giet af en laat uitstomen."
+          "Bereid de bouillon.",
+          "Was of schil de aardappelen en wortel en snijd beide in grove stukken.",
+          "Zet de aardappel en wortel onder water in een pan en kook in 12 - 15 minuten gaar.",
+          "Bewaar wat van het kookvocht, giet af en laat uitstomen."
         ]
       },
       {
-        "title": "2 Stap 2",
+        "title": "2 Snijd de ui in halve",
         "items": [
-          "Snijd de ui in halve ringen. Verhit een scheutje olijfolie in een koekenpan op middelhoog vuur en bak de kipworstjes in 3 - 4 minuten rondom bruin. Voeg de ui toe, dek de pan af en verlaag het vuur naar middelmatig. Bak 6 - 7 minuten, of tot de worstjes gaar zijn. Keer regelmatig om."
+          "Snijd de ui in halve ringen.",
+          "Verhit een scheutje olijfolie in een koekenpan op middelhoog vuur en bak de kipworstjes in 3 - 4 minuten rondom bruin.",
+          "Voeg de ui toe, dek de pan af en verlaag het vuur naar middelmatig.",
+          "Bak 6 - 7 minuten, of tot de worstjes gaar zijn.",
+          "Keer regelmatig om."
         ]
       },
       {
-        "title": "3 Stap 3",
+        "title": "3 Breng ruim water met een",
         "items": [
-          "Breng ruim water met een snuf zout aan de kook in een pan. Snijd de bloem van de broccoli in roosjes en de steel in blokjes. Kook de broccoli 5 - 7 minuten. Giet af, breng op smaak met peper en zout en laat uitstomen. Weetje: Broccoli wordt niet voor niets gezien als een supergroente. Het is rijk aan onder andere calcium, kalium, ijzer en vitamine B, C en E."
+          "Breng ruim water met een snuf zout aan de kook in een pan.",
+          "Snijd de bloem van de broccoli in roosjes en de steel in blokjes.",
+          "Kook de broccoli 5 - 7 minuten.",
+          "Giet af, breng op smaak met peper en zout en laat uitstomen."
         ]
       },
       {
-        "title": "4 Stap 4",
+        "title": "4 Voeg een klontje roomboter, ketjap",
         "items": [
-          "Voeg een klontje roomboter, ketjap en de helft van de mosterd toe aan de worstjes. Meng goed en blus af met de bouillon. Zet het vuur laag en laat inkoken tot serveren."
+          "Voeg een klontje roomboter, ketjap en de helft van de mosterd toe aan de worstjes.",
+          "Meng goed en blus af met de bouillon.",
+          "Zet het vuur laag en laat inkoken tot serveren."
         ]
       },
       {
-        "title": "5 Stap 5",
+        "title": "5 Stamp de aardappel en wortel",
         "items": [
-          "Stamp de aardappel en wortel met een aardappelstamper tot een grove puree. Voeg de overige mosterd en een scheutje melk of kookvocht toe en stamp goed door. Breng op smaak met peper en zout."
+          "Stamp de aardappel en wortel met een aardappelstamper tot een grove puree.",
+          "Voeg de overige mosterd en een scheutje melk of kookvocht toe en stamp goed door.",
+          "Breng op smaak met peper en zout."
         ]
       },
       {
-        "title": "6 Stap 6",
+        "title": "6 Verdeel de wortelpuree en broccoli",
         "items": [
-          "Verdeel de wortelpuree en broccoli over de borden. Bestrooi met de gomasio-tuinkruiden en serveer de worstjes ernaast. Schenk de jus erover."
+          "Verdeel de wortelpuree en broccoli over de borden.",
+          "Bestrooi met de gomasio-tuinkruiden en serveer de worstjes ernaast.",
+          "Schenk de jus erover."
         ]
       }
-    ],
-    "source": "https://www.hellofresh.nl/recipes/kipworstjes-met-wortelpuree-690cac2e79e2c370e49202c4"
+    ]
   },
   {
     "title": "Krieltjessalade met Mediterrane kipfilet",
@@ -1773,7 +1959,8 @@
         "items": [
           "Breng ruim water met een snuf zout aan de kook in een pan voor de krieltjes.",
           "Was de krieltjes en halveer ze.",
-          "Kook de krieltjes 12-14 minuten. Giet af en spoel af met koud water.",
+          "Kook de krieltjes 12-14 minuten.",
+          "Giet af en spoel af met koud water.",
           "Bewaar apart en laat afkoelen.",
           "Laat de krieltjes afkoelen anders absorberen ze de mayo."
         ]
@@ -1782,7 +1969,8 @@
         "title": "2 Mengen",
         "items": [
           "Snipper ondertussen de ui heel fijn",
-          "Giet de mais af. Halveer de tomaatjes.",
+          "Giet de mais af.",
+          "Halveer de tomaatjes.",
           "Snijd de komkommer in kleine blokjes.",
           "Meng in een grote salade kom de mayo met de witte balsamicoazijn en de Italiaanse kruiden."
         ]
@@ -1798,7 +1986,8 @@
       {
         "title": "4 Serveren",
         "items": [
-          "Vershit een scheutje olijfolie in een koekenpan op middelhoog vuur. Bak de kip 2 minuten per kant.",
+          "Vershit een scheutje olijfolie in een koekenpan op middelhoog vuur.",
+          "Bak de kip 2 minuten per kant.",
           "Verlaag het vuur en bak de kipfilet nog 4 minuten per kant, of tot de kip gaar is.",
           "Snijd de kip in plakken.",
           "Verdeel de krieltjessalade over de borden en leg de kip er bovenop"
@@ -1895,39 +2084,69 @@
     ],
     "steps": [
       {
-        "title": "1 Stap 1",
+        "title": "1 Verwarm de oven voor op",
         "items": [
-          "Verwarm de oven voor op 200 graden. Bereid de bouillon. Snijd de bloem van de broccoli in kleine roosjes en de steel in blokjes. Snijd de courgette in halve maantjes. Voeg beide toe aan een bakplaat met bakpapier en besprenkel met een scheutje olijfolie. Breng op smaak met peper en zout. Rooster 18 - 22 minuten. Schep halverwege om."
+          "Verwarm de oven voor op 200 graden.",
+          "Bereid de bouillon.",
+          "Snijd de bloem van de broccoli in kleine roosjes en de steel in blokjes.",
+          "Snijd de courgette in halve maantjes.",
+          "Voeg beide toe aan een bakplaat met bakpapier en besprenkel met een scheutje olijfolie.",
+          "Breng op smaak met peper en zout.",
+          "Rooster 18 - 22 minuten.",
+          "Schep halverwege om."
         ]
       },
       {
-        "title": "2 Stap 2",
+        "title": "2 Spoel de kikkererwten onder koud",
         "items": [
-          "Spoel de kikkererwten onder koud water, laat uitlekken in een vergiet en dep droog met keukenpapier. Voeg toe aan een kom. Voeg de gemalen koriander toe en besprenkel met een scheutje olijfolie. Breng op smaak met peper en zout. Schep goed om. Voeg toe aan een bakplaat met bakpapier en rooster 15 - 20 minuten in de oven."
+          "Spoel de kikkererwten onder koud water, laat uitlekken in een vergiet en dep droog met keukenpapier.",
+          "Voeg toe aan een kom.",
+          "Voeg de gemalen koriander toe en besprenkel met een scheutje olijfolie.",
+          "Breng op smaak met peper en zout.",
+          "Schep goed om.",
+          "Voeg toe aan een bakplaat met bakpapier en rooster 15 - 20 minuten in de oven."
         ]
       },
       {
-        "title": "3 Stap 3",
+        "title": "3 Breng ruim water aan de",
         "items": [
-          "Breng ruim water aan de kook in een pan voor de rijst. Snipper de ui en pers de knoflook of snijd fijn. Snijd de limoen in 4 partjes. Knik de citroengrasstengels op minstens 3 plaatsen. Kook de rijst 10 minuten. Giet daarna af en bewaar apart."
+          "Breng ruim water aan de kook in een pan voor de rijst.",
+          "Snipper de ui en pers de knoflook of snijd fijn.",
+          "Snijd de limoen in 4 partjes.",
+          "Knik de citroengrasstengels op minstens 3 plaatsen.",
+          "Kook de rijst 10 minuten.",
+          "Giet daarna af en bewaar apart."
         ]
       },
       {
-        "title": "4 Stap 4",
+        "title": "4 Verhit een scheutje olijfolie in",
         "items": [
-          "Verhit een scheutje olijfolie in een wok of hapjespan op middelhoog vuur. Bak de knoflook en ui 2 minuten. Voeg de groene currykruiden toe en bak 1 minuut. Voeg de kokosmelk, het citroengras, de suiker en de bouillon toe. Breng aan de kook laat 5 minuten zachtjes koken."
+          "Verhit een scheutje olijfolie in een wok of hapjespan op middelhoog vuur.",
+          "Bak de knoflook en ui 2 minuten.",
+          "Voeg de groene currykruiden toe en bak 1 minuut.",
+          "Voeg de kokosmelk, het citroengras, de suiker en de bouillon toe.",
+          "Breng aan de kook laat 5 minuten zachtjes koken."
         ]
       },
       {
-        "title": "5 Stap 5",
+        "title": "5 Meng in een kleine kom",
         "items": [
-          "Meng in een kleine kom het maiszetmeel met de aangegeven hoeveelheid water. Scheur of snijd het Thais basilicum grof. Voeg het maiszetmeelmengsel en de helft van het Thaise basilicum toe aan de curry. Roer goed door en breng op smaak met peper en zout. Laat zachtjes koken tot serveren. Hak de pinda's grof."
+          "Meng in een kleine kom het maiszetmeel met de aangegeven hoeveelheid water.",
+          "Scheur of snijd het Thais basilicum grof.",
+          "Voeg het maiszetmeelmengsel en de helft van het Thaise basilicum toe aan de curry.",
+          "Roer goed door en breng op smaak met peper en zout.",
+          "Laat zachtjes koken tot serveren.",
+          "Hak de pinda's grof."
         ]
       },
       {
-        "title": "6 Stap 6",
+        "title": "6 Haal het citroengras uit de",
         "items": [
-          "Haal het citroengras uit de curry. Serveer de rijst en de geroosterde groenten op borden. Verdeel de currysaus en krokante kikkererwten eroverheen. Garneer met de pinda's en het overige Thais basilicum. Serveer de limoenpartjes ernaast."
+          "Haal het citroengras uit de curry.",
+          "Serveer de rijst en de geroosterde groenten op borden.",
+          "Verdeel de currysaus en krokante kikkererwten eroverheen.",
+          "Garneer met de pinda's en het overige Thais basilicum.",
+          "Serveer de limoenpartjes ernaast."
         ]
       }
     ]
@@ -2013,31 +2232,45 @@
       {
         "title": "1 Snijden",
         "items": [
-          "Snijd de puntpaprika in ringen. Pers de knoflook of snijd fijn en snipper de ui. Snijd de tomaat in kleine blokjes. Snijd de basilicumblaadjes in fijne reepjes."
+          "Snijd de puntpaprika in ringen.",
+          "Pers de knoflook of snijd fijn en snipper de ui.",
+          "Snijd de tomaat in kleine blokjes.",
+          "Snijd de basilicumblaadjes in fijne reepjes."
         ]
       },
       {
         "title": "2 Puntpaprika bakken",
         "items": [
-          "Verhit de helft van de olijfolie in een koekenpan met deksel op middelhoog vuur. Voeg de puntpaprika toe aan de pan en bak 6 - 7 minuten. Breng op smaak met peper en zout. Haal uit de pan en bewaar apart."
+          "Verhit de helft van de olijfolie in een koekenpan met deksel op middelhoog vuur.",
+          "Voeg de puntpaprika toe aan de pan en bak 6 - 7 minuten.",
+          "Breng op smaak met peper en zout.",
+          "Haal uit de pan en bewaar apart."
         ]
       },
       {
         "title": "3 Pasta koken",
         "items": [
-          "Breng ondertussen ruim water aan de kook in een pan met deksel. Kook de linguine, afgedekt, 11 - 13 minuten. Giet daarna af en laat zonder deksel uitstomen."
+          "Breng ondertussen ruim water aan de kook in een pan met deksel.",
+          "Kook de linguine, afgedekt, 11 - 13 minuten.",
+          "Giet daarna af en laat zonder deksel uitstomen."
         ]
       },
       {
         "title": "4 Saus maken",
         "items": [
-          "Verhit de overige olijfolie in de koekenpan van de puntpaprika. Voeg de garnalen, ui en de knoflook toe aan de pan en fruit 2 - 3 minuten. Verlaag het vuur en haal de garnalen uit de pan. Voeg de passata, tomatenblokjes, gedroogde oregano, rodewijnazijn, suiker en harissa toe aan de pan en laat, afgedekt, 6 - 8 minuten zachtjes koken. Rasp ondertussen het blokje Parmigiano Reggiano."
+          "Verhit de overige olijfolie in de koekenpan van de puntpaprika.",
+          "Voeg de garnalen, ui en de knoflook toe aan de pan en fruit 2 - 3 minuten.",
+          "Verlaag het vuur en haal de garnalen uit de pan.",
+          "Voeg de passata, tomatenblokjes, gedroogde oregano, rodewijnazijn, suiker en harissa toe aan de pan en laat, afgedekt, 6 - 8 minuten zachtjes koken.",
+          "Rasp ondertussen het blokje Parmigiano Reggiano."
         ]
       },
       {
         "title": "5 Pasta mengen",
         "items": [
-          "Voeg de linguine en de helft van de puntpaprika toe aan de saus. Schep goed om. Breng op smaak met peper, zout en extra vierge olijfolie naar smaak."
+          "Voeg de linguine en de helft van de puntpaprika toe aan de saus.",
+          "Schep goed om.",
+          "Breng op smaak met peper, zout en extra vierge olijfolie naar smaak."
         ]
       },
       {
@@ -2133,9 +2366,11 @@
       {
         "title": "1 Voorbereiden",
         "items": [
-          "Verwarm de oven voor op 200 graden. Bereid de bouillon.",
+          "Verwarm de oven voor op 200 graden.",
+          "Bereid de bouillon.",
           "Schil de zoete aardappel en snijd in blokjes van 1 - 2 cm.",
-          "Snipper de ui. Pers de knoflook of snijd fijn.",
+          "Snipper de ui.",
+          "Pers de knoflook of snijd fijn.",
           "Rasp de gember of snijd fijn."
         ]
       },
@@ -2145,7 +2380,8 @@
           "Verhit een hapjesplan zonder olie op middelhoog vuur.",
           "Voeg de currykruiden toe en bak 1 - 2 minuten, of tot ze beginnen te geuren.",
           "Voeg een klontje roomboter toe en laat smelten.",
-          "Voeg de ui, de gember, en 3/4 van de knoflook toe. Bak nog 2 - 3 minuten."
+          "Voeg de ui, de gember, en 3/4 van de knoflook toe.",
+          "Bak nog 2 - 3 minuten."
         ]
       },
       {
@@ -2160,15 +2396,20 @@
         "title": "4 Salade maken",
         "items": [
           "Scheur of snijd ondertussen de spinazie klein.",
-          "Meng in een saladekom de extra vierge olijfolie en wittewijnazijn. Breng op smaak met peper en zout.",
-          "Snijd de komkommer in blokjes en de tomaat in kwarten. Voeg de komkommer, tomaat, en de helft van de spinazie toe aan de saladekom. Meng goed door de dressing heen.",
-          "Snijd de peterselie en koriander grod. Laat de linzen uitlekken in een vergiet."
+          "Meng in een saladekom de extra vierge olijfolie en wittewijnazijn.",
+          "Breng op smaak met peper en zout.",
+          "Snijd de komkommer in blokjes en de tomaat in kwarten.",
+          "Voeg de komkommer, tomaat, en de helft van de spinazie toe aan de saladekom.",
+          "Meng goed door de dressing heen.",
+          "Snijd de peterselie en koriander grod.",
+          "Laat de linzen uitlekken in een vergiet."
         ]
       },
       {
         "title": "5 Afmaken",
         "items": [
-          "Voeg de linzen en de overige spinazie toe aan de curry. Roer goed door tot de spinazie is geslonken.",
+          "Voeg de linzen en de overige spinazie toe aan de curry.",
+          "Roer goed door tot de spinazie is geslonken.",
           "Laat de stoof nog 3 - 5 minuten op laag vuur pruttelen, of langer als de stoof nog te waterig is.",
           "Meng in een kleine kom de labne met de overige knoflook en 1/3 van de verse kruiden.",
           "Voeg extra vierge olijfolie naar smaak toe en breng op smaak met peper en zout."
@@ -2275,7 +2516,8 @@
         "title": "1 Voorbereiden",
         "items": [
           "Verwarm de oven voor op 200 graden.",
-          "Bereid de bouillon in een pan. Voeg de rijst, komijn, kaneel en kurkuma toe.",
+          "Bereid de bouillon in een pan.",
+          "Voeg de rijst, komijn, kaneel en kurkuma toe.",
           "Kook de rijst zoals op de verpakking staat.",
           "Pers ondertussen de knoflook of snijd fijn."
         ]
@@ -2284,7 +2526,8 @@
         "title": "2 Tomaten roosteren",
         "items": [
           "Verdeel de cherrytomaten over een bakplaat met bakpapier en besprenkel met olijfolie.",
-          "Voeg de zwarte balsamicoazijn, honing, harissa, en de helft van de knoflook toe. Breng op smaak met peper en zout en schep goed om.",
+          "Voeg de zwarte balsamicoazijn, honing, harissa, en de helft van de knoflook toe.",
+          "Breng op smaak met peper en zout en schep goed om.",
           "Rooster 10 - 15 minuten in de oven.",
           "Laat ondertussen de linzen uitelekken in een vergiet en spoel af.",
           "Snijd de ui in halve ringen."
@@ -2293,18 +2536,23 @@
       {
         "title": "3 Ui bakken",
         "items": [
-          "Verhit een scheutje olijfolie in een koekenpan op middelhoog vuur. Bak de ui 4 minuten.",
-          "Voeg de uienchutney toe en bak 1 minuut mee. Breng op smaak met peper en zout.",
+          "Verhit een scheutje olijfolie in een koekenpan op middelhoog vuur.",
+          "Bak de ui 4 minuten.",
+          "Voeg de uienchutney toe en bak 1 minuut mee.",
+          "Breng op smaak met peper en zout.",
           "Voeg de linzen toe aan de rijst en roer goed door.",
-          "Snijd de komkommer in kleine blokjes. Snijd de verse kruiden grof.",
+          "Snijd de komkommer in kleine blokjes.",
+          "Snijd de verse kruiden grof.",
           "Snijd de helft van de citroen in partjes en pers de andere helft uit boven een kom."
         ]
       },
       {
         "title": "4 Serveren",
         "items": [
-          "Voeg de komkommer, yoghurt, overige knoflook en de helft van de verse kruiden toe aan de kom met citroensap. Roer goed door en breng op smaak met peper en zout.",
-          "Serveer de majuddara over diepe borden. Verdeel de ui, komkommeryoghurt en cherrytomaten eroverheen.",
+          "Voeg de komkommer, yoghurt, overige knoflook en de helft van de verse kruiden toe aan de kom met citroensap.",
+          "Roer goed door en breng op smaak met peper en zout.",
+          "Serveer de majuddara over diepe borden.",
+          "Verdeel de ui, komkommeryoghurt en cherrytomaten eroverheen.",
           "Garneer met de overige verse kruiden.",
           "Serveer de citroenpartjes ernaast."
         ]
@@ -2380,9 +2628,12 @@
       {
         "title": "1 Voorbereiden",
         "items": [
-          "Bereid de bouillon in een pan met deksel voor de parelcouscous (zie Tip).",
-          "Voeg de parelcouscous toe en kook zachtjes, afgedekt, in 12 - 14 minuten droog. Roer de korrels daarna los met een vork en laat zonder deksel uitstomen.",
-          "Snijd de ui in fijne halve ringen. Halveer de courgette in de lengte en snijd in dunne plakjes. Pers de knoflook of snijd fijn."
+          "Bereid de bouillon in een pan met deksel voor de parelcouscous.",
+          "Voeg de parelcouscous toe en kook zachtjes, afgedekt, in 12 - 14 minuten droog.",
+          "Roer de korrels daarna los met een vork en laat zonder deksel uitstomen.",
+          "Snijd de ui in fijne halve ringen.",
+          "Halveer de courgette in de lengte en snijd in dunne plakjes.",
+          "Pers de knoflook of snijd fijn."
         ]
       },
       {
@@ -2391,7 +2642,8 @@
           "Verwarm ondertussen 1/4 el olijfolie per persoon in een hapjespan op middelhoog vuur.",
           "Voeg de chorizoblokjes, ui en knoflook toe en bak 3 minuten.",
           "Voeg de courgette toe en bak 6 - 8 minuten, of tot de courgette gaar is.",
-          "Voeg de cranberrychutney en de parelcouscous toe aan de hapjespan en bak nog 1 minuut. Breng op smaak met peper en zout."
+          "Voeg de cranberrychutney en de parelcouscous toe aan de hapjespan en bak nog 1 minuut.",
+          "Breng op smaak met peper en zout."
         ]
       },
       {
@@ -2405,7 +2657,8 @@
       {
         "title": "4 Serveren",
         "items": [
-          "Verdeel de parelcouscous met groenten en chorizoblokjes over de borden. Verdeel de salade ernaast.",
+          "Verdeel de parelcouscous met groenten en chorizoblokjes over de borden.",
+          "Verdeel de salade ernaast.",
           "Garneer met de zongedroogde tomaten.",
           "Verkruimel de witte kaas erboven."
         ]
@@ -2421,6 +2674,7 @@
       "Extra groente"
     ],
     "image": "/receptenboek/assets/images/parelcouscous-met-geroosterde-puntpaprika-en-witte-kaas.jpg",
+    "source": "https://www.hellofresh.nl/recipes/parelcouscous-met-geroosterde-puntpaprika-en-witte-kaas-620e5ce3e3d2ad5a1e2987fd",
     "ingredients": [
       {
         "name": "stuk(s) Rode puntpaprika",
@@ -2485,31 +2739,44 @@
     ],
     "steps": [
       {
-        "title": "1 Stap 1",
+        "title": "1 Bereid de bouillon en verwarm",
         "items": [
-          "Bereid de bouillon en verwarm de oven voor op 220 graden. Verwijder de zaadlijsten van de puntpaprika en snijd in reepjes. Leg de paprika op een bakplaat met bakpapier. Besprenkel met de zonnebloemolie en bak de paprika 20 - 25 minuten in de oven, of tot de paprika zacht is. Schep halverwege om. Tip: Wist je dat je door de paprika in dit gerecht meer dan de ADH vitamine C binnenkrijgt? Eén rode puntpaprika per persoon levert je zelfs meer dan het dubbele!"
+          "Bereid de bouillon en verwarm de oven voor op 220 graden.",
+          "Verwijder de zaadlijsten van de puntpaprika en snijd in reepjes.",
+          "Leg de paprika op een bakplaat met bakpapier.",
+          "Besprenkel met de zonnebloemolie en bak de paprika 20 - 25 minuten in de oven, of tot de paprika zacht is.",
+          "Schep halverwege om."
         ]
       },
       {
-        "title": "2 Stap 2",
+        "title": "2 Pers ondertussen de knoflook of",
         "items": [
-          "Pers ondertussen de knoflook of snijd fijn. Snijd de krulpeterselie fijn en verkruimel de witte kaas. Hak de gezouten amandelen grof. Verhit de helft van de olijfolie in een pan met deksel, voeg de parelcouscous toe en roerbak 1 minuut. Voeg de bouillon en 50 ml water per persoon toe (pas op: dit kan spetteren!), zet het vuur laag en kook de parelcouscous, afgedekt, in 13 – 15 minuten droog. Roer daarna de korrels los met een vork en laat zonder deksel uitstomen. Tip: Je ontvangt meer parelcouscous dan je nodig hebt voor dit recept. De overige parelcouscous kun je bijvoorbeeld de volgende dag koken en gebruiken in een lunchsalade of soep."
+          "Pers ondertussen de knoflook of snijd fijn.",
+          "Snijd de krulpeterselie fijn en verkruimel de witte kaas.",
+          "Hak de gezouten amandelen grof.",
+          "Verhit de helft van de olijfolie in een pan met deksel, voeg de parelcouscous toe en roerbak 1 minuut.",
+          "Voeg de bouillon en 50 ml water per persoon toe (pas op: dit kan spetteren!), zet het vuur laag en kook de parelcouscous, afgedekt, in 13 – 15 minuten droog.",
+          "Roer daarna de korrels los met een vork en laat zonder deksel uitstomen."
         ]
       },
       {
-        "title": "3 Stap 3",
+        "title": "3 Verhit de overige olijfolie in",
         "items": [
-          "Verhit de overige olijfolie in een wok of hapjespan met deksel en fruit de knoflook 1 minuut op middellaag vuur. Voeg de gekleurde peen en het karwijzaad toe en roerbak 5 minuten op middelhoog vuur. Breng op smaak met peper en zout."
+          "Verhit de overige olijfolie in een wok of hapjespan met deksel en fruit de knoflook 1 minuut op middellaag vuur.",
+          "Voeg de gekleurde peen en het karwijzaad toe en roerbak 5 minuten op middelhoog vuur.",
+          "Breng op smaak met peper en zout."
         ]
       },
       {
-        "title": "4 Stap 4",
+        "title": "4 Meng ondertussen in een kom",
         "items": [
-          "Meng ondertussen in een kom de yoghurt, extra vierge olijfolie, honing en peper en zout naar smaak. Voeg de groenten, de helft van de witte kaas, de helft van de paprika, de helft van de peterselie en de helft van de amandelen toe aan de pan met deksel van de parelcouscous en meng goed. Verdeel de parelcouscous over de borden en besprenkel met de dressing. Garneer met de overige witte kaas, paprika, peterselie en amandelen."
+          "Meng ondertussen in een kom de yoghurt, extra vierge olijfolie, honing en peper en zout naar smaak.",
+          "Voeg de groenten, de helft van de witte kaas, de helft van de paprika, de helft van de peterselie en de helft van de amandelen toe aan de pan met deksel van de parelcouscous en meng goed.",
+          "Verdeel de parelcouscous over de borden en besprenkel met de dressing.",
+          "Garneer met de overige witte kaas, paprika, peterselie en amandelen."
         ]
       }
-    ],
-    "source": "https://www.hellofresh.nl/recipes/parelcouscous-met-geroosterde-puntpaprika-en-witte-kaas-620e5ce3e3d2ad5a1e2987fd"
+    ]
   },
   {
     "title": "Piri-piri garnalen met tomatensalsa",
@@ -2599,8 +2866,10 @@
         "items": [
           "Snijf de ui in halve ringen en pers de knoflook of snijd fijn.",
           "Snijd de verse kruiden fijn.",
-          "Rasp de schil van de citroen met een fijne rasp. Snijd de citroen in 4 partjes.",
-          "Meng in een kleine kom de mayo met de knoflook, de helft van de verse kruiden en per persoon: 1/4 tl citroensap, 1/2 el water en het sap van 1 citroenpartje. Meng goed en breng op smaak met peper en zout."
+          "Rasp de schil van de citroen met een fijne rasp.",
+          "Snijd de citroen in 4 partjes.",
+          "Meng in een kleine kom de mayo met de knoflook, de helft van de verse kruiden en per persoon: 1/4 tl citroensap, 1/2 el water en het sap van 1 citroenpartje.",
+          "Meng goed en breng op smaak met peper en zout."
         ]
       },
       {
@@ -2608,13 +2877,16 @@
         "items": [
           "Verhit een klein scheutje olijfolie in een koekenpan op middelhoog vuur en bak de ui en paprika 3-4 minuten.",
           "Voeg de garnalen en de piri-pirikruiden toe en bak 3 minuten, of tot de garnalen roze zijn.",
-          "Meng in een saladekom de tomaat, de overige verse kruiden en extra vierge olijfolie naar smaak. Breng goed op smaak met peper en zout."
+          "Meng in een saladekom de tomaat, de overige verse kruiden en extra vierge olijfolie naar smaak.",
+          "Breng goed op smaak met peper en zout."
         ]
       },
       {
         "title": "4 Serveren",
         "items": [
-          "Meng vlak voor serveren de pesto en zwarte balsamicoazijn door de rijst. Voeg eventueel een scheutje kookvocht toe om de rijst smeuïger te maken. Breng op smaak met peper en zout.",
+          "Meng vlak voor serveren de pesto en zwarte balsamicoazijn door de rijst.",
+          "Voeg eventueel een scheutje kookvocht toe om de rijst smeuïger te maken.",
+          "Breng op smaak met peper en zout.",
           "Verdeel de rijst over diepe borden en verdeel alles erover.",
           "Verdeel de salsa over de borden en besprenkel met de saus.",
           "Garneer met de eventuele overige citroenpartjes."
@@ -2719,27 +2991,49 @@
     ],
     "steps": [
       {
-        "title": "1 Stap 1",
+        "title": "1 Breng de aangegeven hoeveelheid water",
         "items": [
-          "Breng de aangegeven hoeveelheid water aan de kook in een pan. Verkruimel 2/3 van het bouillonblokje erboven. Kook de rijst, afgedekt, 8 minuten. Zet het vuur uit en laat 10 minuten uitstomen. Snijd de bosui in fijne ringen en bewaar het witte en groene gedeelte apart van elkaar. Rasp de wortel en snijd de champignons in plakjes. Snijd de ui in halve ringen. Snijd het steeltje van de rode peper (let op: pittig! Gebruik naar smaak). Rol de peper tussen je handen zodat de zaadjes eruit vallen. Snijd de peper in ringetjes en bewaar een deel apart ter garnering."
+          "Breng de aangegeven hoeveelheid water aan de kook in een pan.",
+          "Verkruimel 2/3 van het bouillonblokje erboven.",
+          "Kook de rijst, afgedekt, 8 minuten.",
+          "Zet het vuur uit en laat 10 minuten uitstomen.",
+          "Snijd de bosui in fijne ringen en bewaar het witte en groene gedeelte apart van elkaar.",
+          "Rasp de wortel en snijd de champignons in plakjes.",
+          "Snijd de ui in halve ringen.",
+          "Verwijder het steeltje van de rode peper en snijd naar smaak in ringetjes.",
+          "Rol de peper tussen je handen zodat de zaadjes eruit vallen.",
+          "Snijd de peper in ringetjes en bewaar een deel apart ter garnering."
         ]
       },
       {
-        "title": "2 Stap 2",
+        "title": "2 Verhit 1/3 van de zonnebloemolie",
         "items": [
-          "Verhit 1/3 van de zonnebloemolie in een wok op hoog vuur. Voeg, wanneer de wok goed heet is, het witte gedeelte van de bosui, de ui, champignons, wortel en rode peper toe. Bak 4 - 6 minuten. Haal uit de pan en bewaar apart. Snijd ondertussen de kimchi (let op: pittig! Gebruik naar smaak) grof. Pers de knoflook of snijd fijn."
+          "Verhit 1/3 van de zonnebloemolie in een wok op hoog vuur.",
+          "Voeg, wanneer de wok goed heet is, het witte gedeelte van de bosui, de ui, champignons, wortel en rode peper toe.",
+          "Bak 4 - 6 minuten.",
+          "Haal uit de pan en bewaar apart.",
+          "Snijd ondertussen de kimchi grof (naar smaak).",
+          "Pers de knoflook of snijd fijn."
         ]
       },
       {
-        "title": "3 Stap 3",
+        "title": "3 Meng in een kleine kom",
         "items": [
-          "Meng in een kleine kom de knoflook met de kimchi, sojasaus, wittewijnazijn, bruine suiker en vissaus. Voeg het overige bouillonblokje toe en bewaar de saus apart (zie Tip). Verhit opnieuw 1/3 van de zonnebloemolie in een koekenpan op middelhoog vuur en bak het ei. Gezondheidstip: Let jij op je zoutinname? Voeg dan de helft van de vissaus toe. Wie wil kan na het serveren naar smaak meer toevoegen."
+          "Meng in een kleine kom de knoflook met de kimchi, sojasaus, wittewijnazijn, bruine suiker en vissaus.",
+          "Voeg het overige bouillonblokje toe en bewaar de saus apart.",
+          "Verhit opnieuw 1/3 van de zonnebloemolie in een koekenpan op middelhoog vuur en bak het ei."
         ]
       },
       {
-        "title": "4 Stap 4",
+        "title": "4 Verhit de sesamolie en de",
         "items": [
-          "Verhit de sesamolie en de overige zonnebloemolie in dezelfde wok op hoog vuur. Voeg, wanneer de olie goed heet is, de rijst toe en bak 2 - 3 minuten. Roer zo min mogelijk door de rijst. Voeg de saus toe en bak 1 minuut, zodat de saus licht karamelliseert. Roer vervolgens de groenten erdoor. Serveer de gebakken rijst in kommen en leg het ei erbovenop. Garneer met de bosui, de achtergehouden rode peper, de sesamzaadjes en de furikake."
+          "Verhit de sesamolie en de overige zonnebloemolie in dezelfde wok op hoog vuur.",
+          "Voeg, wanneer de olie goed heet is, de rijst toe en bak 2 - 3 minuten.",
+          "Roer zo min mogelijk door de rijst.",
+          "Voeg de saus toe en bak 1 minuut, zodat de saus licht karamelliseert.",
+          "Roer vervolgens de groenten erdoor.",
+          "Serveer de gebakken rijst in kommen en leg het ei erbovenop.",
+          "Garneer met de bosui, de achtergehouden rode peper, de sesamzaadjes en de furikake."
         ]
       }
     ]
@@ -2752,6 +3046,7 @@
       "Veggie"
     ],
     "image": "/receptenboek/assets/images/pittige-udonnoedels-met-gemarineerde-eieren.jpg",
+    "source": "https://www.hellofresh.nl/recipes/pittige-roerbak-met-udonnoedels-en-gemarineerde-eieren-61debfd60784ee24682a249c",
     "ingredients": [
       {
         "name": "stuk(s) Knoflookteen",
@@ -2824,43 +3119,63 @@
     ],
     "steps": [
       {
-        "title": "1 Stap 1",
+        "title": "1 Breng ruim water aan de",
         "items": [
-          "Breng ruim water aan de kook in een steelpan met deksel voor de eieren. Pers de knoflook of snijd fijn. Rasp de gember met een fijne rasp. Verwijder de zaadlijsten van de rode peper en snijd fijn. Kook de eieren 5 - 8 minuten in de steelpan. Laat de eieren schrikken onder koud water en pel ze."
+          "Breng ruim water aan de kook in een steelpan met deksel voor de eieren.",
+          "Pers de knoflook of snijd fijn.",
+          "Rasp de gember met een fijne rasp.",
+          "Verwijder de zaadlijsten van de rode peper en snijd fijn.",
+          "Kook de eieren 5 - 8 minuten in de steelpan.",
+          "Laat de eieren schrikken onder koud water en pel ze."
         ]
       },
       {
-        "title": "2 Stap 2",
+        "title": "2 Hak ¼ van de pikante",
         "items": [
-          "Hak ¼ van de pikante honingpinda’s fijn. Meng in een kom 1/3 van de gele currykruiden, de fijngehakte pinda’s en 1 el water per persoon. Voeg ondertussen de eieren toe aan de kom met het pindamengsel en meng zorgvuldig. Dek de kom af met plasticfolie en bewaar apart."
+          "Hak ¼ van de pikante honingpinda’s fijn.",
+          "Meng in een kom 1/3 van de gele currykruiden, de fijngehakte pinda’s en 1 el water per persoon.",
+          "Voeg ondertussen de eieren toe aan de kom met het pindamengsel en meng zorgvuldig.",
+          "Dek de kom af met plasticfolie en bewaar apart."
         ]
       },
       {
-        "title": "3 Stap 3",
+        "title": "3 Kook ruim water in een",
         "items": [
-          "Kook ruim water in een pan met deksel voor de sperziebonen. Verwijder de steelaanzet van de sperziebonen en snijd in drie gelijke stukken. Snijd de komkommer in halve plakken. Meng in een saladekom de honing met de witte balsamicoazijn. Roer de komkommer door de dressing, breng op smaak met peper en zout en zet apart."
+          "Kook ruim water in een pan met deksel voor de sperziebonen.",
+          "Verwijder de steelaanzet van de sperziebonen en snijd in drie gelijke stukken.",
+          "Snijd de komkommer in halve plakken.",
+          "Meng in een saladekom de honing met de witte balsamicoazijn.",
+          "Roer de komkommer door de dressing, breng op smaak met peper en zout en zet apart."
         ]
       },
       {
-        "title": "4 Stap 4",
+        "title": "4 Kook de sperziebonen, afgedekt, in",
         "items": [
-          "Kook de sperziebonen, afgedekt, in 3 - 4 minuten gaar. Voeg de verse udonnoedels toe aan de sperziebonen en kook nog 1 minuut. Giet daarna af en laat uitstomen zonder deksel. Verhit de zonnebloemolie in een wok of hapjespan met deksel. Bak de knoflook, gember, rode peper en overige currykruiden 1 - 2 minuten op middelhoog vuur. Tip: Let op: de rode peper is pittig! Houd je daar niet van of eten er kinderen mee? Voeg dan minder toe of serveer apart."
+          "Kook de sperziebonen, afgedekt, in 3 - 4 minuten gaar.",
+          "Voeg de verse udonnoedels toe aan de sperziebonen en kook nog 1 minuut.",
+          "Giet daarna af en laat uitstomen zonder deksel.",
+          "Verhit de zonnebloemolie in een wok of hapjespan met deksel.",
+          "Bak de knoflook, gember, rode peper en overige currykruiden 1 - 2 minuten op middelhoog vuur."
         ]
       },
       {
-        "title": "5 Stap 5",
+        "title": "5 Voeg de pindakaas, sojasaus, ketjap",
         "items": [
-          "Voeg de pindakaas, sojasaus, ketjap en 3 el water per persoon toe aan de pan. Zet het vuur hoog en roer goed door elkaar. Voeg dan de sperziebonen en de noedels toe. Roerbak 2 - 3 minuten op middelhoog vuur. Tip: 1. Let jij op je zoutinname? Voeg dan de helft van de sojasaus toe. Wie wil kan na het serveren eventueel naar smaak meer toevoegen. 2. Voeg eventueel nog wat water toe als het geheel te droog lijkt."
+          "Voeg de pindakaas, sojasaus, ketjap en 3 el water per persoon toe aan de pan.",
+          "Zet het vuur hoog en roer goed door elkaar.",
+          "Voeg dan de sperziebonen en de noedels toe.",
+          "Roerbak 2 - 3 minuten op middelhoog vuur.",
+          "Voeg eventueel nog wat water toe als het geheel te droog lijkt."
         ]
       },
       {
-        "title": "6 Stap 6",
+        "title": "6 Verdeel de noedels met sperziebonen",
         "items": [
-          "Verdeel de noedels met sperziebonen over de borden. Bestrooi met de overige honingpinda’s en serveer met de curry-eieren, de komkommersalade en de kroepoek."
+          "Verdeel de noedels met sperziebonen over de borden.",
+          "Bestrooi met de overige honingpinda’s en serveer met de curry-eieren, de komkommersalade en de kroepoek."
         ]
       }
-    ],
-    "source": "https://www.hellofresh.nl/recipes/pittige-roerbak-met-udonnoedels-en-gemarineerde-eieren-61debfd60784ee24682a249c"
+    ]
   },
   {
     "title": "Rijstbowl met gebakken ei en zoete Aziatische saus",
@@ -2938,30 +3253,40 @@
       {
         "title": "1 Voorbereiden",
         "items": [
-          "Breng ruim water aan de kook in een pan. Kook de rijst 12 - 15 minuten. Giet af en laat uitstomen.",
+          "Breng ruim water aan de kook in een pan.",
+          "Kook de rijst 12 - 15 minuten.",
+          "Giet af en laat uitstomen.",
           "Snijd de ui in halve ringen.",
-          "Verhit een scheutje zonnebloemolie in een wok of hapjespan op middelhoog vuur. Bak de groentemix en de ui 5 - 7 minuten."
+          "Verhit een scheutje zonnebloemolie in een wok of hapjespan op middelhoog vuur.",
+          "Bak de groentemix en de ui 5 - 7 minuten."
         ]
       },
       {
         "title": "2 Ei bakken",
         "items": [
           "Pers de knoflook of snijd fijn.",
-          "Verhit een koekenpan zonder olie op hoog vuur. Rooster de cashewnoten tot ze goudbruin kleuren. Haal uit de pan en bewaar apart.",
-          "Verhit een scheutje zonnebloemolie in dezelfde koekenpan en bak het ei. Breng op smaak met peper en zout."
+          "Verhit een koekenpan zonder olie op hoog vuur.",
+          "Rooster de cashewnoten tot ze goudbruin kleuren.",
+          "Haal uit de pan en bewaar apart.",
+          "Verhit een scheutje zonnebloemolie in dezelfde koekenpan en bak het ei.",
+          "Breng op smaak met peper en zout."
         ]
       },
       {
         "title": "3 Mengen",
         "items": [
-          "Roer de rijst, knoflook, gele currykruiden, kurkuma, gemberpuree en sojasaus door de groenten. Bak 2 - 3 minuten en roer zo min mogelijk door. Breng op smaak met peper en zout.",
-          "Snijd ondertussen de verse kruiden grof. Snijd de limoen in partjes."
+          "Roer de rijst, knoflook, gele currykruiden, kurkuma, gemberpuree en sojasaus door de groenten.",
+          "Bak 2 - 3 minuten en roer zo min mogelijk door.",
+          "Breng op smaak met peper en zout.",
+          "Snijd ondertussen de verse kruiden grof.",
+          "Snijd de limoen in partjes."
         ]
       },
       {
         "title": "4 Serveren",
         "items": [
-          "Serveer de rijst op diepe borden. Leg het spiegelei erbovenop en besprenkel met de zoete Aziatische saus.",
+          "Serveer de rijst op diepe borden.",
+          "Leg het spiegelei erbovenop en besprenkel met de zoete Aziatische saus.",
           "Garneer met de verse kruiden en cashewnoten.",
           "Serveer de limoenpartjes ernaast."
         ]
@@ -2972,7 +3297,6 @@
     "title": "Spaghetti met champignonroomsaus en spekjes",
     "slug": "spaghetti-met-champignonroomsaus-en-spekjes",
     "time": "30 min",
-    "tags": [],
     "image": "/receptenboek/assets/images/spaghetti-met-champignonroomsaus-en-spekjes.jpg",
     "servings": 4,
     "servings_text": "4 personen",
@@ -3035,15 +3359,21 @@
         "title": "1 Voorbereiden",
         "items": [
           "Breng ruim water, met een snuf zout, aan de kook in een pan met deksel voor de spaghetti.",
-          "Pers de knoflook of snijd fijn. Snipper de sjalot. Snijd de champignons in kwarten. Snijd de portobello in lange dunne repen.",
-          "Kook de spaghetti, afgedekt, 8 - 10 minuten al dente in de pan met deksel. Giet daarna af maar bewaar het kookvocht."
+          "Pers de knoflook of snijd fijn.",
+          "Snipper de sjalot.",
+          "Snijd de champignons in kwarten.",
+          "Snijd de portobello in lange dunne repen.",
+          "Kook de spaghetti, afgedekt, 8 - 10 minuten al dente in de pan met deksel.",
+          "Giet daarna af maar bewaar het kookvocht."
         ]
       },
       {
         "title": "2 Spekblokjes bakken",
         "items": [
-          "Verhit een grote hapjespan zonder olie, op middelhoog vuur en bak de spekblokjes in 4 - 6 minuten knapperig. Haal uit de pan en bewaar apart.",
-          "Rasp ondertussen de schil van een citroen met een fijne rasp en pers de citroen uit. Snijd de verse krulpeterselie fijn."
+          "Verhit een grote hapjespan zonder olie, op middelhoog vuur en bak de spekblokjes in 4 - 6 minuten knapperig.",
+          "Haal uit de pan en bewaar apart.",
+          "Rasp ondertussen de schil van een citroen met een fijne rasp en pers de citroen uit.",
+          "Snijd de verse krulpeterselie fijn."
         ]
       },
       {
@@ -3051,7 +3381,8 @@
         "items": [
           "Verhit 1/2 el olijfolie per persoon in dezelfde hapjespan op middelhoog vuur.",
           "Bak de champignons en de portobello 3 - 4 minuten.",
-          "Voeg de sjalot en de knoflook toe en roerbak 1 - 2 minuten. Breng op smaak met peper en zout."
+          "Voeg de sjalot en de knoflook toe en roerbak 1 - 2 minuten.",
+          "Breng op smaak met peper en zout."
         ]
       },
       {
@@ -3064,13 +3395,16 @@
       {
         "title": "5 Afwerken",
         "items": [
-          "Verwijder de hapjespan van het vuur. Voeg per persoon 1/2 tl citroenrasp, 1 el citroensap en 1/2 el roomboter, de helft van de krulpeterselie en de helft van de pecorino toe. Breng op smaak met peper en zout en roer goed door."
+          "Verwijder de hapjespan van het vuur.",
+          "Voeg per persoon 1/2 tl citroenrasp, 1 el citroensap en 1/2 el roomboter, de helft van de krulpeterselie en de helft van de pecorino toe.",
+          "Breng op smaak met peper en zout en roer goed door."
         ]
       },
       {
         "title": "6 Serveren",
         "items": [
-          "Verdeel de spaghetti over de borden. Garneer met de overige krulpeterselie en de pecorino."
+          "Verdeel de spaghetti over de borden.",
+          "Garneer met de overige krulpeterselie en de pecorino."
         ]
       }
     ]
@@ -3154,27 +3488,41 @@
     ],
     "steps": [
       {
-        "title": "1 Stap 1",
+        "title": "1 Breng ruim water aan de",
         "items": [
-          "Breng ruim water aan de kook in een pan en verkruimel het bouillonblokje erboven. Kook de rijst 12 - 15 minuten. Giet daarna af en laat uitstomen. Verwijder de steelaanzet van de paksoi, snijd zowel de stelen als het blad van de paksoi klein en houd de stelen apart van de groene bladeren. Snijd de wortel in dunne halve maantjes en snijd de paprika in blokjes."
+          "Breng ruim water aan de kook in een pan en verkruimel het bouillonblokje erboven.",
+          "Kook de rijst 12 - 15 minuten.",
+          "Giet daarna af en laat uitstomen.",
+          "Verwijder de steelaanzet van de paksoi, snijd zowel de stelen als het blad van de paksoi klein en houd de stelen apart van de groene bladeren.",
+          "Snijd de wortel in dunne halve maantjes en snijd de paprika in blokjes."
         ]
       },
       {
-        "title": "2 Stap 2",
+        "title": "2 Verhit een sch eutje zonnebloemolie",
         "items": [
-          "Verhit een sch eutje zonnebloemolie in een wok of hapjespan op middelhoog vuur. Roerbak de wortel, de paprika en de paksoistelen 6 - 8 minuten. Voeg de paksoibladeren, de nasi-bamikruidenmix en de helft van de sojasaus toe. Meng goed en bak 1 minuut. Breng op smaak met peper en zout."
+          "Verhit een sch eutje zonnebloemolie in een wok of hapjespan op middelhoog vuur.",
+          "Roerbak de wortel, de paprika en de paksoistelen 6 - 8 minuten.",
+          "Voeg de paksoibladeren, de nasi-bamikruidenmix en de helft van de sojasaus toe.",
+          "Meng goed en bak 1 minuut.",
+          "Breng op smaak met peper en zout."
         ]
       },
       {
-        "title": "3 Stap 3",
+        "title": "3 Verhit een klontje roomboter in",
         "items": [
-          "Verhit een klontje roomboter in een koekenpan op hoog vuur en bak de biefstukreepjes 1 minuut. Voeg de zoete Aziatische saus, de uienchutney, de aangegeven hoeveelheid water voor de saus en de overige sojasaus toe. Meng goed en bak nog 1 minuut (zie Tip). Breng op smaak met peper. Tip: Voeg sambal naar smaak toe als je het pittiger wilt maken."
+          "Verhit een klontje roomboter in een koekenpan op hoog vuur en bak de biefstukreepjes 1 minuut.",
+          "Voeg de zoete Aziatische saus, de uienchutney, de aangegeven hoeveelheid water voor de saus en de overige sojasaus toe.",
+          "Meng goed en bak nog 1 minuut.",
+          "Breng op smaak met peper."
         ]
       },
       {
-        "title": "4 Stap 4",
+        "title": "4 Serveer de rijst in kommen",
         "items": [
-          "Serveer de rijst in kommen. Leg alles erbovenop. Besprenkel met de eventuele achtergebleven saus uit de koekenpan. Garneer met de sesamzaadjes."
+          "Serveer de rijst in kommen.",
+          "Leg alles erbovenop.",
+          "Besprenkel met de eventuele achtergebleven saus uit de koekenpan.",
+          "Garneer met de sesamzaadjes."
         ]
       }
     ]
@@ -3258,7 +3606,8 @@
         "items": [
           "Was of schil de aardappelen en snijd in grove stukken.",
           "Zet de aardappelen onder water in een pot en verkruimel het bouillonblokje erboven.",
-          "Kook de aardappelen 12 - 15 minuten. Bewaar wat van het kookvocht, giet daarna af en bewaar apart.",
+          "Kook de aardappelen 12 - 15 minuten.",
+          "Bewaar wat van het kookvocht, giet daarna af en bewaar apart.",
           "Verwijder de steelaanzet van de sperziebonen en halveer ze.",
           "Snipper de ui fijn."
         ]
@@ -3266,26 +3615,36 @@
       {
         "title": "2 Gehaktballetjes maken",
         "items": [
-          "Schenk een bodempje water in een sauteerpan met deksel. Voeg de sperziebonen toe.",
-          "Breng aan de kook en laat, afgedekt, 4 - 6 minuten zachtjes koken. Giet daarna af en laat uitstomen.",
-          "Meng in een kom het gehakt met de panko. Draai er 3 gehaktballetjes per persoon van.",
+          "Schenk een bodempje water in een sauteerpan met deksel.",
+          "Voeg de sperziebonen toe.",
+          "Breng aan de kook en laat, afgedekt, 4 - 6 minuten zachtjes koken.",
+          "Giet daarna af en laat uitstomen.",
+          "Meng in een kom het gehakt met de panko.",
+          "Draai er 3 gehaktballetjes per persoon van.",
           "Verhit een klein klontje boter in een pan met deksel op hoog vuur en bak de gehaktballetjes in 2 - 3 minuten rondom bruin.",
-          "Verlaag het vuur naar middelmatig en voeg de helft van de ui toe. Bak, afgedekt, 4 - 6 minuten."
+          "Verlaag het vuur naar middelmatig en voeg de helft van de ui toe.",
+          "Bak, afgedekt, 4 - 6 minuten."
         ]
       },
       {
         "title": "3 Bakken",
         "items": [
-          "Besprenkel de sperziebonen met olijfolie, voeg de overige ui toe en bak 3 - 4 minuten op middelmatig vuur. Breng op smaak met peper en zout.",
-          "Meng ondertussen in een kleine kom de ketchup met de sojasaus, de honing en de aangegeven hoeveelheid water. Voeg de saus toe aan de gehaktballetjes en bak 2 minuten al roerend. Zet daarna het vuur uit.",
+          "Besprenkel de sperziebonen met olijfolie, voeg de overige ui toe en bak 3 - 4 minuten op middelmatig vuur.",
+          "Breng op smaak met peper en zout.",
+          "Meng ondertussen in een kleine kom de ketchup met de sojasaus, de honing en de aangegeven hoeveelheid water.",
+          "Voeg de saus toe aan de gehaktballetjes en bak 2 minuten al roerend.",
+          "Zet daarna het vuur uit.",
           "Snijd ondertussen de verse kruiden fijn."
         ]
       },
       {
         "title": "4 Serveren",
         "items": [
-          "Stamp de aardappelen met een aardappelstamper tot een grove puree. Voeg de mosterd, de verse kruiden, een klein klontje boter en eventueel een scheutje kookvocht toe en stamp goed door. Breng op smaak met peper en zout.",
-          "Verdeel de puree over de borden. Schep de groenten en de gehaktballetjes ernaast.",
+          "Stamp de aardappelen met een aardappelstamper tot een grove puree.",
+          "Voeg de mosterd, de verse kruiden, een klein klontje boter en eventueel een scheutje kookvocht toe en stamp goed door.",
+          "Breng op smaak met peper en zout.",
+          "Verdeel de puree over de borden.",
+          "Schep de groenten en de gehaktballetjes ernaast.",
           "Besprenkel met de saus uit de pan."
         ]
       }
@@ -3369,39 +3728,69 @@
     ],
     "steps": [
       {
-        "title": "1 Stap 1",
+        "title": "1 Verwarm de oven voor op",
         "items": [
-          "Verwarm de oven voor op 200 graden. Bereid de bouillon. Snipper de ui. Pers de knoflook of snijd fijn. Rasp de schil van de limoen en snijd de limoen in 6 partjes. Pers 1 limoenpartje per persoon uit boven een kleine kom. Dep de garnalen droog met keukenpapier en voeg toe aan een kom. Besprenkel met een scheutje olijfolie. Voeg de helft van de knoflook en de helft van de limoenrasp toe. Roer goed door."
+          "Verwarm de oven voor op 200 graden.",
+          "Bereid de bouillon.",
+          "Snipper de ui.",
+          "Pers de knoflook of snijd fijn.",
+          "Rasp de schil van de limoen en snijd de limoen in 6 partjes.",
+          "Pers 1 limoenpartje per persoon uit boven een kleine kom.",
+          "Dep de garnalen droog met keukenpapier en voeg toe aan een kom.",
+          "Besprenkel met een scheutje olijfolie.",
+          "Voeg de helft van de knoflook en de helft van de limoenrasp toe.",
+          "Roer goed door."
         ]
       },
       {
-        "title": "2 Stap 2",
+        "title": "2 Verhit een klontje roomboter in",
         "items": [
-          "Verhit een klontje roomboter in een grote pan op middelhoog vuur. Bak de ui en overige de knoflook 1 - 2 minuten. Voeg de risottorijst toe en bak 1 - 2 minuten mee. Voeg de tomatenpuree toe en roer goed door."
+          "Verhit een klontje roomboter in een grote pan op middelhoog vuur.",
+          "Bak de ui en overige de knoflook 1 - 2 minuten.",
+          "Voeg de risottorijst toe en bak 1 - 2 minuten mee.",
+          "Voeg de tomatenpuree toe en roer goed door."
         ]
       },
       {
-        "title": "3 Stap 3",
+        "title": "3 Voeg 1/3 van de bouillon",
         "items": [
-          "Voeg 1/3 van de bouillon toe en laat de risottorijst de bouillon langzaam opnemen. Roer regelmatig door. Voeg, zodra de bouillon is opgenomen, weer 1/3 van de bouillon toe en herhaal dit nog 2 keer met de overige bouillon. De risotto is gaar zodra de korrel vanbuiten zacht is en nog een lichte bite heeft vanbinnen. Dit duurt ongeveer 20 - 25 minuten. Kook de risotto langer met meer bouillon als je een zachtere risotto wilt."
+          "Voeg 1/3 van de bouillon toe en laat de risottorijst de bouillon langzaam opnemen.",
+          "Roer regelmatig door.",
+          "Voeg, zodra de bouillon is opgenomen, weer 1/3 van de bouillon toe en herhaal dit nog 2 keer met de overige bouillon.",
+          "De risotto is gaar zodra de korrel vanbuiten zacht is en nog een lichte bite heeft vanbinnen.",
+          "Dit duurt ongeveer 20 - 25 minuten.",
+          "Kook de risotto langer met meer bouillon als je een zachtere risotto wilt."
         ]
       },
       {
-        "title": "4 Stap 4",
+        "title": "4 Giet de cherrytomaten in blik",
         "items": [
-          "Giet de cherrytomaten in blik af en voeg toe aan een ovenschaal. Besprenkel met een scheutje olijfolie. Voeg de zwarte balsamicoazijn toe en breng op smaak met peper en zout. Rooster 15 minuten in de oven. Meng ondertussen in een saladekom het limoensap met de rucola en de extra vierge olijfolie. Breng op smaak met peper en zout."
+          "Giet de cherrytomaten in blik af en voeg toe aan een ovenschaal.",
+          "Besprenkel met een scheutje olijfolie.",
+          "Voeg de zwarte balsamicoazijn toe en breng op smaak met peper en zout.",
+          "Rooster 15 minuten in de oven.",
+          "Meng ondertussen in een saladekom het limoensap met de rucola en de extra vierge olijfolie.",
+          "Breng op smaak met peper en zout."
         ]
       },
       {
-        "title": "5 Stap 5",
+        "title": "5 Verhit een koekenpan zonder olie",
         "items": [
-          "Verhit een koekenpan zonder olie op middelhoog vuur. Bak de garnalen in 3 minuten gaar. Haal daarna uit de pan en bewaar apart. Snijd het basilicum fijn en meng in een kom met de overige limoenrasp. Voeg de helft van het kruiden-limoenmengsel toe aan de risotto samen met de kerstomaten en garnalen, inclusief het bakvocht. Roer goed door."
+          "Verhit een koekenpan zonder olie op middelhoog vuur.",
+          "Bak de garnalen in 3 minuten gaar.",
+          "Haal daarna uit de pan en bewaar apart.",
+          "Snijd het basilicum fijn en meng in een kom met de overige limoenrasp.",
+          "Voeg de helft van het kruiden-limoenmengsel toe aan de risotto samen met de kerstomaten en garnalen, inclusief het bakvocht.",
+          "Roer goed door."
         ]
       },
       {
-        "title": "6 Stap 6",
+        "title": "6 Serveer de risotto over de",
         "items": [
-          "Serveer de risotto over de borden. Serveer de rucolasalade ernaast. Garneer met het overige basilicum-limoenmengsel. Serveer met de limoenpartjes."
+          "Serveer de risotto over de borden.",
+          "Serveer de rucolasalade ernaast.",
+          "Garneer met het overige basilicum-limoenmengsel.",
+          "Serveer met de limoenpartjes."
         ]
       }
     ]
@@ -3500,27 +3889,43 @@
     ],
     "steps": [
       {
-        "title": "1 Stap 1",
+        "title": "1 Verwarm de oven voor op",
         "items": [
-          "Verwarm de oven voor op 200 graden. Snijd de ui in halve ringen. Pers de knoflook of snijd fijn. Verhit een klein scheutje olijfolie in een koekenpan op middelhoog vuur. Bak de knoflook, passata, Siciliaanse kruiden, de zwarte balsamicoazijn en de helft van de suiker 4 - 5 minuten. Breng op smaak met peper en zout."
+          "Verwarm de oven voor op 200 graden.",
+          "Snijd de ui in halve ringen.",
+          "Pers de knoflook of snijd fijn.",
+          "Verhit een klein scheutje olijfolie in een koekenpan op middelhoog vuur.",
+          "Bak de knoflook, passata, Siciliaanse kruiden, de zwarte balsamicoazijn en de helft van de suiker 4 - 5 minuten.",
+          "Breng op smaak met peper en zout."
         ]
       },
       {
-        "title": "2 Stap 2",
+        "title": "2 Leg ondertussen de naan op",
         "items": [
-          "Leg ondertussen de naan op een bakplaat met bakpapier en bak 4 - 5 minuten voor in de oven. Laat ondertussen de tonijn uitlekken. Besmeer de naan met de tomatensaus. Beleg met de tonijn en de helft van de ui. Verdeel de geraspte belegen kaas over de naanpizza's. Bak de naanpizza's 5 - 8 minuten in de oven."
+          "Leg ondertussen de naan op een bakplaat met bakpapier en bak 4 - 5 minuten voor in de oven.",
+          "Laat ondertussen de tonijn uitlekken.",
+          "Besmeer de naan met de tomatensaus.",
+          "Beleg met de tonijn en de helft van de ui.",
+          "Verdeel de geraspte belegen kaas over de naanpizza's.",
+          "Bak de naanpizza's 5 - 8 minuten in de oven."
         ]
       },
       {
-        "title": "3 Stap 3",
+        "title": "3 Snijd ondertussen de komkommer in",
         "items": [
-          "Snijd ondertussen de komkommer in dunne halve maantjes. Snijd de tomaat in partjes. Snijd de bieslook fijn. Meng in een grote saladekom de wittewijnazijn met de extra vierge olijfolie, de mosterd en de overige suiker. Breng op smaak met peper en zout."
+          "Snijd ondertussen de komkommer in dunne halve maantjes.",
+          "Snijd de tomaat in partjes.",
+          "Snijd de bieslook fijn.",
+          "Meng in een grote saladekom de wittewijnazijn met de extra vierge olijfolie, de mosterd en de overige suiker.",
+          "Breng op smaak met peper en zout."
         ]
       },
       {
-        "title": "4 Stap 4",
+        "title": "4 Voeg, vlak voor serveren, de",
         "items": [
-          "Voeg, vlak voor serveren, de tomaat, komkommer en bieslook toe aan de saladekom. Voeg de overige ui toe en meng goed met de dressing. Serveer de naanpizza's met de salade ernaast."
+          "Voeg, vlak voor serveren, de tomaat, komkommer en bieslook toe aan de saladekom.",
+          "Voeg de overige ui toe en meng goed met de dressing.",
+          "Serveer de naanpizza's met de salade ernaast."
         ]
       }
     ]
@@ -3609,27 +4014,52 @@
     ],
     "steps": [
       {
-        "title": "1 Stap 1",
+        "title": "1 Verwarm de oven voor op",
         "items": [
-          "Verwarm de oven voor op 200 graden. Snijd de ui in 8 partjes. Verdeel de ui en pompoen over een bakplaat met bakpapier. Besprenkel met de helft van de olijfolie. Breng op smaak met peper en zout en schep goed om. Rooster de groenten 14 - 16 minuten in de oven. Schep halverwege om. Voeg de bulgur en ruim water toe aan een pan zodat de bulgur goed onder water staat. Verkruimel het bouillonblokje erboven. Breng het water aan de kook en kook de bulgur in 10 minuten op laag vuur gaar. Roer af en toe door."
+          "Verwarm de oven voor op 200 graden.",
+          "Snijd de ui in 8 partjes.",
+          "Verdeel de ui en pompoen over een bakplaat met bakpapier.",
+          "Besprenkel met de helft van de olijfolie.",
+          "Breng op smaak met peper en zout en schep goed om.",
+          "Rooster de groenten 14 - 16 minuten in de oven.",
+          "Schep halverwege om.",
+          "Voeg de bulgur en ruim water toe aan een pan zodat de bulgur goed onder water staat.",
+          "Verkruimel het bouillonblokje erboven.",
+          "Breng het water aan de kook en kook de bulgur in 10 minuten op laag vuur gaar.",
+          "Roer af en toe door."
         ]
       },
       {
-        "title": "2 Stap 2",
+        "title": "2 Rasp de schil van de",
         "items": [
-          "Rasp de schil van de citroen. Snijd de helft van de citroen in partjes en pers de andere helft uit boven een diep bord. Voeg de harissa (let op: pittig! Gebruik naar smaak), de overige olijfolie en 1/2 tl citroenrasp per persoon toe. Roer goed door. Verhit de roomboter in een koekenpan op hoog vuur. Bak de varkenshaas in 2 - 3 minuten rondom bruin. Leg de varkenshaas in een ovenschaal en schenk het harissamengsel erover. Rooster de varkenshaas 6 - 8 minuten in de oven."
+          "Rasp de schil van de citroen.",
+          "Snijd de helft van de citroen in partjes en pers de andere helft uit boven een diep bord.",
+          "Voeg de harissa naar smaak, de overige olijfolie en 1/2 tl citroenrasp per persoon toe.",
+          "Roer goed door.",
+          "Verhit de roomboter in een koekenpan op hoog vuur.",
+          "Bak de varkenshaas in 2 - 3 minuten rondom bruin.",
+          "Leg de varkenshaas in een ovenschaal en schenk het harissamengsel erover.",
+          "Rooster de varkenshaas 6 - 8 minuten in de oven."
         ]
       },
       {
-        "title": "3 Stap 3",
+        "title": "3 Rol ondertussen de granaatappel al",
         "items": [
-          "Rol ondertussen de granaatappel al duwend over het aanrecht zodat je de pitjes hoort kraken. Snijd de granaatappel doormidden en haal de granaatappelpitjes uit de schil. Hak de peterselie grof. Meng in een kleine kom de tahin met het sap van 1 citroenpartje per persoon. Roer de spinazie, za'atar en de extra vierge olijfolie door de bulgur (zie Tip). Meng goed door en breng op smaak met peper en zout. Tip: Zorg ervoor dat de bulgur nog warm is, zodat de spinazie kan slinken."
+          "Rol ondertussen de granaatappel al duwend over het aanrecht zodat je de pitjes hoort kraken.",
+          "Snijd de granaatappel doormidden en haal de granaatappelpitjes uit de schil.",
+          "Hak de peterselie grof.",
+          "Meng in een kleine kom de tahin met het sap van 1 citroenpartje per persoon.",
+          "Roer de spinazie, za'atar en de extra vierge olijfolie door de bulgur.",
+          "Meng goed door en breng op smaak met peper en zout."
         ]
       },
       {
-        "title": "4 Stap 4",
+        "title": "4 Snijd de varkenshaas in plakken",
         "items": [
-          "Snijd de varkenshaas in plakken. Verdeel de bulgur over diepe borden en leg de pompoen, ui en varkenshaas erbovenop. Verkruimel de witte kaas eroverheen en besprenkel met de tahinsaus. Garneer met de peterselie en de granaatappelpitjes."
+          "Snijd de varkenshaas in plakken.",
+          "Verdeel de bulgur over diepe borden en leg de pompoen, ui en varkenshaas erbovenop.",
+          "Verkruimel de witte kaas eroverheen en besprenkel met de tahinsaus.",
+          "Garneer met de peterselie en de granaatappelpitjes."
         ]
       }
     ]
@@ -3642,6 +4072,7 @@
       "Veggie"
     ],
     "image": "/receptenboek/assets/images/verse-conchiglie-met-mozzarella-uit-de-oven.jpg",
+    "source": "https://www.hellofresh.nl/recipes/verse-conchiglie-met-mozzarella-uit-de-oven-60812d4ceae7ff4d565dd162",
     "ingredients": [
       {
         "name": "stuk(s) Ui",
@@ -3698,31 +4129,41 @@
     ],
     "steps": [
       {
-        "title": "1 Stap 1",
+        "title": "1 Verwarm de oven voor op",
         "items": [
-          "Verwarm de oven voor op 220 graden. Breng ruim water aan de kook in een pan met deksel voor de conchiglie en verkruimel 1/4 bouillonblokje per persoon boven de pan.Snipper de ui. Pers de knoflook of snijd fijn. Snijd de paprika in blokjes."
+          "Verwarm de oven voor op 220 graden.",
+          "Breng ruim water aan de kook in een pan met deksel voor de conchiglie en verkruimel 1/4 bouillonblokje per persoon boven de pan.Snipper de ui.",
+          "Pers de knoflook of snijd fijn.",
+          "Snijd de paprika in blokjes."
         ]
       },
       {
-        "title": "2 Stap 2",
+        "title": "2 Verhit 1/2 el olijfolie per",
         "items": [
-          "Verhit 1/2 el olijfolie per persoon in een hapjespan en fruit de ui en knoflook 2 minuten op middelhoog vuur. Voeg de paprika en Midden-Oosterse kruiden toe en bak 4 minuten mee. Kook de conchiglie 4 - 5 minuten, en giet daarna af. Scheur ondertussen de mozzarella in kleine stukken en halveer de cherrytomaten."
+          "Verhit 1/2 el olijfolie per persoon in een hapjespan en fruit de ui en knoflook 2 minuten op middelhoog vuur.",
+          "Voeg de paprika en Midden-Oosterse kruiden toe en bak 4 minuten mee.",
+          "Kook de conchiglie 4 - 5 minuten, en giet daarna af.",
+          "Scheur ondertussen de mozzarella in kleine stukken en halveer de cherrytomaten."
         ]
       },
       {
-        "title": "3 Stap 3",
+        "title": "3 Meng de cherrytomaten en de",
         "items": [
-          "Meng de cherrytomaten en de passata door de smaakmakers in de hapjespan en verwarm het geheel nog 2 minuten. Schep de conchiglie erdoor en breng op smaak met peper en zout. Verdeel de pasta over een ovenschaal en leg de stukjes mozzarella erop. Besprenkel met de smokey tomatenketchup. Bak de ovenschotel 5 minuten in de oven, of totdat de mozzarella is gesmolten."
+          "Meng de cherrytomaten en de passata door de smaakmakers in de hapjespan en verwarm het geheel nog 2 minuten.",
+          "Schep de conchiglie erdoor en breng op smaak met peper en zout.",
+          "Verdeel de pasta over een ovenschaal en leg de stukjes mozzarella erop.",
+          "Besprenkel met de smokey tomatenketchup.",
+          "Bak de ovenschotel 5 minuten in de oven, of totdat de mozzarella is gesmolten."
         ]
       },
       {
-        "title": "4 Stap 4",
+        "title": "4 Pluk de blaadjes van de",
         "items": [
-          "Pluk de blaadjes van de basilicum en hak ze grof. Verdeel de pasta over de borden en garneer met het basilicum."
+          "Pluk de blaadjes van de basilicum en hak ze grof.",
+          "Verdeel de pasta over de borden en garneer met het basilicum."
         ]
       }
-    ],
-    "source": "https://www.hellofresh.nl/recipes/verse-conchiglie-met-mozzarella-uit-de-oven-60812d4ceae7ff4d565dd162"
+    ]
   },
   {
     "title": "Zelfgemaakte bruschetta-burgers met balsamico-aardappeltjes en komkommersalade",
@@ -3809,39 +4250,57 @@
     ],
     "steps": [
       {
-        "title": "1 Stap 1",
+        "title": "1 Verwarm de oven voor op",
         "items": [
-          "Verwarm de oven voor op 200 graden. Snipper de ui. Pel de knoflook, houd de helft apart en pers de overige knoflook of snijd fijn. Schil de aardappelen of was grondig en snijd in plakken van 1/2 cm dik. Zet de aardappelen ruim onder water in een pan en kook, afgedekt, 6 - 7 minuten. Giet af en laat uitstomen."
+          "Verwarm de oven voor op 200 graden.",
+          "Snipper de ui.",
+          "Pel de knoflook, houd de helft apart en pers de overige knoflook of snijd fijn.",
+          "Schil de aardappelen of was grondig en snijd in plakken van 1/2 cm dik.",
+          "Zet de aardappelen ruim onder water in een pan en kook, afgedekt, 6 - 7 minuten.",
+          "Giet af en laat uitstomen."
         ]
       },
       {
-        "title": "2 Stap 2",
+        "title": "2 Verhit de roomboter in een",
         "items": [
-          "Verhit de roomboter in een koekenpan op middelhoog vuur en bak de aardappelen in 7 minuten goudbruin. Voeg de fijngesneden knoflook toe, samen met de helft van de ui en de helft van de balsamicoazijn. Bak 3 minuten verder en breng op smaak met peper en zout."
+          "Verhit de roomboter in een koekenpan op middelhoog vuur en bak de aardappelen in 7 minuten goudbruin.",
+          "Voeg de fijngesneden knoflook toe, samen met de helft van de ui en de helft van de balsamicoazijn.",
+          "Bak 3 minuten verder en breng op smaak met peper en zout."
         ]
       },
       {
-        "title": "3 Stap 3",
+        "title": "3 Snijd de tomaat in blokjes,",
         "items": [
-          "Snijd de tomaat in blokjes, snijd het basilicum in reepjes en voeg de tomaat en basilicum toe aan een kom. Voeg de extra vierge olijfolie en de overige balsamicoazijn toe en meng goed. Breng op smaak met peper en zout en zet opzij."
+          "Snijd de tomaat in blokjes, snijd het basilicum in reepjes en voeg de tomaat en basilicum toe aan een kom.",
+          "Voeg de extra vierge olijfolie en de overige balsamicoazijn toe en meng goed.",
+          "Breng op smaak met peper en zout en zet opzij."
         ]
       },
       {
-        "title": "4 Stap 4",
+        "title": "4 Snijd de komkommer in dunne",
         "items": [
-          "Snijd de komkommer in dunne reepjes. Meng in een saladekom de komkommerreepjes, de mosterd, de witte balsamicoazijn en de helft van de mayonaise toe. Meng goed, breng op smaak met peper en zout en zet opzij. Meng in een kom het gehakt met de overige ui. Vorm een burger van het gehaktmengsel."
+          "Snijd de komkommer in dunne reepjes.",
+          "Meng in een saladekom de komkommerreepjes, de mosterd, de witte balsamicoazijn en de helft van de mayonaise toe.",
+          "Meng goed, breng op smaak met peper en zout en zet opzij.",
+          "Meng in een kom het gehakt met de overige ui.",
+          "Vorm een burger van het gehaktmengsel."
         ]
       },
       {
-        "title": "5 Stap 5",
+        "title": "5 Snijd het broodje open en",
         "items": [
-          "Snijd het broodje open en rooster het 4 - 5 minuten in de oven. Verhit de olijfolie in een koekenpan op middelhoog vuur. Bak de burger 2 minuten per kant en beleg met de geraspte kaas. Zet het vuur lager en dek de pan af, zodat de kaas kan smelten."
+          "Snijd het broodje open en rooster het 4 - 5 minuten in de oven.",
+          "Verhit de olijfolie in een koekenpan op middelhoog vuur.",
+          "Bak de burger 2 minuten per kant en beleg met de geraspte kaas.",
+          "Zet het vuur lager en dek de pan af, zodat de kaas kan smelten."
         ]
       },
       {
-        "title": "6 Stap 6",
+        "title": "6 Wrijf de achtergehouden knoflook over",
         "items": [
-          "Wrijf de achtergehouden knoflook over de binnenkant van het broodje. Bestrijk met de overige mayonaise en beleg met de burger en de bruschetta-topping. Serveer de burger met de komkommersalade en aardappelschijfjes. Weetje: Wist je dat tomaten veel voordelen hebben voor je gezondheid? Ze zijn rijk aan vitamine A, C en E én lycopeen. Lycopeen is een antioxidant en beschermt onze cellen tegen schadelijke invloeden. Hoe rijper de tomaat, hoe meer lycopeen!"
+          "Wrijf de achtergehouden knoflook over de binnenkant van het broodje.",
+          "Bestrijk met de overige mayonaise en beleg met de burger en de bruschetta-topping.",
+          "Serveer de burger met de komkommersalade en aardappelschijfjes."
         ]
       }
     ]
@@ -3936,7 +4395,8 @@
         "items": [
           "Bereid de bouillon",
           "Snipper de ui en pers de knoflook of snijd fijn.",
-          "Snijd het steeltje van de jalapeño en haal zaadjes eruit. Snijd in ringetjes.",
+          "Snijd het steeltje van de jalapeño en haal zaadjes eruit.",
+          "Snijd in ringetjes.",
           "Houd 2 ringetjes per persoon apart ter garnering."
         ]
       },
@@ -3945,38 +4405,48 @@
         "items": [
           "Schil de zoete aardappel of was grondig en snijd in grove stukken van maximaal 2cm.",
           "Snijd de tomaat in blokjes en de puntpaprika in dunne reepjes.",
-          "Verhit een scheutje olijfolie in een steelpan op middelhoogvuur. Bak de knoflook, ui en dadels 1 - 2 minuten."
+          "Verhit een scheutje olijfolie in een steelpan op middelhoogvuur.",
+          "Bak de knoflook, ui en dadels 1 - 2 minuten."
         ]
       },
       {
         "title": "3 Rijst koken",
         "items": [
-          "Voeg de jalapeño, puntpaprika, tomaat, zoete aardappel en Peruaanse kruidenmix toe en bak nog 2 minuten. Breng op smaak met peper en zout.",
+          "Voeg de jalapeño, puntpaprika, tomaat, zoete aardappel en Peruaanse kruidenmix toe en bak nog 2 minuten.",
+          "Breng op smaak met peper en zout.",
           "Voeg de rijst en de aangegeven hoeveelheid water toe aan een pan.",
-          "Kook, afgedekt, 10 - 12 minuten. Zet daarna het vuur uit en laat 5 minuten afgedekt staan."
+          "Kook, afgedekt, 10 - 12 minuten.",
+          "Zet daarna het vuur uit en laat 5 minuten afgedekt staan."
         ]
       },
       {
         "title": "4 Pompoenpitten roosteren",
         "items": [
           "Voeg de bouillon, de linzen en het komijnzaad toe aan de groenten.",
-          "Laat 1 minuut koken. Verlaag dan het vuur en dek de pan af. Laat 8 - 10 minuten zachtjes koken. Roer af en toe door.",
-          "Verhit ondertussen een koekenpan zonder olie op hoog vuur en rooster de pompoenpitten tot ze beginnen te poffen. Haal uit de pan en houd apart."
+          "Laat 1 minuut koken.",
+          "Verlaag dan het vuur en dek de pan af.",
+          "Laat 8 - 10 minuten zachtjes koken.",
+          "Roer af en toe door.",
+          "Verhit ondertussen een koekenpan zonder olie op hoog vuur en rooster de pompoenpitten tot ze beginnen te poffen.",
+          "Haal uit de pan en houd apart."
         ]
       },
       {
         "title": "5 Garnering snijden",
         "items": [
           "Snijd de koriander grof.",
-          "Rasp de limoen met een fijne rasp. Snijd de limoen in 4 partjes.",
-          "Voeg de koriander en per persoon: 1tl limoenrasp en het sap van 1 limoenpartje toe aan de rijst. Meng goed."
+          "Rasp de limoen met een fijne rasp.",
+          "Snijd de limoen in 4 partjes.",
+          "Voeg de koriander en per persoon: 1tl limoenrasp en het sap van 1 limoenpartje toe aan de rijst.",
+          "Meng goed."
         ]
       },
       {
         "title": "6 Serveren",
         "items": [
           "Serveer de rijst en de stoof in kommen of diepe borden.",
-          "Schep de zure room erbovenop. Garneer met de pompoenpitten en de achtergehouden jalapeño.",
+          "Schep de zure room erbovenop.",
+          "Garneer met de pompoenpitten en de achtergehouden jalapeño.",
           "Serveer met de limoenpartjes."
         ]
       }
