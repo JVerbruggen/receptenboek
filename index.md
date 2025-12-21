@@ -195,6 +195,19 @@ let cardsBySlug = new Map();
 let sectionsBySlug = new Map();
 let hrsBySlug = new Map();
 
+const BASEURL = '{{ site.baseurl }}' || '';
+
+function withBaseUrl(path) {
+  if (!path) return path;
+  const p = String(path);
+  if (/^https?:\/\//i.test(p)) return p;
+  if (BASEURL && p.startsWith(BASEURL + '/')) return p;
+  // Legacy hard-coded base path
+  if (p.startsWith('/receptenboek/')) return BASEURL + p.slice('/receptenboek'.length);
+  if (p.startsWith('/')) return BASEURL + p;
+  return BASEURL + '/' + p;
+}
+
 function recipeSearchText(recipe, includeContent) {
   const parts = [];
   parts.push(String(recipe?.title || ''));
@@ -239,11 +252,13 @@ function renderCards(recipes) {
     card.className = 'recipe-card';
     card.dataset.slug = r.slug;
 
+    const placeholder = withBaseUrl('/assets/images/placeholder.svg');
+
     const img = document.createElement('img');
     img.className = 'recipe-card-image';
-    img.src = r.image || '/receptenboek/assets/images/placeholder.svg';
+    img.src = withBaseUrl(r.image) || placeholder;
     img.alt = r.title;
-    img.onerror = () => (img.src = '/receptenboek/assets/images/placeholder.svg');
+    img.onerror = () => (img.src = placeholder);
 
     const content = document.createElement('div');
     content.className = 'recipe-card-content';
@@ -296,10 +311,12 @@ function renderRecipeSections(recipes) {
     h1.textContent = r.title || 'Recept';
     section.appendChild(h1);
 
+    const placeholder = withBaseUrl('/assets/images/placeholder.svg');
+
     const img = document.createElement('img');
-    img.src = r.image || '/receptenboek/assets/images/placeholder.svg';
+    img.src = withBaseUrl(r.image) || placeholder;
     img.alt = r.title || 'Recept afbeelding';
-    img.onerror = () => (img.src = '/receptenboek/assets/images/placeholder.svg');
+    img.onerror = () => (img.src = placeholder);
     section.appendChild(img);
 
     const metaList = document.createElement('ul');
@@ -411,7 +428,7 @@ function renderRecipeSections(recipes) {
 // Fetch recipes.json and render cards + sections
 async function loadRecipes() {
   try {
-    const res = await fetch('/receptenboek/assets/recipes.json');
+    const res = await fetch(withBaseUrl('/assets/recipes.json'));
     if (!res.ok) throw new Error('Failed to load recipes.json');
     allRecipes = await res.json();
     renderCards(allRecipes);

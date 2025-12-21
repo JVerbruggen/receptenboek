@@ -140,7 +140,96 @@
       "Extra groente",
       "Familie"
     ],
-    "image": "/receptenboek/assets/images/bulgogi-stir-fry-met-noedels-en-varkensboerenworst.jpg"
+    "image": "/receptenboek/assets/images/bulgogi-stir-fry-met-noedels-en-varkensboerenworst.jpg",
+    "ingredients": [
+      {
+        "name": "cm Verse gember",
+        "amount": "2.5"
+      },
+      {
+        "name": "stuk(s) Knoflookteen",
+        "amount": "2"
+      },
+      {
+        "name": "stuk(s) Ui",
+        "amount": "1"
+      },
+      {
+        "name": "stuk(s) Bosui",
+        "amount": "2"
+      },
+      {
+        "name": "stuk(s) Rode paprika",
+        "amount": "1"
+      },
+      {
+        "name": "stuk(s) Varkensboerenworst",
+        "amount": "2"
+      },
+      {
+        "name": "gram Volkoren noedels",
+        "amount": "100"
+      },
+      {
+        "name": "gram Gesneden spitskool",
+        "amount": "200"
+      },
+      {
+        "name": "gram Zwarte sojabonenpasta",
+        "amount": "25"
+      },
+      {
+        "name": "Sojasaus",
+        "amount": "15 ml"
+      },
+      {
+        "name": "gram Sesamzaad",
+        "amount": "5"
+      },
+      {
+        "name": "stuk(s) Rode peper",
+        "amount": "¼"
+      },
+      {
+        "name": "naar smaak Peper en zout",
+        "amount": ""
+      },
+      {
+        "name": "Zonnebloemolie",
+        "amount": "1 el"
+      },
+      {
+        "name": "Wittewijnazijn",
+        "amount": "2 tl"
+      }
+    ],
+    "steps": [
+      {
+        "title": "1 Stap 1",
+        "items": [
+          "Breng ruim water aan de kook in een pan met deksel voor de noedels. Pers de knoflook of snijd fijn. Rasp de gember met een grove rasp. Snipper de ui. Snijd de paprika in reepjes. Verwijder de zaadlijsten van de rode peper en snijd fijn. Snijd de bosui in fijne ringen. Houd een klein deel van het groene gedeelte apart voor de garnering. Tip: Let op: de rode peper is pittig! Houd je niet van pittig of eten er kinderen mee? Gebruik dan naar smaak minder rode peper of houd apart."
+        ]
+      },
+      {
+        "title": "2 Stap 2",
+        "items": [
+          "Verhit 1/2 el zonnebloemolie per persoon in een hapjespan op middelhoog vuur. Fruit de gember, knoflook, rode peper en ui 1 - 2 minuten. Snijd het vel van de boerenworst open en knijp het vlees uit het vel. Druk met een spatel het worstvlees in kleinere stukken en roerbak 2 - 3 minuten. Kook ondertussen de noedels 2 - 3 minuten in de pan met deksel. Voeg in de laatste minuut de gesneden spitskool toe en kook mee. Tip: Nieuw in je box: volkoren noedels! Deze noedels zijn gemaakt van 100% volkorenmeel en bevatten in vergelijking met witte noedels niet alleen meer vezels, maar ook 3 tot 5 keer meer vitaminen en mineralen zoals kalium, magnesium, ijzer, en vitamine B1, B2 en E."
+        ]
+      },
+      {
+        "title": "3 Stap 3",
+        "items": [
+          "Voeg de zwarte-bonenpasta, de bosui en de rode paprika toe aan de hapjespan en bak 4 - 5 minuten op middelhoog vuur. Giet de noedels en spitskool af en voeg toe aan de hapjespan. Blus het geheel af met de sojasaus en per persoon: 1 tl wittewijnazijn en 1 el water. Meng alles goed door elkaar en verhit nog 1 minuut op hoog vuur. Tip: Let jij op je zoutinname? Voeg dan de helft van de sojasaus toe. Wie wil kan na het serveren eventueel naar smaak meer toevoegen."
+        ]
+      },
+      {
+        "title": "4 Stap 4",
+        "items": [
+          "Verdeel de noedels met de groenten over de borden. Garneer het geheel met de sesamzaadjes en het overige groene gedeelte van de bosui. Tip: Nieuw in je box: volkoren noedels! Deze noedels zijn gemaakt van 100% volkorenmeel en bevatten in vergelijking met witte noedels niet alleen meer vezels, maar ook 3 tot 5 keer meer vitaminen en mineralen zoals kalium, magnesium, ijzer, en vitamine B1, B2 en E."
+        ]
+      }
+    ],
+    "source": "https://www.hellofresh.nl/recipes/roerbaknoedels-met-boerenworst-629870ec126f06fc6e0ea51d"
   },
   {
     "title": "Bulgur met harissa-portobello",
@@ -1521,7 +1610,100 @@
       "Extra groente",
       "Caloriebewust"
     ],
-    "image": "/receptenboek/assets/images/kipworstjes-met-wortelpuree.jpg"
+    "image": "/receptenboek/assets/images/kipworstjes-met-wortelpuree.jpg",
+    "ingredients": [
+      {
+        "name": "gram Aardappelen",
+        "amount": "400"
+      },
+      {
+        "name": "stuk(s) Wortel",
+        "amount": "1"
+      },
+      {
+        "name": "stuk(s) Rode ui",
+        "amount": "1"
+      },
+      {
+        "name": "stuk(s) Gekruide kipworstjes",
+        "amount": "4"
+      },
+      {
+        "name": "gram Broccoli",
+        "amount": "250"
+      },
+      {
+        "name": "gram Ketjap manis",
+        "amount": "20"
+      },
+      {
+        "name": "zakje(s) Gomasio-tuinkruidenmix",
+        "amount": "½"
+      },
+      {
+        "name": "Zoutarme kippenbouillon",
+        "amount": "120 ml"
+      },
+      {
+        "name": "[Plantaardige] roomboter",
+        "amount": "1 el"
+      },
+      {
+        "name": "Olijfolie",
+        "amount": "1 el"
+      },
+      {
+        "name": "[Plantaardige] melk",
+        "amount": ""
+      },
+      {
+        "name": "Mosterd",
+        "amount": "2 el"
+      },
+      {
+        "name": "naar smaak Peper en zout",
+        "amount": ""
+      }
+    ],
+    "steps": [
+      {
+        "title": "1 Stap 1",
+        "items": [
+          "Bereid de bouillon. Was of schil de aardappelen en wortel en snijd beide in grove stukken. Zet de aardappel en wortel onder water in een pan en kook in 12 - 15 minuten gaar. Bewaar wat van het kookvocht, giet af en laat uitstomen."
+        ]
+      },
+      {
+        "title": "2 Stap 2",
+        "items": [
+          "Snijd de ui in halve ringen. Verhit een scheutje olijfolie in een koekenpan op middelhoog vuur en bak de kipworstjes in 3 - 4 minuten rondom bruin. Voeg de ui toe, dek de pan af en verlaag het vuur naar middelmatig. Bak 6 - 7 minuten, of tot de worstjes gaar zijn. Keer regelmatig om."
+        ]
+      },
+      {
+        "title": "3 Stap 3",
+        "items": [
+          "Breng ruim water met een snuf zout aan de kook in een pan. Snijd de bloem van de broccoli in roosjes en de steel in blokjes. Kook de broccoli 5 - 7 minuten. Giet af, breng op smaak met peper en zout en laat uitstomen. Weetje: Broccoli wordt niet voor niets gezien als een supergroente. Het is rijk aan onder andere calcium, kalium, ijzer en vitamine B, C en E."
+        ]
+      },
+      {
+        "title": "4 Stap 4",
+        "items": [
+          "Voeg een klontje roomboter, ketjap en de helft van de mosterd toe aan de worstjes. Meng goed en blus af met de bouillon. Zet het vuur laag en laat inkoken tot serveren."
+        ]
+      },
+      {
+        "title": "5 Stap 5",
+        "items": [
+          "Stamp de aardappel en wortel met een aardappelstamper tot een grove puree. Voeg de overige mosterd en een scheutje melk of kookvocht toe en stamp goed door. Breng op smaak met peper en zout."
+        ]
+      },
+      {
+        "title": "6 Stap 6",
+        "items": [
+          "Verdeel de wortelpuree en broccoli over de borden. Bestrooi met de gomasio-tuinkruiden en serveer de worstjes ernaast. Schenk de jus erover."
+        ]
+      }
+    ],
+    "source": "https://www.hellofresh.nl/recipes/kipworstjes-met-wortelpuree-690cac2e79e2c370e49202c4"
   },
   {
     "title": "Krieltjessalade met Mediterrane kipfilet",
@@ -2238,7 +2420,96 @@
       "Veggie",
       "Extra groente"
     ],
-    "image": "/receptenboek/assets/images/parelcouscous-met-geroosterde-puntpaprika-en-witte-kaas.jpg"
+    "image": "/receptenboek/assets/images/parelcouscous-met-geroosterde-puntpaprika-en-witte-kaas.jpg",
+    "ingredients": [
+      {
+        "name": "stuk(s) Rode puntpaprika",
+        "amount": "2"
+      },
+      {
+        "name": "stuk(s) Knoflookteen",
+        "amount": "2"
+      },
+      {
+        "name": "gram Verse krulpeterselie",
+        "amount": "5"
+      },
+      {
+        "name": "gram Witte kaas",
+        "amount": "100"
+      },
+      {
+        "name": "gram Gezouten amandelen",
+        "amount": "40"
+      },
+      {
+        "name": "gram Parelcouscous",
+        "amount": "140"
+      },
+      {
+        "name": "gram Gekleurde peenmix",
+        "amount": "200"
+      },
+      {
+        "name": "⅔ zakje(s) Karwijzaad",
+        "amount": ""
+      },
+      {
+        "name": "gram Biologische volle yoghurt",
+        "amount": "100"
+      },
+      {
+        "name": "Zonnebloemolie",
+        "amount": "1 el"
+      },
+      {
+        "name": "naar smaak Peper en zout",
+        "amount": ""
+      },
+      {
+        "name": "Zoutarme groentebouillon",
+        "amount": "200 ml"
+      },
+      {
+        "name": "Extra vierge olijfolie",
+        "amount": "½ el"
+      },
+      {
+        "name": "Olijfolie",
+        "amount": "2 el"
+      },
+      {
+        "name": "Honing [of plantaardig alternatief]",
+        "amount": "1 tl"
+      }
+    ],
+    "steps": [
+      {
+        "title": "1 Stap 1",
+        "items": [
+          "Bereid de bouillon en verwarm de oven voor op 220 graden. Verwijder de zaadlijsten van de puntpaprika en snijd in reepjes. Leg de paprika op een bakplaat met bakpapier. Besprenkel met de zonnebloemolie en bak de paprika 20 - 25 minuten in de oven, of tot de paprika zacht is. Schep halverwege om. Tip: Wist je dat je door de paprika in dit gerecht meer dan de ADH vitamine C binnenkrijgt? Eén rode puntpaprika per persoon levert je zelfs meer dan het dubbele!"
+        ]
+      },
+      {
+        "title": "2 Stap 2",
+        "items": [
+          "Pers ondertussen de knoflook of snijd fijn. Snijd de krulpeterselie fijn en verkruimel de witte kaas. Hak de gezouten amandelen grof. Verhit de helft van de olijfolie in een pan met deksel, voeg de parelcouscous toe en roerbak 1 minuut. Voeg de bouillon en 50 ml water per persoon toe (pas op: dit kan spetteren!), zet het vuur laag en kook de parelcouscous, afgedekt, in 13 – 15 minuten droog. Roer daarna de korrels los met een vork en laat zonder deksel uitstomen. Tip: Je ontvangt meer parelcouscous dan je nodig hebt voor dit recept. De overige parelcouscous kun je bijvoorbeeld de volgende dag koken en gebruiken in een lunchsalade of soep."
+        ]
+      },
+      {
+        "title": "3 Stap 3",
+        "items": [
+          "Verhit de overige olijfolie in een wok of hapjespan met deksel en fruit de knoflook 1 minuut op middellaag vuur. Voeg de gekleurde peen en het karwijzaad toe en roerbak 5 minuten op middelhoog vuur. Breng op smaak met peper en zout."
+        ]
+      },
+      {
+        "title": "4 Stap 4",
+        "items": [
+          "Meng ondertussen in een kom de yoghurt, extra vierge olijfolie, honing en peper en zout naar smaak. Voeg de groenten, de helft van de witte kaas, de helft van de paprika, de helft van de peterselie en de helft van de amandelen toe aan de pan met deksel van de parelcouscous en meng goed. Verdeel de parelcouscous over de borden en besprenkel met de dressing. Garneer met de overige witte kaas, paprika, peterselie en amandelen."
+        ]
+      }
+    ],
+    "source": "https://www.hellofresh.nl/recipes/parelcouscous-met-geroosterde-puntpaprika-en-witte-kaas-620e5ce3e3d2ad5a1e2987fd"
   },
   {
     "title": "Piri-piri garnalen met tomatensalsa",
@@ -2480,7 +2751,116 @@
     "tags": [
       "Veggie"
     ],
-    "image": "/receptenboek/assets/images/pittige-udonnoedels-met-gemarineerde-eieren.jpg"
+    "image": "/receptenboek/assets/images/pittige-udonnoedels-met-gemarineerde-eieren.jpg",
+    "ingredients": [
+      {
+        "name": "stuk(s) Knoflookteen",
+        "amount": "2"
+      },
+      {
+        "name": "cm Verse gember",
+        "amount": "2"
+      },
+      {
+        "name": "stuk(s) Rode peper",
+        "amount": "½"
+      },
+      {
+        "name": "stuk(s) Ei",
+        "amount": "4"
+      },
+      {
+        "name": "gram Sperziebonen",
+        "amount": "200"
+      },
+      {
+        "name": "stuk(s) Komkommer",
+        "amount": "1"
+      },
+      {
+        "name": "gram Pikante honingpinda's",
+        "amount": "20"
+      },
+      {
+        "name": "gram Verse udonnoedels",
+        "amount": "400"
+      },
+      {
+        "name": "bakje(s) Pindakaas",
+        "amount": "2"
+      },
+      {
+        "name": "zakje(s) Gele currykruiden",
+        "amount": "1"
+      },
+      {
+        "name": "Sojasaus",
+        "amount": "20 ml"
+      },
+      {
+        "name": "gram Vegetarische kroepoek",
+        "amount": "25"
+      },
+      {
+        "name": "Zonnebloemolie",
+        "amount": "1.5 el"
+      },
+      {
+        "name": "naar smaak Peper en zout",
+        "amount": ""
+      },
+      {
+        "name": "[Zoutarme] ketjap manis",
+        "amount": "2 el"
+      },
+      {
+        "name": "Witte balsamicoazijn",
+        "amount": "1 el"
+      },
+      {
+        "name": "Honing [of plantaardig alternatief]",
+        "amount": "1 tl"
+      }
+    ],
+    "steps": [
+      {
+        "title": "1 Stap 1",
+        "items": [
+          "Breng ruim water aan de kook in een steelpan met deksel voor de eieren. Pers de knoflook of snijd fijn. Rasp de gember met een fijne rasp. Verwijder de zaadlijsten van de rode peper en snijd fijn. Kook de eieren 5 - 8 minuten in de steelpan. Laat de eieren schrikken onder koud water en pel ze."
+        ]
+      },
+      {
+        "title": "2 Stap 2",
+        "items": [
+          "Hak ¼ van de pikante honingpinda’s fijn. Meng in een kom 1/3 van de gele currykruiden, de fijngehakte pinda’s en 1 el water per persoon. Voeg ondertussen de eieren toe aan de kom met het pindamengsel en meng zorgvuldig. Dek de kom af met plasticfolie en bewaar apart."
+        ]
+      },
+      {
+        "title": "3 Stap 3",
+        "items": [
+          "Kook ruim water in een pan met deksel voor de sperziebonen. Verwijder de steelaanzet van de sperziebonen en snijd in drie gelijke stukken. Snijd de komkommer in halve plakken. Meng in een saladekom de honing met de witte balsamicoazijn. Roer de komkommer door de dressing, breng op smaak met peper en zout en zet apart."
+        ]
+      },
+      {
+        "title": "4 Stap 4",
+        "items": [
+          "Kook de sperziebonen, afgedekt, in 3 - 4 minuten gaar. Voeg de verse udonnoedels toe aan de sperziebonen en kook nog 1 minuut. Giet daarna af en laat uitstomen zonder deksel. Verhit de zonnebloemolie in een wok of hapjespan met deksel. Bak de knoflook, gember, rode peper en overige currykruiden 1 - 2 minuten op middelhoog vuur. Tip: Let op: de rode peper is pittig! Houd je daar niet van of eten er kinderen mee? Voeg dan minder toe of serveer apart."
+        ]
+      },
+      {
+        "title": "5 Stap 5",
+        "items": [
+          "Voeg de pindakaas, sojasaus, ketjap en 3 el water per persoon toe aan de pan. Zet het vuur hoog en roer goed door elkaar. Voeg dan de sperziebonen en de noedels toe. Roerbak 2 - 3 minuten op middelhoog vuur. Tip: 1. Let jij op je zoutinname? Voeg dan de helft van de sojasaus toe. Wie wil kan na het serveren eventueel naar smaak meer toevoegen. 2. Voeg eventueel nog wat water toe als het geheel te droog lijkt."
+        ]
+      },
+      {
+        "title": "6 Stap 6",
+        "items": [
+          "Verdeel de noedels met sperziebonen over de borden. Bestrooi met de overige honingpinda’s en serveer met de curry-eieren, de komkommersalade en de kroepoek."
+        ]
+      }
+    ],
+    "source": "https://www.hellofresh.nl/recipes/pittige-roerbak-met-udonnoedels-en-gemarineerde-eieren-61debfd60784ee24682a249c"
   },
   {
     "title": "Rijstbowl met gebakken ei en zoete Aziatische saus",
@@ -3261,7 +3641,88 @@
     "tags": [
       "Veggie"
     ],
-    "image": "/receptenboek/assets/images/verse-conchiglie-met-mozzarella-uit-de-oven.jpg"
+    "image": "/receptenboek/assets/images/verse-conchiglie-met-mozzarella-uit-de-oven.jpg",
+    "ingredients": [
+      {
+        "name": "stuk(s) Ui",
+        "amount": "1"
+      },
+      {
+        "name": "stuk(s) Knoflookteen",
+        "amount": "1"
+      },
+      {
+        "name": "stuk(s) Paprika",
+        "amount": "1"
+      },
+      {
+        "name": "zakje(s) Midden-Oosterse kruidenmix",
+        "amount": "1"
+      },
+      {
+        "name": "gram Verse conchiglie",
+        "amount": "250"
+      },
+      {
+        "name": "bol(len) Mozzarella",
+        "amount": "1"
+      },
+      {
+        "name": "gram Rode cherrytomaten",
+        "amount": "250"
+      },
+      {
+        "name": "gram Passata",
+        "amount": "200"
+      },
+      {
+        "name": "gram Smokey tomatenketchup",
+        "amount": "60"
+      },
+      {
+        "name": "gram Vers basilicum",
+        "amount": "5"
+      },
+      {
+        "name": "naar smaak Peper en zout",
+        "amount": ""
+      },
+      {
+        "name": "stuk(s) Zoutarm groentebouillonblokje",
+        "amount": "½"
+      },
+      {
+        "name": "Olijfolie",
+        "amount": "1 el"
+      }
+    ],
+    "steps": [
+      {
+        "title": "1 Stap 1",
+        "items": [
+          "Verwarm de oven voor op 220 graden. Breng ruim water aan de kook in een pan met deksel voor de conchiglie en verkruimel 1/4 bouillonblokje per persoon boven de pan.Snipper de ui. Pers de knoflook of snijd fijn. Snijd de paprika in blokjes."
+        ]
+      },
+      {
+        "title": "2 Stap 2",
+        "items": [
+          "Verhit 1/2 el olijfolie per persoon in een hapjespan en fruit de ui en knoflook 2 minuten op middelhoog vuur. Voeg de paprika en Midden-Oosterse kruiden toe en bak 4 minuten mee. Kook de conchiglie 4 - 5 minuten, en giet daarna af. Scheur ondertussen de mozzarella in kleine stukken en halveer de cherrytomaten."
+        ]
+      },
+      {
+        "title": "3 Stap 3",
+        "items": [
+          "Meng de cherrytomaten en de passata door de smaakmakers in de hapjespan en verwarm het geheel nog 2 minuten. Schep de conchiglie erdoor en breng op smaak met peper en zout. Verdeel de pasta over een ovenschaal en leg de stukjes mozzarella erop. Besprenkel met de smokey tomatenketchup. Bak de ovenschotel 5 minuten in de oven, of totdat de mozzarella is gesmolten."
+        ]
+      },
+      {
+        "title": "4 Stap 4",
+        "items": [
+          "Pluk de blaadjes van de basilicum en hak ze grof. Verdeel de pasta over de borden en garneer met het basilicum."
+        ]
+      }
+    ],
+    "source": "https://www.hellofresh.nl/recipes/verse-conchiglie-met-mozzarella-uit-de-oven-60812d4ceae7ff4d565dd162"
   },
   {
     "title": "Zelfgemaakte bruschetta-burgers met balsamico-aardappeltjes en komkommersalade",
