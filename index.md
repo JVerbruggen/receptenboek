@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Receptenboek 2025
+title: Receptenboek 2026
 ---
 
 <style>
@@ -174,7 +174,7 @@ img:not(.recipe-card-image) {
 }
 </style>
 
-# Receptenboek 2025
+# Receptenboek 2026
 
 *Laatst bijgewerkt: {{ site.time | date: "%B %d, %Y" }}*
 
